@@ -1,1 +1,1 @@
-# discord-shuka-bot
+# Shuka
