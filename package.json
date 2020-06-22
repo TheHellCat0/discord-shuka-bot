@@ -1,1 +1,31 @@
-
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "Shuka",
+  "version": "1.0.0",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "canvas": "^2.4.1",
+    "chalk": "^2.4.2",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.2.0",
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": " "
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "shuka", 
+    "express"
+  ]
+}
