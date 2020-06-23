@@ -10,7 +10,7 @@
 [![Versiyon](https://img.shields.io/github/package-json/v/TheHellCat0/discord-shuka-bot?color=ff7700&logo=Shuka&style=for-the-badge)](https://github.com/TheHellCat0/discord-shuka-bot/blob/master/package.json)
 
 <p align="center">
-  <a href="#overview">Lisans</a>
+  <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/LICENSE">Lisans</a>
   •
   <a href="#installation">Installation</a>
   •
