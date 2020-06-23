@@ -5,4 +5,6 @@
 <a>
 <img src="https://img.shields.io/github/license/TheHellCat0/discord-shuka-bot?style=flat-square" alt="MIT">
 </a>
-[![<3 ile yapıldı](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://bit.ly/2yr0Mkl) 
+[![<3 ile yapıldı](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://bit.ly/2yr0Mkl)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) 
