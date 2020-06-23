@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/LICENSE">Lisans</a>
   •
-  <a href="#installation">Installation</a>
+  <a href="https://bit.ly/2yr0Mkl">Davet Linki</a>
   •
   
 </p>
