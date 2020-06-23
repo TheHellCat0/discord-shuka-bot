@@ -17,5 +17,5 @@
 <a href="#Komutlar">Komut Listesi</a>
 </p>
 
-#Komutlar
+# Komutlar
  
