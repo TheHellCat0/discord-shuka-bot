@@ -18,4 +18,7 @@
 </p>
 
 # Komutlar
- 
+
+| s.animeara||kitsuda anime ararsın|
+|--|
+ | |
