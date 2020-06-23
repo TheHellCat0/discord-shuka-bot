@@ -14,6 +14,8 @@
   •
   <a href="https://bit.ly/2yr0Mkl">Davet Linki</a>
   •
-<a href="#komutlar">Komutlar</a>
+<a href="#Komutlar">Komut Listesi</a>
 </p>
+
+#Komutlar
  
