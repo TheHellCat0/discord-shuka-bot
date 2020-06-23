@@ -1,0 +1,23 @@
+      .widget{
+    display: inline-flex;
+    padding: 2px 7px;
+    border-radius: 4px;
+    color: #fff;
+    user-select: none;
+    margin-right: 5px;
+  }
+  
+  .widget-text{
+    background: #263238;
+    float: left;
+    margin: -2px -7px;
+    padding: 2px 8px;
+    border-radius: 4px 0px 0px 4px;
+    margin-right: 7px;
+  }
+  
+  .widget-resim img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+  }
