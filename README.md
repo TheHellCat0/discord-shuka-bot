@@ -1,7 +1,7 @@
 
 ![Karino Shuka](https://i.imgur.com/wNS7tPe.gif)
 # Discord Shuka Bot
-<h4 align="center">Tamamen Türkçe Anime Temalı Moderasyon ve Eğlence Discord botu.</h4>
+<h4 align="center">Tamamen Türkçe Anime Temalı Eğlence ve Moderasyon botu.</h4>
 
 [![discord.js](https://img.shields.io/badge/discord-js-ff7700.svg)](https://discord.js.org) 
 [![javascript](https://img.shields.io/github/languages/top/TheHellCat0/discord-shuka-bot?color=ff7700&logo=shuka)](https://bit.ly/2yr0Mkl)
@@ -14,6 +14,6 @@
   •
   <a href="https://bit.ly/2yr0Mkl">Davet Linki</a>
   •
-  
+<a href="#komutlar">Komutlar</a>
 </p>
  
