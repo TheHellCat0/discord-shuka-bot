@@ -21,6 +21,8 @@
 
 ### Komutlar
 
-| s.animeara|kitsuda anime ararsın|
-|-|
- | |
+|      Komut    |  Açıklama | Kullanım Örneği |
+| :------------ |:---------------:| -----:|
+| s.animeara   | Kitsu'da Anime ararsın | s.animeara Darwin's Game|
+| s.mangaara    | Kitsu'da Manga ararsın       |   s.mangaara Darwin's Game|
+| s.myanimelist| MyAnimeList'de Profiline bakarsın        |   s.myanimelist TheHellCat|
