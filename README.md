@@ -1,10 +1,3 @@
-<div class="well">
-    <h4>title</h4>
-    <ul class="nav nav-list">
-    <li>h</li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    </ul>
-</div>
+<a href="https://www.patreon.com/Red_Devs">
+    <img src="https://img.shields.io/badge/Support-Red!-yellow.svg" alt="Support Red on Patreon!">
+  </a>
