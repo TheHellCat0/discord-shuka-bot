@@ -1,6 +1,8 @@
 
 ![Karino Shuka](https://i.imgur.com/wNS7tPe.gif)
-# Discord Shuka Bot
+ Discord Shuka Bot
+=====================
+
 <h4 align="center">Tamamen Türkçe Anime Temalı Eğlence ve Moderasyon botu.</h4>
 
 [![discord.js](https://img.shields.io/badge/discord-js-ff7700.svg)](https://discord.js.org) 
@@ -17,8 +19,8 @@
 <a href="#Komutlar">Komut Listesi</a>
 </p>
 
-# Komutlar
+### Komutlar
 
-| s.animeara||kitsuda anime ararsın|
-|--|
+| s.animeara|kitsuda anime ararsın|
+|-|
  | |
