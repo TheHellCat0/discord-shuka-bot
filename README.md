@@ -1,1 +1,3 @@
-<link href="github-widget/github-widget.css" rel="stylesheet" type="text/css" />
+<span class="widget" style="background: #ff7700;">
+ <span class="widget-text">Selam</span>Aleyküm Selam</span>
+ 
