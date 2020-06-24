@@ -17,12 +17,21 @@
   <a href="https://bit.ly/2yr0Mkl">Davet Linki</a>
   •
 <a href="#Komutlar">Komut Listesi</a>
-  •
-<a href="#Eğlence-14">Eğlence</a>
+  
 </p>
 
  Komutlar
 -------------
+
+<p align="center">
+  
+<a href="#Eğlence-14">Eğlence</a>
+  •
+<a href="#Bot-5">Bot</a>
+•
+<a href="#Yetkili-15">Yetkili</a>
+•
+</p><a href="#Kullanıcı-15">Kullanıcı</a>
 
 # Eğlence [14]
 
