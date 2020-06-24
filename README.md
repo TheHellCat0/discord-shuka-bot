@@ -29,7 +29,7 @@
   •
 <a href="#Bot-5">Bot</a>
 •
-<a href="#Yetkili-15">Yetkili</a>
+<a href="#Yetkili-11">Yetkili</a>
 •
 </p><a href="#Kullanıcı-15">Kullanıcı</a>
 
