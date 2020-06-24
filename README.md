@@ -51,7 +51,7 @@
 |s.davet|Botun davet linkini atar. |YOK|
 |s.komutsayısı|Bottaki toplam komut sayısını atar|YOK|
 
-### Yetkili
+### Yetkili [11] 
 
 |Komut|Açıklama|Kullanım Örneği|
 |----|----|----|
@@ -63,5 +63,8 @@
 |s.shuka-nick|Botun Sunucudaki takma adını ayarlar|s.shuka-nick (nick) |
 |s.sa-as|Birisi selam verdiğinde bot selam verir|s.sa-as aç \ s.sa-as kapat|
 |s.emojili-sa-as|Birisi selam verdiğinde bot mesajına A S ile tepki verir|s.emojili-sa-as aç \ s.emojili-sa-as kapat|
+|s.otorol|Birisi sunucuya katıldığında otomatik verilecek rolü, kanalı ve mesajı ayarlarsın|s.otorol-rolü (rol etiketi) \ s.otorol-kanalı (kanal etiketi) \ s.otorol-mesajı (kanala gönderilecek mesaj) |
+|s.reklam-taraması|Kullanıcı adı ve Oynuyır kısmında reklam içeren kullanıcıları tarar|YOK|
+|s.link-engel|Sunucuya birisi link atmaya çalıştığında atmasını engeller|s.link-engel aç \ s.link-engel kapat|
 
 
