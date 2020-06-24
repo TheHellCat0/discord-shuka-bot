@@ -19,7 +19,7 @@
 <a href="#Komutlar">Komut Listesi</a>
 </p>
 
-### Komutlar
+ Komutlar
 -------------
 
 ### Eğlence [14] 
@@ -67,4 +67,22 @@
 |s.reklam-taraması|Kullanıcı adı ve Oynuyır kısmında reklam içeren kullanıcıları tarar|YOK|
 |s.link-engel|Sunucuya birisi link atmaya çalıştığında atmasını engeller|s.link-engel aç \ s.link-engel kapat|
 
+### Kullanıcı
 
+|Komut|Açıklama|Kullanım Örneği|
+|----|----|----|
+|s.avatar|Etiketlediğin kişinin Avatarını atar|s.avatar \ s.avatar (etiket) |
+|s.sunucuikon|Sunucunun İkonunu atar|YOK|
+|s.yetkilerim|Sunucudaki yetkilerine bakarsın|YOK|
+|s.roller|sunucudaki tüm rollere bakarsın|YOK|
+|s.çeviri|Yandex çeviri kullanarak kelimeyi istediğin file çevirirsin|s.çeviri hello tr|
+|s.youtube|YouTube'da video araması yaparsın|s.youtube (video adı) |
+|s.sunucubilgi|Sunucu hakkında bilgi verir|YOK|
+|s.wikipedia|wikipediada arama yaparsın|s.wikipedia (kelime) |
+|s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
+|s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: × Toplama: + Çıkartma: -) |
+|s.tenor|Tenor'da gif ararsın|s.tenor (gif adı) |
+|s.giphy|Giphy'de gif ararsın|s.giphy (gif adı) |
+|s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin) |
+|s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt|(emoji)|
+|s.emojibilgi|Emoji hakkında bilgi verir|s.emojibilgi (emoji) |
