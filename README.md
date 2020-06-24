@@ -17,6 +17,8 @@
   <a href="https://bit.ly/2yr0Mkl">Davet Linki</a>
   •
 <a href="#Komutlar">Komut Listesi</a>
+  •
+<a href="###Kullanıcı">Kullanıcı</a>
 </p>
 
  Komutlar
@@ -67,7 +69,7 @@
 |s.reklam-taraması|Kullanıcı adı ve Oynuyır kısmında reklam içeren kullanıcıları tarar|YOK|
 |s.link-engel|Sunucuya birisi link atmaya çalıştığında atmasını engeller|s.link-engel aç \ s.link-engel kapat|
 
-### Kullanıcı
+### Kullanıcı [15] 
 
 |Komut|Açıklama|Kullanım Örneği|
 |----|----|----|
