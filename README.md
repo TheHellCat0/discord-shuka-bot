@@ -18,7 +18,7 @@
   •
 <a href="#Komutlar">Komut Listesi</a>
   •
-<a href="#Eğlence [14] ">Kullanıcı</a>
+<a href="#Eğlence [14]">Eğlence</a>
 </p>
 
  Komutlar
