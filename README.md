@@ -50,7 +50,7 @@
 |s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 |s.randomemoji|discordemoji.com'da emoji ararsın|YOK|
-|striggered|Etiketlediğin kişiye trigger efekti ekler|s.triggered @Shuka|
+|s.triggered|Etiketlediğin kişiye trigger efekti ekler|s.triggered @Shuka|
 
 # Bot [5]
 
