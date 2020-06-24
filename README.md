@@ -21,8 +21,19 @@
 
 ### Komutlar
 
-|      Komut    |  Açıklama | Kullanım Örneği |
+|      Komut    |  Açıklama | Kullanım Örneği  |
 | :------------ |:---------------:| -----:|
-| s.animeara   | Kitsu'da Anime ararsın | s.animeara Darwin's Game|
-| s.mangaara    | Kitsu'da Manga ararsın       |   s.mangaara Darwin's Game|
-| s.myanimelist| MyAnimeList'de Profiline bakarsın        |   s.myanimelist TheHellCat|
+| s.animeara   |  Anime Bilgilerini ararsın | s.animeara (anime adı) |
+| s.mangaara    |  Manga Bilgilerini ararsın       |   s.mangaara (manga adı) |
+|s.animecover   |   Yazdığın Cover Fotoğrafını alırsın.     | s.animecover (anime adı) |
+| s.myanimelist| MyAnimeList'de Profiline bakarsın        |   s.myanimelist (m.a.l. kullanıcı adı) |
+|s.ascii|  Yazdığın metini ascii formatına dönüştürür|s.ascii (metin) |
+|s.yazıtura|Japon parasi ile yazı tura atarsın|s.yazıtura (yazı veya tura) |
+|s.öp|Etiketlediğin kişiyi öpersin|s.öp @Shuka|
+|s.8ball|Bota soru sorarsın|s.8ball (sorun) |
+|s.rusruleti|Rus ruleti oynarsın|YOK|
+|s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello @*The-HellCat |
+|s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
+|s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
+|s.randomemoji|discordemoji.com'da emoji ararsın|YOK|
+||||
