@@ -20,6 +20,9 @@
 </p>
 
 ### Komutlar
+-------------
+
+### Eğlence [14] 
 
 |      Komut    |  Açıklama | Kullanım Örneği  |
 | :------------ |:---------------:| -----:|
@@ -36,4 +39,28 @@
 |s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 |s.randomemoji|discordemoji.com'da emoji ararsın|YOK|
-||||
+|striggered|Etiketlediğin kişiye trigger efekti ekler|s.triggered @Shuka|
+
+### Bot [5]
+
+|Komut|Açıklama|Kullanım Örneği|
+|----|---|---|
+|s.çalışmasüresi|Botun aktif olduğu zamanı gösterir|YOK|
+|s.ping|Botun gecikmesini ölçer|YOK|
+|s.shuka-bilgi|Botun bilgilerini gösterir yapımcı,oluşturulma tarihi vb |YOK|
+|s.davet|Botun davet linkini atar. |YOK|
+|s.komutsayısı|Bottaki toplam komut sayısını atar|YOK|
+
+### Yetkili
+
+|Komut|Açıklama|Kullanım Örneği|
+|----|----|----|
+|s.sil|Belirlediğin miktarda mesajı siler max 100 min 2|s.sil (silinecek mesaj sayısı) |
+|s.yaz|Yazdığın metini bota yazdırır|s.yaz (metin) |
+|s.oylama|Emojili ile oylama yaparsın|s.oylama (metin) |
+|s.log|Mesaj silme, Rol silme, Rol oluşturma, Kanal silme, Kanal oluşturma yapıldığında belirlenen kanala atar|YOK|
+|s.shuka-sil|Botun Kanala attığı tüm mesajları siler|YOK|
+|s.shuka-nick|Botun Sunucudaki takma adını ayarlar|s.shuka-nick (nick) |
+
+
+
