@@ -18,13 +18,13 @@
   •
 <a href="#Komutlar">Komut Listesi</a>
   •
-<a href="#Kullanıcı">Kullanıcı</a>
+<a href="#Eğlence [14] ">Kullanıcı</a>
 </p>
 
  Komutlar
 -------------
 
-### Eğlence [14] 
+# Eğlence [14]
 
 |      Komut    |  Açıklama | Kullanım Örneği  |
 | :------------ |:---------------:| -----:|
@@ -43,7 +43,7 @@
 |s.randomemoji|discordemoji.com'da emoji ararsın|YOK|
 |striggered|Etiketlediğin kişiye trigger efekti ekler|s.triggered @Shuka|
 
-### Bot [5]
+# Bot [5]
 
 |Komut|Açıklama|Kullanım Örneği|
 |----|---|---|
@@ -53,7 +53,7 @@
 |s.davet|Botun davet linkini atar. |YOK|
 |s.komutsayısı|Bottaki toplam komut sayısını atar|YOK|
 
-### Yetkili [11] 
+# Yetkili [11] 
 
 |Komut|Açıklama|Kullanım Örneği|
 |----|----|----|
@@ -69,7 +69,7 @@
 |s.reklam-taraması|Kullanıcı adı ve Oynuyır kısmında reklam içeren kullanıcıları tarar|YOK|
 |s.link-engel|Sunucuya birisi link atmaya çalıştığında atmasını engeller|s.link-engel aç \ s.link-engel kapat|
 
-### Kullanıcı [15] 
+# Kullanıcı [15] 
 
 |Komut|Açıklama|Kullanım Örneği|
 |----|----|----|
