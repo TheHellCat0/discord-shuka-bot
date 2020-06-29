@@ -1,5 +1,5 @@
 
-![Karino Shuka](https://i.imgur.com/wNS7tPe.gif)
+![Karino Shuka](https://i.imgur.com/hQL1Wjr.gif)
  Discord Shuka Bot
 =====================
 
