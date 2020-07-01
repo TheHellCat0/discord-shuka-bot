@@ -10,7 +10,8 @@
 [![MIT](https://img.shields.io/github/license/TheHellCat0/discord-shuka-bot?style=flat-square)](https://github.com/TheHellCat0/discord-shuka-bot/blob/master/LICENSE) 
 [![<3 ile yapıldı](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://bit.ly/2yr0Mkl) 
 [![Versiyon](https://img.shields.io/github/package-json/v/TheHellCat0/discord-shuka-bot?color=ff7700&logo=Shuka&style=for-the-badge)](https://github.com/TheHellCat0/discord-shuka-bot/blob/master/package.json)
- 
+ [![owner](https://img.shields.io/badge/%3C%2F%3E-*The--HellCat%237528-%23ffed00) 
+
 <p align="center">
   <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/LICENSE">Lisans</a>
   •
