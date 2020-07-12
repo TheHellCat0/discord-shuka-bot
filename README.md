@@ -42,7 +42,7 @@
 
 # Eğlence [14]
 
-|      Komut    |  Açıklama | Kullanım Örneği  |
+|      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
 | s.animeara   |  Anime Bilgilerini ararsın | s.animeara (anime adı) |
 | s.mangaara    |  Manga Bilgilerini ararsın       |   s.mangaara (manga adı) |
@@ -61,7 +61,7 @@
 
 # Bot [5]
 
-|Komut|Açıklama|Kullanım Örneği|
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|---|---|
 |s.çalışmasüresi|Botun aktif olduğu zamanı gösterir|YOK|
 |s.ping|Botun gecikmesini ölçer|YOK|
@@ -71,7 +71,7 @@
 
 # Yetkili [11] 
 
-|Komut|Açıklama|Kullanım Örneği|
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 2|s.sil (silinecek mesaj sayısı) |
 |s.yaz|Yazdığın metini bota yazdırır|s.yaz (metin) |
@@ -87,7 +87,7 @@
 
 # Kullanıcı [15] 
 
-|Komut|Açıklama|Kullanım Örneği|
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
 |s.avatar|Etiketlediğin kişinin Avatarını atar|s.avatar \ s.avatar (etiket) |
 |s.sunucuikon|Sunucunun İkonunu atar|YOK|
