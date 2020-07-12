@@ -2,30 +2,66 @@
   "//1": "describes your app and its dependencies",
   "//2": "https://docs.npmjs.com/files/package.json",
   "//3": "updating this file will download and update your packages",
-  "name": "Shuka",
-  "version": "1.0.0",
+  "name": "shuka-beta",
+  "version": "0.0.1",
   "description": "A simple Node app built on Express, instantly up and running.",
-  "main": "bot.js",
+  "main": "shuka.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node shuka.js"
   },
   "dependencies": {
-    "canvas": "^2.4.1",
-    "chalk": "^2.4.2",
+    "ascii-table": "^0.0.9",
+    "axios": "^0.19.2",
+    "chalk": "^4.1.0",
+    "chance": "^1.1.6",
+    "cheerio": "^1.0.0-rc.3",
     "common-tags": "^1.8.0",
+    "custom-translate": "^2.2.8",
+    "dblapi.js": "^2.4.0",
+    "discord-paginationembed": "^1.0.3",
     "discord.js": "^12.2.0",
-    "express": "^4.16.4"
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "figlet": "^1.4.0",
+    "fs": "^0.0.2",
+    "get-ipinfo": "^1.0.0",
+    "gifencoder": "^2.0.1",
+    "google-images": "^2.1.0",
+    "hastebin-gen": "^2.0.5",
+    "http": "^0.0.0",
+    "jimp": "^0.14.0",
+    "kitsu.js": "^2.0.0",
+    "lowdb": "^1.0.0",
+    "math-expression-evaluator": "^1.2.22",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.2.2",
+    "mongoose": "^5.9.22",
+    "morgan": "^1.10.0",
+    "node-superfetch": "^0.1.10",
+    "pokedex-api": "^1.1.2",
+    "quick.db": "^7.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "request-promise-native": "^1.0.8",
+    "snekfetch": "^4.0.4",
+    "string-similarity": "^4.0.1",
+    "superagent": "^5.3.1",
+    "svo-client": "^1.0.8",
+    "twemoji": "^13.0.0",
+    "wikijs": "^6.0.0",
+    "webshot": "^0.18.0",
+    "path": "^0.12.7",
+    "random-number": "^0.0.9"
   },
   "engines": {
     "node": "12.x"
   },
   "repository": {
-    "url": " "
+    "url": "https://glitch.com/edit/#!/hello-express"
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "node",
-    "shuka", 
     "express"
   ]
 }
