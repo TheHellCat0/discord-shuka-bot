@@ -13,6 +13,9 @@
 ![owner](https://img.shields.io/badge/%3C%2F%3E-*The--HellCat%237528-%23ffed00)
 
 <p align="center">
+ 
+  <a href="http://bit.ly/shuka-vote">Oy Ver</a>
+  •
   <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/LICENSE">Lisans</a>
   •
   <a href="https://bit.ly/2yr0Mkl">Davet Linki</a>
