@@ -15,6 +15,8 @@
 
 <p align="center">
  
+ <a href="https://top.gg/bot/669179772575940629">D.B.L.</a>
+  •
   <a href="http://bit.ly/shuka-vote">Oy Ver</a>
   •
   <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/LICENSE">Lisans</a>
