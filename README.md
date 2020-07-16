@@ -10,7 +10,7 @@
 [![MIT](https://img.shields.io/github/license/TheHellCat0/discord-shuka-bot?style=flat-square)](https://github.com/TheHellCat0/discord-shuka-bot/blob/master/LICENSE) 
 [![<3 ile yapıldı](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://bit.ly/2yr0Mkl) 
 [![Versiyon](https://img.shields.io/github/package-json/v/TheHellCat0/discord-shuka-bot?color=ff7700&logo=Shuka&style=for-the-badge)](https://github.com/TheHellCat0/discord-shuka-bot/blob/master/package.json)
-![Widget](https://top.gg/api/widget/owner/669179772575940629.png)
+![owner](https://top.gg/api/widget/owner/669179772575940629.png?leftcolor=ff7700&rightcolor=af1111&righttextcolor=fff800&lefttextcolor=0600ff)
 
 <p align="center">
  
