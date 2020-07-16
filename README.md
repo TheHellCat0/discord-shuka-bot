@@ -11,7 +11,7 @@
 [![<3 ile yapıldı](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://bit.ly/2yr0Mkl) 
 [![Versiyon](https://img.shields.io/github/package-json/v/TheHellCat0/discord-shuka-bot?color=ff7700&logo=Shuka&style=for-the-badge)](https://github.com/TheHellCat0/discord-shuka-bot/blob/master/package.json)
 ![owner](https://img.shields.io/badge/%3C%2F%3E-*The--HellCat%237528-%23ffed00)
-![Widget](https://top.gg/api/widget/669179772575940629.png)
+![Widget](https://top.gg/api/widget/owner/437187116003491841.png)
 
 <p align="center">
  
