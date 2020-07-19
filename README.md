@@ -4,7 +4,9 @@
 =====================
 
 <h4 align="center">Tamamen Türkçe Anime Temalı Eğlence ve Moderasyon botu.</h4>
-Prefixler = `s.,shuka,@Shuka#9890 yada 🍙`
+
+|Prefixler = |`s.,shuka,@Shuka#9890 yada 🍙`|
+|----|----|----
 [![javascript](https://img.shields.io/github/languages/top/TheHellCat0/discord-shuka-bot?color=ff7700&logo=shuka)](https://bit.ly/2yr0Mkl)
 [![MIT](https://img.shields.io/github/license/TheHellCat0/discord-shuka-bot?style=flat-square)](https://github.com/TheHellCat0/discord-shuka-bot/blob/master/LICENSE) 
 [![<3 ile yapıldı](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://bit.ly/2yr0Mkl) 
