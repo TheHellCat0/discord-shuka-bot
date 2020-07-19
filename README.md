@@ -48,7 +48,7 @@
 | s.animeara   |  Anime Bilgilerini ararsın | s.animeara (anime adı) |
 | s.mangaara    |  Manga Bilgilerini ararsın       |   s.mangaara (manga adı) |
 |s.animecover   |   Yazdığın Cover Fotoğrafını alırsın.     | s.animecover (anime adı) |
-| s.myanimelist| MyAnimeList'de Profiline bakarsın        |   s.myanimelist (m.a.l. kullanıcı adı) |
+| s.myanimelistprofil| MyAnimeList'de Profiline bakarsın        |   s.myanimelistprofil (m.a.l. kullanıcı adı) |
 |s.ascii|  Yazdığın metini ascii formatına dönüştürür|s.ascii (metin) |
 |s.yazıtura|Japon parasi ile yazı tura atarsın|s.yazıtura (yazı veya tura) |
 |s.öp|Etiketlediğin kişiyi öpersin|s.öp @Shuka|
@@ -60,33 +60,34 @@
 |s.randomemoji|discordemoji.com'da emoji ararsın|YOK|
 |s.triggered|Etiketlediğin kişiye trigger efekti ekler|s.triggered @Shuka|
 
-# Bot [5]
+# Bot [6]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|---|---|
 |s.çalışmasüresi|Botun aktif olduğu zamanı gösterir|YOK|
 |s.ping|Botun gecikmesini ölçer|YOK|
+|s.vote|Botun oy verme sayfasının linkini atar|YOK|
 |s.shuka-bilgi|Botun bilgilerini gösterir yapımcı,oluşturulma tarihi vb |YOK|
 |s.davet|Botun davet linkini atar. |YOK|
 |s.komutsayısı|Bottaki toplam komut sayısını atar|YOK|
 
-# Yetkili [11] 
+# Yetkili [5] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 2|s.sil (silinecek mesaj sayısı) |
 |s.yaz|Yazdığın metini bota yazdırır|s.yaz (metin) |
-|s.oylama|Emojili ile oylama yaparsın|s.oylama (metin) |
-|s.log|Mesaj silme, Rol silme, Rol oluşturma, Kanal silme, Kanal oluşturma yapıldığında belirlenen kanala atar|YOK|
+-|s.oylama|Emojili ile oylama yaparsın|s.oylama (metin) |
+-|s.log|Mesaj silme, Rol silme, Rol oluşturma, Kanal silme, Kanal oluşturma yapıldığında belirlenen kanala atar|YOK|
 |s.shuka-sil|Botun Kanala attığı tüm mesajları siler|YOK|
 |s.shuka-nick|Botun Sunucudaki takma adını ayarlar|s.shuka-nick (nick) |
-|s.sa-as|Birisi selam verdiğinde bot selam verir|s.sa-as aç \ s.sa-as kapat|
-|s.emojili-sa-as|Birisi selam verdiğinde bot mesajına A S ile tepki verir|s.emojili-sa-as aç \ s.emojili-sa-as kapat|
-|s.otorol|Birisi sunucuya katıldığında otomatik verilecek rolü, kanalı ve mesajı ayarlarsın|s.otorol-rolü (rol etiketi) \ s.otorol-kanalı (kanal etiketi) \ s.otorol-mesajı (kanala gönderilecek mesaj) |
+-|s.sa-as|Birisi selam verdiğinde bot selam verir|s.sa-as aç \ s.sa-as kapat|
+-|s.emojili-sa-as|Birisi selam verdiğinde bot mesajına A S ile tepki verir|s.emojili-sa-as aç \ s.emojili-sa-as kapat|
+-|s.otorol|Birisi sunucuya katıldığında otomatik verilecek rolü, kanalı ve mesajı ayarlarsın|s.otorol-rolü (rol etiketi) \ s.otorol-kanalı (kanal etiketi) \ s.otorol-mesajı (kanala gönderilecek mesaj) |
 |s.reklam-taraması|Kullanıcı adı ve Oynuyır kısmında reklam içeren kullanıcıları tarar|YOK|
-|s.link-engel|Sunucuya birisi link atmaya çalıştığında atmasını engeller|s.link-engel aç \ s.link-engel kapat|
+-|s.link-engel|Sunucuya birisi link atmaya çalıştığında atmasını engeller|s.link-engel aç \ s.link-engel kapat|
 
-# Kullanıcı [15] 
+# Kullanıcı [17] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
@@ -97,6 +98,8 @@
 |s.çeviri|Yandex çeviri kullanarak kelimeyi istediğin file çevirirsin|s.çeviri hello tr|
 |s.youtube|YouTube'da video araması yaparsın|s.youtube (video adı) |
 |s.sunucubilgi|Sunucu hakkında bilgi verir|YOK|
+|s.kullanıcıbilgi|Etiketlediğiniz kullanıcı hakkında bilgi verir|s.kullanıcıbilgi (yada etiket) |
+|s.kanalbilgi|Kullandığınız kanal hakkında bilgi verir|YOK|
 |s.wikipedia|wikipediada arama yaparsın|s.wikipedia (kelime) |
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: × Toplama: + Çıkartma: -) |
