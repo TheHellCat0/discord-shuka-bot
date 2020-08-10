@@ -74,10 +74,13 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 |s.davet|Botun davet linkini atar. |YOK|
 |s.komutsayısı|Bottaki toplam komut sayısını atar|YOK|
 
-# Yetkili [5] 
+# Yetkili [8] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
+|s.ban|Belirlediğin kullanıcıyı sunucudan yasaklar|s.ban (etiket) |
+|s.unban|İd si atılan kullanıcının yasağını kaldırır|s.unban (id) |
+|s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick (etiket) |
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 2|s.sil (silinecek mesaj sayısı) |
 |s.yaz|Yazdığın metini bota yazdırır|s.yaz (metin) |
 |-s.oylama|Emojili ile oylama yaparsın|s.oylama (metin) |
