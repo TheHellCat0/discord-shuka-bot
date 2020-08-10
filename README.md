@@ -44,7 +44,7 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 •
 </p><a href="#Kullanıcı-15">Kullanıcı</a>
 
-# Eğlence [14]
+# Eğlence [13]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
@@ -61,7 +61,7 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 |s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 |s.randomemoji|discordemoji.com'da emoji ararsın|YOK|
-|s.triggered|Etiketlediğin kişiye trigger efekti ekler|s.triggered @Shuka|
+
 
 # Bot [6]
 
