@@ -16,8 +16,6 @@ require('child_process').execFile('find', [ 'komutlar/' ], function(err, stdout,
     };
   };
 
-  let jsfile = files.filter(f => f.split(".").pop() === "js");
-  if (jsfile.length <= 0) return console.error(`I didn't found any command. 🙇`);
   
   console.log(`_________________________________${jsfile.length} komut yüklenecek_________________________________
 
@@ -35,19 +33,15 @@ Yükleniyor: ${props.help.name}.`);
       });
     } catch (err) {
       if (err.message === "Cannot read property 'aliases' of undefined") {
-        return console.error(`Hata: module.exports.help or exports.help : ${f}`);
+        return console.error(`Hata: module.exports.help yada exports.help bukunamadı : ${f}`);
      } else if (err.message === "Cannot read property 'aliases' of undefined") {
-        return console.error(`Hata: module.exports.conf or exports.conf : ${f}`);
+        return console.error(`Hata: module.exports.conf yada exports.conf bulunamadı : ${f}`);
       } else {
         return console.error(`Hata: ${f}: ${err}`);
       };
     };
   });
-  console.log(`_________________________________
-${client.commands.array().length} / ${jsfile.length} komut yüklendi!`)
-  
-
-});
+  console.log(`${client.commands.array().length} / ${jsfile.length} komut yüklendi!`)});
 
 client.on("message", async message => {
 
