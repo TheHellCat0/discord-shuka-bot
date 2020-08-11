@@ -116,7 +116,7 @@ client.on("ready", () => {
 const DBL = require("dblapi.js");
 const dbl = new DBL('Yoh sana token', client);
 
-// Optional events
+
 dbl.on('posted', () => {
   console.log('Sunucu bilgisi dbl ye atıldı!');
 })
