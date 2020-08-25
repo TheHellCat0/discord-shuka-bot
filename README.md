@@ -44,19 +44,25 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 •
 </p><a href="#Kullanıcı-15">Kullanıcı</a>
 
-# Eğlence [12]
+# Eğlence [18]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
-| s.animeara   |  Anime Bilgilerini ararsın | s.animeara (anime adı) |
-| s.mangaara    |  Manga Bilgilerini ararsın       |   s.mangaara (manga adı) |
-|s.animecover   |   Yazdığın Cover Fotoğrafını alırsın.     | s.animecover (anime adı) |
-| s.myanimelistprofil| MyAnimeList'de Profiline bakarsın        |   s.myanimelistprofil (m.a.l. kullanıcı adı) |
+|s.animeara   |  Anime Bilgilerini ararsın | s.animeara (anime adı) |
+|s.mangaara    |  Manga Bilgilerini ararsın       |   s.mangaara (manga adı) |
+|s.karakterara  |   Yazdığın anime,manga karakterinin bilgilerini alırsın    | s.karakterara (karakter adı) |
+|s.myanimelistprofil| MyAnimeList'de Profiline bakarsın        |   s.myanimelistprofil (m.a.l. kullanıcı adı) |
 |s.ascii|  Yazdığın metini ascii formatına dönüştürür|s.ascii (metin) |
 |s.yazıtura|Japon parasi ile yazı tura atarsın|s.yazıtura (yazı veya tura) |
-|s.öp|Etiketlediğin kişiyi öpersin|s.öp @Shuka|
+|s.öp|Etiketlediğin kişiyi öpersin|s.öp (etiket) |
+|s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla (etiket) |
+|s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (etiket) |
+|s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (etiket) |
 |s.8ball|Bota soru sorarsın|s.8ball (sorun) |
 |s.rusruleti|Rus ruleti oynarsın|YOK|
+|s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin) |
+|s.yazıdöndür|Yazdığın yazıyı tersçevirir|s.yazıdöndür (metin) |
+|s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü (url) |
 |s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello @*The-HellCat |
 |s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
@@ -110,6 +116,5 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: × Toplama: + Çıkartma: -) |
 |s.tenor|Tenor'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|Giphy'de gif ararsın|s.giphy (gif adı) |
-|s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin) |
 |s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt|(emoji)|
 |s.emojibilgi|Emoji hakkında bilgi verir|s.emojibilgi (emoji) |
