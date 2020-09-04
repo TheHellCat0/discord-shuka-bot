@@ -1,10 +1,7 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
   "name": "shuka-beta",
-  "version": "0.0.1",
-  "description": "A simple Node app built on Express, instantly up and running.",
+  "version": "2.1.0",
+  "description": "Anime 🧡",
   "main": "shuka.js",
   "scripts": {
     "start": "node shuka.js"
@@ -18,16 +15,10 @@
     "common-tags": "^1.8.0",
     "custom-translate": "^2.2.8",
     "dblapi.js": "^2.4.0",
-    "discord-paginationembed": "^1.0.3",
     "discord.js": "^12.2.0",
-    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "figlet": "^1.4.0",
     "fs": "^0.0.2",
-    "get-ipinfo": "^1.0.0",
-    "gifencoder": "^2.0.1",
-    "google-images": "^2.1.0",
-    "hastebin-gen": "^2.0.5",
     "http": "^0.0.0",
     "jimp": "^0.14.0",
     "kitsu.js": "^2.0.0",
@@ -49,7 +40,6 @@
     "svo-client": "^1.0.8",
     "twemoji": "^13.0.0",
     "wikijs": "^6.0.0",
-    "webshot": "^0.18.0",
     "path": "^0.12.7",
     "random-number": "^0.0.9"
   },
@@ -57,7 +47,7 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "url": "https://github.com/TheHellCat0/discord-shuka-bot"
   },
   "license": "Apache-2.0",
   "keywords": [
