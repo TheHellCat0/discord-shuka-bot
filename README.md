@@ -121,3 +121,4 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 |s.giphy|Giphy'de gif ararsın|s.giphy (gif adı) |
 |s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt|(emoji)|
 |s.emojibilgi|Emoji hakkında bilgi verir|s.emojibilgi (emoji) |
+669179772575940629
