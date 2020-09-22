@@ -45,6 +45,7 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 •
 <a href="#Kullanıcı-15">Kullanıcı</a>
 </p>
+
 # Eğlence [19]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
