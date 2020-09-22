@@ -39,7 +39,7 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
   
 <a href="#Eğlence-14">Eğlence</a>
   •
-<a href="#Bot-5">Bot</a>
+<a href="#Bot-6">Bot</a>
 •
 <a href="#Yetkili-11">Yetkili</a>
 •
