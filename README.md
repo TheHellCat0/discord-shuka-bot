@@ -41,7 +41,7 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
   •
 <a href="#Bot-6">Bot</a>
 •
-<a href="#Yetkili-11">Yetkili</a>
+<a href="#Yetkili-8">Yetkili</a>
 •
 <a href="#Kullanıcı-17">Kullanıcı</a>
 </p>
@@ -82,7 +82,7 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 |s.davet|Botun davet linkini atar. |YOK|
 |s.komutsayısı|Bottaki toplam komut sayısını atar|YOK|
 
-# Yetkili [11] 
+# Yetkili [8] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
@@ -100,9 +100,9 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 |-s.otorol|Birisi sunucuya katıldığında otomatik verilecek rolü, kanalı ve mesajı ayarlarsın|s.otorol-rolü (rol etiketi) \ s.otorol-kanalı (kanal etiketi) \ s.otorol-mesajı (kanala gönderilecek mesaj) |
 |s.reklam-taraması|Kullanıcı adı ve Oynuyır kısmında reklam içeren kullanıcıları tarar|YOK|
 |-s.link-engel|Sunucuya birisi link atmaya çalıştığında atmasını engeller|s.link-engel aç \ s.link-engel kapat|
-|s.otorol|Sunucuya giren üyeye otomatik rol verir|s.otorol (rol etiket) |
-|s.otorol-kanalı|Otorol verildikten sonra kanala atılacak metini ayarlar |s.otorol-kanalı (kanal etiket) |
-|s.otorol-mesajı|Otorol verildikten sonra kanala atılacak metini değiştirir|s.otorol-mesajı (metin) |
+|-s.otorol|Sunucuya giren üyeye otomatik rol verir|s.otorol (rol etiket) |
+|-s.otorol-kanalı|Otorol verildikten sonra kanala atılacak metini ayarlar |s.otorol-kanalı (kanal etiket) |
+|-s.otorol-mesajı|Otorol verildikten sonra kanala atılacak metini değiştirir|s.otorol-mesajı (metin) |
 
 # Kullanıcı [17] 
 
