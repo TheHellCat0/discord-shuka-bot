@@ -60,7 +60,7 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 |s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla (etiket) |
 |s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (etiket) |
 |s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (etiket) |
-|s.loli|FBI evine loli gönderir 🙃| 
+|s.loli|FBI evine loli gönderir 🙃| YOK|
 |s.8ball|Bota soru sorarsın|s.8ball (sorun) |
 |s.rusruleti|Rus ruleti oynarsın|YOK|
 |s.resimliyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.resimliyaz (etiket) (metin) |
