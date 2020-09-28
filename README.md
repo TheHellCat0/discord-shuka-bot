@@ -46,7 +46,7 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 <a href="#Kullanıcı-17">Kullanıcı</a>
 </p>
 
-# Eğlence [20]
+# Eğlence [21]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
@@ -61,8 +61,9 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 |s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (etiket) |
 |s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (etiket) |
 |s.loli|FBI evine loli gönderir 🙃| YOK|
-|s.8ball|Bota soru sorarsın|s.8ball (sorun) |
+|s.8ball|Bota soru sorarsın|s.8ball (soru) |
 |s.rusruleti|Rus ruleti oynarsın|YOK|
+|s.mayın-tarlası|Mayın tarlası oynarsın|s.mayın-tarlası (satır) (sütun) (mayın) |
 |s.resimliyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.resimliyaz (etiket) (metin) |
 |s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin) |
 |s.yazıdöndür|Yazdığın yazıyı tersçevirir|s.yazıdöndür (metin) |
