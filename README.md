@@ -68,7 +68,7 @@ Prefixler  = `s.,shuka,@Shuka#9890 yada 🍙`
 |s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin) |
 |s.yazıdöndür|Yazdığın yazıyı tersçevirir|s.yazıdöndür (metin) |
 |s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü (url) |
-|s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello @*The-HellCat |
+|s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello (etiket) |
 |s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 
