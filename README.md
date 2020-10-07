@@ -43,7 +43,7 @@ Destek,İletişim
 
 <p align="center">
   
-<a href="#Eğlence-21">Eğlence</a>
+<a href="#Eğlence-22">Eğlence</a>
   •
 <a href="#Bot-6">Bot</a>
 •
@@ -52,11 +52,12 @@ Destek,İletişim
 <a href="#Kullanıcı-17">Kullanıcı</a>
 </p>
 
-# Eğlence [21]
+# Eğlence [22]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
-|s.animeara   |  Anime Bilgilerini ararsın | s.animeara (anime adı) |
+|s.kitsu|Kitsu'da anime ararsın|s.kitsu (anime adı) |
+|s.animeara   | MyAnimeList'de anime ararsın | s.animeara (anime adı) |
 |s.mangaara    |  Manga Bilgilerini ararsın       |   s.mangaara (manga adı) |
 |s.karakterara  |   Yazdığın anime,manga karakterinin bilgilerini alırsın    | s.karakterara (karakter adı) |
 |s.myanimelistprofil| MyAnimeList'de Profiline bakarsın        |   s.myanimelistprofil (m.a.l. kullanıcı adı) |
