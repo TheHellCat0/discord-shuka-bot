@@ -1,6 +1,6 @@
 
 ![Karino Shuka](https://i.imgur.com/T4Oip9p.gif)
- Discord Shuka Bot
+ <h2 align="center" >Shuka</h2>
 
 <h4 align="center">Tamamen Türkçe Anime Temalı Eğlence ve Moderasyon botu.</h4>
 
