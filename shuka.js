@@ -1,6 +1,5 @@
 const Discord = require('discord.js'),
-      client = new Discord.Client();
-
+client = new Discord.Client();
 process.setMaxListeners(0); 
 client.config = require("./config.js");
 client.commands = new Discord.Collection();
@@ -55,60 +54,28 @@ client.on("message", async message => {
   if (0 !== message.content.indexOf(prefix)) return;
     
   let cmd = client.commands.get(command.slice(prefix.length)) || client.commands.get(client.aliases.get(command.slice(prefix.length)));
-  if (cmd) {
-    if (!message.guild && cmd.conf.guildOnly) return client.embed(message.channel, "Bu Komutu Özel Mesajlarda Kullanamzsın");
-    const conf = client.config.defaultSettings;
-    if (cmd.conf.botPermNeeded && cmd.conf.botPermNeeded.length >= 1) {
-      for (var i in cmd.conf.botPermNeeded) {
-        if (typeof cmd.conf.botPermNeeded[i] !== "string") continue;
-        if (!message.guild.me.hasPermission(cmd.conf.botPermNeeded[i])) {
-          client.embed(message.channel, client.config.botPermNeededMessage.replace(/<\/author\/>/g, message.author).replace(/<\/perm\/>/g, (client.lang && client.lang["PERMISSIONS_" + cmd.conf.botPermNeeded[i]]) ? client.lang["PERMISSIONS_" + cmd.conf.botPermNeeded[i]] : cmd.conf.botPermNeeded[i]));
-          return;
-        };
-      };
-    };
-    if (cmd.conf.memberPermNeeded && cmd.conf.memberPermNeeded.length >= 1) {
-      for (var i in cmd.conf.memberPermNeeded) {
-        if (typeof cmd.conf.memberPermNeeded[i] !== "string") continue;
-        if (!message.member.hasPermission(cmd.conf.memberPermNeeded[i])) {
-          client.embed(message.channel, client.config.memberPermNeededMessage.replace(/<\/author\/>/g, message.author).replace(/<\/perm\/>/g, (client.lang && client.lang["PERMISSIONS_" + cmd.conf.memberPermNeeded[i]]) ? client.lang["PERMISSIONS_" + cmd.conf.memberPermNeeded[i]] : cmd.conf.memberPermNeeded[i]));
-          return;
-        };
-      };
-    };
-    
+
     try {
       cmd.run(client, message, args);
     } catch (err) {
-      if (client.config.errors.warn_user === true) {
-        const embed = new Discord.MessageEmbed().setDescription(`Hata \`\`${cmd.help.name}\`\`: \`\`\`xlsx\n${err.message}\n\`\`\``).setColor("RANDOM");
-        message.channel.send(embed);
-      };
-      if (client.config.errors.log_channel !== "0") {
-        const _embed_error = new Discord.MessageEmbed().setTitle(`Komut çalıştırılırken hata oluştu: *${cmd.help.name}*.`).addField(err.name, `\`\`\`xlsx\n${err.message}\n\`\`\``).addBlankField(true).setColor('RANDOM').setTimestamp();
-        client.channels.get(client.config.errors.log_channel).send(_embed_error);
-      };
-      if (client.config.errors.warn_console === true) {
-        console.error(err);
-      };
+      
+   const embed = new Discord.MessageEmbed()
+   .setDescription(`Hata \`\`${cmd.help.name}\`\`: \`\`\`js\n${err.message}\n\`\`\``)
+   .setColor("RED");
+   message.channel.send(embed);
+      
+    
     };
     
-    let k = `Kullanan: ${message.author.tag}\nID: ${message.author.id}\nKullanılan Komut: ${cmd.help.name}`;
-    message.guild && (k += `\nServer: ${message.guild.name}\nKanal: ${message.channel.name}`), console.log(`\n${k}\n`);
-  };
 });
 
-client.login(client.config.token)
-
-//-
 client.on("ready", () => {
   client.user.setStatus("idle");
-  //client.user.setActivity("on", {
-   // type: "WATCHING"
-  //  });
+  /*client.user.setActivity("on", {
+    type: "WATCHING"
+   });*/
   console.log(`${client.user.username} aktif edildi!`);
-  console.log(
-    `${client.guilds.cache.size} sunucu ${client.users.cache.size} kullanıcı ${client.channels.cache.size} kanal ${client.emojis.cache.size} emoji`
+  console.log(`${client.guilds.cache.size} sunucu ${client.users.cache.size} kullanıcı ${client.channels.cache.size} kanal ${client.emojis.cache.size} emoji`
   );
 });
 ///
@@ -124,3 +91,4 @@ dbl.on('posted', () => {
 dbl.on('error', e => {
  console.log(`Hata ${e}`);
 })
+client.login(client.config.token)
