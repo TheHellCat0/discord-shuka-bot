@@ -11,8 +11,10 @@ Prefixler
 
 Destek,İletişim 
 
-`Discord : *The-HellCat#0058`
-`E-posta : sup.shukabot@gmail.com`
+```css
+Discord : *The-HellCat#0058
+E-posta : sup.shukabot@gmail.com
+```
 
 [![javascript](https://img.shields.io/github/languages/top/TheHellCat0/discord-shuka-bot?color=ff7700&logo=shuka)](https://bit.ly/2yr0Mkl)
 [![MIT](https://img.shields.io/github/license/TheHellCat0/discord-shuka-bot?style=flat-square)](https://github.com/TheHellCat0/discord-shuka-bot/blob/master/LICENSE) 
