@@ -49,9 +49,9 @@ E-posta : sup.shukabot@gmail.com
   •
 <a href="#Bot-6">Bot</a>
 •
-<a href="#Yetkili-8">Yetkili</a>
+<a href="#Yetkili-7">Yetkili</a>
 •
-<a href="#Kullanıcı-17">Kullanıcı</a>
+<a href="#Kullanıcı-18">Kullanıcı</a>
 </p>
 
 # Eğlence [22]
@@ -93,7 +93,7 @@ E-posta : sup.shukabot@gmail.com
 |s.davet|Botun davet linkini atar. |YOK|
 |s.komutsayısı|Bottaki toplam komut sayısını atar|YOK|
 
-# Yetkili [8] 
+# Yetkili [7] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
@@ -101,7 +101,6 @@ E-posta : sup.shukabot@gmail.com
 |s.unban|İd si atılan kullanıcının yasağını kaldırır|s.unban (id) |
 |s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick (etiket) |
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 2|s.sil (silinecek mesaj sayısı) |
-|s.yaz|Yazdığın metini bota yazdırır|s.yaz (metin) |
 |-s.oylama|Emojili ile oylama yaparsın|s.oylama (metin) |
 |-s.log|Mesaj silme, Rol silme, Rol oluşturma, Kanal silme, Kanal oluşturma yapıldığında belirlenen kanala atar|YOK|
 |s.shuka-sil|Botun Kanala attığı tüm mesajları siler|YOK|
@@ -115,7 +114,7 @@ E-posta : sup.shukabot@gmail.com
 |-s.otorol-kanalı|Otorol verildikten sonra kanala atılacak metini ayarlar |s.otorol-kanalı (kanal etiket) |
 |-s.otorol-mesajı|Otorol verildikten sonra kanala atılacak metini değiştirir|s.otorol-mesajı (metin) |
 
-# Kullanıcı [17] 
+# Kullanıcı [18] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
@@ -123,6 +122,7 @@ E-posta : sup.shukabot@gmail.com
 |s.sunucuikon|Sunucunun İkonunu atar|YOK|
 |s.yetkilerim|Sunucudaki yetkilerine bakarsın|YOK|
 |s.roller|sunucudaki tüm rollere bakarsın|YOK|
+|s.yaz|Yazdığın metini bota yazdırır (everyone here atmaz!) |s.yaz (metin) |
 |s.çeviri|Yandex çeviri kullanarak kelimeyi istediğin file çevirirsin|s.çeviri hello tr|
 |s.youtube|YouTube'da video araması yaparsın|s.youtube (video adı) |
 |s.sunucubilgi|Sunucu hakkında bilgi verir|YOK|
