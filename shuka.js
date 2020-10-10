@@ -32,7 +32,7 @@ Yükleniyor: ${props.help.name}.`);
       });
     } catch (err) {
       if (err.message === "Cannot read property 'aliases' of undefined") {
-        return console.error(`Hata: module.exports.help yada exports.help bukunamadı : ${f}`);
+        return console.error(`Hata: module.exports.help yada exports.help bulunamadı : ${f}`);
      } else if (err.message === "Cannot read property 'aliases' of undefined") {
         return console.error(`Hata: module.exports.conf yada exports.conf bulunamadı : ${f}`);
       } else {
