@@ -49,7 +49,7 @@ E-posta : sup.shukabot@gmail.com
   •
 <a href="#Bot-6">Bot</a>
 •
-<a href="#Yetkili-7">Yetkili</a>
+<a href="#Yetkili-8">Yetkili</a>
 •
 <a href="#Kullanıcı-18">Kullanıcı</a>
 </p>
@@ -93,7 +93,7 @@ E-posta : sup.shukabot@gmail.com
 |s.davet|Botun davet linkini atar. |YOK|
 |s.komutsayısı|Bottaki toplam komut sayısını atar|YOK|
 
-# Yetkili [7] 
+# Yetkili [8] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
@@ -101,6 +101,7 @@ E-posta : sup.shukabot@gmail.com
 |s.unban|İd si atılan kullanıcının yasağını kaldırır|s.unban (id) |
 |s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick (etiket) |
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 2|s.sil (silinecek mesaj sayısı) |
+|s.sabitle|ID'sini attığınız mesajı sabitler|s.sabitle (mesaj ID) |
 |-s.oylama|Emojili ile oylama yaparsın|s.oylama (metin) |
 |-s.log|Mesaj silme, Rol silme, Rol oluşturma, Kanal silme, Kanal oluşturma yapıldığında belirlenen kanala atar|YOK|
 |s.shuka-sil|Botun Kanala attığı tüm mesajları siler|YOK|
