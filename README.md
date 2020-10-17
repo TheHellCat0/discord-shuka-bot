@@ -55,7 +55,8 @@ E-posta : sup.shukabot@gmail.com
 •
 <a href="#Kullanıcı-18">Kullanıcı</a>
 </p>
-# Eğlence [22]
+
+# Anime [7]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
@@ -68,22 +69,16 @@ E-posta : sup.shukabot@gmail.com
 |s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
 
 
-# Eğlence [22]
+# Eğlence [15]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
-|s.kitsu|Kitsu'da anime ararsın|s.kitsu (anime adı) |
-|s.animeara   | MyAnimeList'de anime ararsın | s.animeara (anime adı) |
-|s.mangaara    |  Manga Bilgilerini ararsın       |   s.mangaara (manga adı) |
-|s.karakterara  |   Yazdığın anime,manga karakterinin bilgilerini alırsın    | s.karakterara (karakter adı) |
-|s.myanimelistprofil| MyAnimeList'de Profiline bakarsın        |   s.myanimelistprofil (m.a.l. kullanıcı adı) |
 |s.ascii|  Yazdığın metini ascii formatına dönüştürür|s.ascii (metin) |
 |s.yazıtura|Japon parasi ile yazı tura atarsın|s.yazıtura (yazı veya tura) |
 |s.öp|Etiketlediğin kişiyi öpersin|s.öp (etiket) |
 |s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla (etiket) |
 |s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (etiket) |
 |s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (etiket) |
-|s.loli|FBI evine loli gönderir 🙃| YOK|
 |s.8ball|Bota soru sorarsın|s.8ball (soru) |
 |s.rusruleti|Rus ruleti oynarsın|YOK|
 |s.mayın-tarlası|Mayın tarlası oynarsın|s.mayın-tarlası (satır) (sütun) (mayın) |
@@ -92,7 +87,6 @@ E-posta : sup.shukabot@gmail.com
 |s.yazıdöndür|Yazdığın yazıyı tersçevirir|s.yazıdöndür (metin) |
 |s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü (url) |
 |s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello (etiket) |
-|s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 
 
