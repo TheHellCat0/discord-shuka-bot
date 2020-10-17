@@ -55,6 +55,18 @@ E-posta : sup.shukabot@gmail.com
 •
 <a href="#Kullanıcı-18">Kullanıcı</a>
 </p>
+# Eğlence [22]
+
+|      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
+| :------------ |:---------------:| -----:|
+|s.kitsu|Kitsu'da anime ararsın|s.kitsu (anime adı) |
+|s.animeara  | MyAnimeList'de anime ararsın | s.animeara (anime adı) |
+|s.mangaara |  Manga Bilgilerini ararsın       |   s.mangaara (manga adı) |
+|s.karakterara  |   Yazdığın anime,manga karakterinin bilgilerini alırsın    | s.karakterara (karakter adı) |
+|s.myanimelistprofil| MyAnimeList'de Profiline bakarsın        |   s.myanimelistprofil (m.a.l. kullanıcı adı) |
+|s.loli|FBI evine loli gönderir 🙃| YOK|
+|s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
+
 
 # Eğlence [22]
 
