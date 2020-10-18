@@ -53,7 +53,7 @@ E-posta : sup.shukabot@gmail.com
 •
 <a href="#Yetkili-9">Yetkili</a>
 •
-<a href="#Kullanıcı-18">Kullanıcı</a>
+<a href="#Kullanıcı-17">Kullanıcı</a>
 </p>
 
 # Anime [7]
@@ -124,7 +124,7 @@ E-posta : sup.shukabot@gmail.com
 |-s.otorol-kanalı|Otorol verildikten sonra kanala atılacak metini ayarlar |s.otorol-kanalı (kanal etiket) |
 |-s.otorol-mesajı|Otorol verildikten sonra kanala atılacak metini değiştirir|s.otorol-mesajı (metin) |
 
-# Kullanıcı [18] 
+# Kullanıcı [17] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
@@ -133,7 +133,6 @@ E-posta : sup.shukabot@gmail.com
 |s.yetkilerim|Sunucudaki yetkilerine bakarsın|YOK|
 |s.roller|sunucudaki tüm rollere bakarsın|YOK|
 |s.yaz|Yazdığın metini bota yazdırır (everyone here atmaz!) |s.yaz (metin) |
-|s.çeviri|Yandex çeviri kullanarak kelimeyi istediğin file çevirirsin|s.çeviri hello tr|
 |s.youtube|YouTube'da video araması yaparsın|s.youtube (video adı) |
 |s.sunucubilgi|Sunucu hakkında bilgi verir|YOK|
 |s.kullanıcıbilgi|Etiketlediğiniz kullanıcı hakkında bilgi verir|s.kullanıcıbilgi (yada etiket) |
