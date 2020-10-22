@@ -128,7 +128,7 @@ E-posta : sup.shukabot@gmail.com
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
-|s.avatar|Etiketlediğin kişinin Avatarını atar|s.avatar \ s.avatar (etiket) |
+|s.avatar|Etiketlediğin kişinin Avatarını atar|s.avatar \ s.avatar (etiket - id) |
 |s.sunucuikon|Sunucunun İkonunu atar|YOK|
 |s.yetkilerim|Sunucudaki yetkilerine bakarsın|YOK|
 |s.roller|sunucudaki tüm rollere bakarsın|YOK|
