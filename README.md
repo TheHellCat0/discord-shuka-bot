@@ -53,7 +53,7 @@ E-posta : sup.shukabot@gmail.com
 •
 <a href="#Yetkili-9">Yetkili</a>
 •
-<a href="#Kullanıcı-17">Kullanıcı</a>
+<a href="#Kullanıcı-18">Kullanıcı</a>
 </p>
 
 # Anime [7]
@@ -124,7 +124,7 @@ E-posta : sup.shukabot@gmail.com
 |-s.otorol-kanalı|Otorol verildikten sonra kanala atılacak metini ayarlar |s.otorol-kanalı (kanal etiket) |
 |-s.otorol-mesajı|Otorol verildikten sonra kanala atılacak metini değiştirir|s.otorol-mesajı (metin) |
 
-# Kullanıcı [17] 
+# Kullanıcı [18] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
@@ -141,6 +141,7 @@ E-posta : sup.shukabot@gmail.com
 |s.github|Github'da kullanıcı veya repo araması yaparsın|Örnek: s.github TheHellCat0 discord-shuka-bot |
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: × Toplama: + Çıkartma: -) |
+|s.renkara|Girdiğiniz hex kodunun bilgilerini gösterir|s.renkara (renkkodu)|
 |s.tenor|Tenor'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|Giphy'de gif ararsın|s.giphy (gif adı) |
 |s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt|(emoji)|
