@@ -1,9 +1,8 @@
 
 ![Karino Shuka](https://i.imgur.com/T4Oip9p.gif)
 
-<h4 align="center">Shuka Bot</h4>
+<h1 align="center">Shuka Bot</h1>
 
-=====================
 
 <h4 align="center">Türkiyenin en iyi Anime botu</h4>
 
