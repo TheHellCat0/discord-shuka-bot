@@ -48,7 +48,7 @@ E-posta : sup.shukabot@gmail.com
  
  <a href="#Anime-7">Anime</a>
   • 
-<a href="#Eğlence-15">Eğlence</a>
+<a href="#Eğlence-16">Eğlence</a>
   •
 <a href="#Bot-6">Bot</a>
 •
