@@ -70,7 +70,7 @@ E-posta : sup.shukabot@gmail.com
 |s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
 
 
-# Eğlence [15]
+# Eğlence [16]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
@@ -82,6 +82,7 @@ E-posta : sup.shukabot@gmail.com
 |s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (etiket) |
 |s.8ball|Bota soru sorarsın|s.8ball (soru) |
 |s.rusruleti|Rus ruleti oynarsın|YOK|
+|s.lyrics|İsmini yazdığınız şarkının sözlerini görüntüler|s.lyrics (şarkı adı)|
 |s.mayın-tarlası|Mayın tarlası oynarsın|s.mayın-tarlası (satır) (sütun) (mayın) |
 |s.resimliyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.resimliyaz (etiket) (metin) |
 |s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin) |
