@@ -80,5 +80,5 @@
 |s.spotify|Spotify'dan şarkı dinleyn birinin şarkı bilgilerini görüntüler|s.spotify (etiket) |
 |s.tenor|Tenor'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|Giphy'de gif ararsın|s.giphy (gif adı) |
-|s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt|(emoji)|
+|s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt (emoji)|
 |s.emojibilgi|Emoji hakkında bilgi verir|s.emojibilgi (emoji) |
