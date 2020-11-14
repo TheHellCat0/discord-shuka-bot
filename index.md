@@ -1,62 +1,3 @@
-
-![Karino Shuka](https://i.imgur.com/T4Oip9p.gif)
-
-<h1 align="center">Shuka Bot</h1>
-
-
-<h4 align="center">Türkiyenin en iyi Anime botu</h4>
-
-Prefixler  
-
-`s.,shuka,@Shuka#9890 yada 🍙`
-
-Destek,İletişim 
-
-```css
-Discord : *The-HellCat#0058
-E-posta : sup.shukabot@gmail.com
-```
-
-[![javascript](https://img.shields.io/github/languages/top/TheHellCat0/discord-shuka-bot?color=ff7700&logo=shuka)](https://bit.ly/2yr0Mkl)
-[![MIT](https://img.shields.io/github/license/TheHellCat0/discord-shuka-bot?style=flat-square)](https://github.com/TheHellCat0/discord-shuka-bot/blob/master/LICENSE) 
-[![<3 ile yapıldı](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://bit.ly/2yr0Mkl) 
-[![Versiyon](https://img.shields.io/github/package-json/v/TheHellCat0/discord-shuka-bot?color=ff7700&logo=Shuka&style=for-the-badge)](https://github.com/TheHellCat0/discord-shuka-bot/blob/master/package.json)
-![status](https://top.gg/api/widget/status/669179772575940629.png?leftcolor=ff7700&rightcolor=afr7811&righttextcolor=ffhd77&lefttextcolor=5805k1) 
-![owner](https://top.gg/api/widget/owner/669179772575940629.png?leftcolor=ff7700&rightcolor=af1111&righttextcolor=fff800&lefttextcolor=0600ff)
-![vote](https://top.gg/api/widget/upvotes/669179772575940629.png?leftcolor=ff7700&rightcolor=af1111&righttextcolor=9e82c3&lefttextcolor=d30872)
-![servers](https://top.gg/api/widget/servers/669179772575940629.png?leftcolor=ff7700&rightcolor=af1111&righttextcolor=4d0c43&lefttextcolor=afea22)
-![library](https://top.gg/api/widget/lib/669179772575940629.png?leftcolor=ff7700&rightcolor=af1111&righttextcolor=68fa5d&lefttextcolor=0b4038)
-
-<p align="center">
- 
- <a href="https://top.gg/bot/669179772575940629">D.B.L.</a>
-  •
-  <a href="http://bit.ly/shuka-vote">Oy Ver</a>
-  •
-  <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/LICENSE">Lisans</a>
-  •
-  <a href="https://bit.ly/2yr0Mkl">Davet Linki</a>
-  •
-<a href="#Komutlar">Komut Listesi</a>
-  
-</p>
-
- Komutlar
--------------
-
-<p align="center">
- 
- <a href="#Anime-7">Anime</a>
-  • 
-<a href="#Eğlence-16">Eğlence</a>
-  •
-<a href="#Bot-6">Bot</a>
-•
-<a href="#Yetkili-10">Yetkili</a>
-•
-<a href="#Kullanıcı-19">Kullanıcı</a>
-</p>
-
 # Anime [7]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
@@ -114,18 +55,9 @@ E-posta : sup.shukabot@gmail.com
 |s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick (etiket) |
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 2|s.sil (silinecek mesaj sayısı) |
 |s.sabitle|ID'sini attığınız mesajı sabitler|s.sabitle (mesaj ID) |
-|-s.oylama|Emojili ile oylama yaparsın|s.oylama (metin) |
-|-s.log|Mesaj silme, Rol silme, Rol oluşturma, Kanal silme, Kanal oluşturma yapıldığında belirlenen kanala atar|YOK|
 |s.shuka-sil|Botun Kanala attığı tüm mesajları siler|YOK|
 |s.shuka-nick|Botun Sunucudaki takma adını ayarlar|s.shuka-nick (nick) |
-|-s.sa-as|Birisi selam verdiğinde bot selam verir|s.sa-as aç \ s.sa-as kapat|
-|-s.emojili-sa-as|Birisi selam verdiğinde bot mesajına A S ile tepki verir|s.emojili-sa-as aç \ s.emojili-sa-as kapat|
-|-s.otorol|Birisi sunucuya katıldığında otomatik verilecek rolü, kanalı ve mesajı ayarlarsın|s.otorol-rolü (rol etiketi) \ s.otorol-kanalı (kanal etiketi) \ s.otorol-mesajı (kanala gönderilecek mesaj) |
 |s.reklam-taraması|Kullanıcı adı ve Oynuyır kısmında reklam içeren kullanıcıları tarar|YOK|
-|-s.link-engel|Sunucuya birisi link atmaya çalıştığında atmasını engeller|s.link-engel aç \ s.link-engel kapat|
-|-s.otorol|Sunucuya giren üyeye otomatik rol verir|s.otorol (rol etiket) |
-|-s.otorol-kanalı|Otorol verildikten sonra kanala atılacak metini ayarlar |s.otorol-kanalı (kanal etiket) |
-|-s.otorol-mesajı|Otorol verildikten sonra kanala atılacak metini değiştirir|s.otorol-mesajı (metin) |
 
 # Kullanıcı [19] 
 
