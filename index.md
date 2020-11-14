@@ -1,6 +1,6 @@
-##SHUKA
+## SHUKA
 
-#Anime [7]
+# Anime [7]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
