@@ -48,7 +48,7 @@ E-posta : sup.shukabot@gmail.com
  
  <a href="#Anime-7">Anime</a>
   • 
-<a href="#Eğlence-16">Eğlence</a>
+<a href="#Eğlence-17">Eğlence</a>
   •
 <a href="#Bot-6">Bot</a>
 •
@@ -70,7 +70,7 @@ E-posta : sup.shukabot@gmail.com
 |s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
 
 
-# Eğlence [16]
+# Eğlence [17]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
@@ -80,6 +80,7 @@ E-posta : sup.shukabot@gmail.com
 |s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla (etiket) |
 |s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (etiket) |
 |s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (etiket) |
+|s.owoify|OwO Budanediw x3|s.owoify (metin)|
 |s.8ball|Bota soru sorarsın|s.8ball (soru) |
 |s.rusruleti|Rus ruleti oynarsın|YOK|
 |s.lyrics|İsmini yazdığınız şarkının sözlerini görüntüler|s.lyrics (şarkı adı)|
@@ -121,7 +122,7 @@ E-posta : sup.shukabot@gmail.com
 |-s.sa-as|Birisi selam verdiğinde bot selam verir|s.sa-as aç \ s.sa-as kapat|
 |-s.emojili-sa-as|Birisi selam verdiğinde bot mesajına A S ile tepki verir|s.emojili-sa-as aç \ s.emojili-sa-as kapat|
 |-s.otorol|Birisi sunucuya katıldığında otomatik verilecek rolü, kanalı ve mesajı ayarlarsın|s.otorol-rolü (rol etiketi) \ s.otorol-kanalı (kanal etiketi) \ s.otorol-mesajı (kanala gönderilecek mesaj) |
-|s.reklam-taraması|Kullanıcı adı ve Oynuyır kısmında reklam içeren kullanıcıları tarar|YOK|
+|s.reklam-taraması|Kullanıcı adı ve Oynuyor kısmında reklam içeren kullanıcıları tarar|YOK|
 |-s.link-engel|Sunucuya birisi link atmaya çalıştığında atmasını engeller|s.link-engel aç \ s.link-engel kapat|
 |-s.otorol|Sunucuya giren üyeye otomatik rol verir|s.otorol (rol etiket) |
 |-s.otorol-kanalı|Otorol verildikten sonra kanala atılacak metini ayarlar |s.otorol-kanalı (kanal etiket) |
@@ -145,7 +146,7 @@ E-posta : sup.shukabot@gmail.com
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: × Toplama: + Çıkartma: -) |
 |s.renkara|Girdiğiniz hex kodunun bilgilerini gösterir|s.renkara (renkkodu)|
-|s.spotify|Spotify'dan şarkı dinleyn birinin şarkı bilgilerini görüntüler|s.spotify (etiket) |
+|s.spotify|Spotify'dan şarkı dinleyen birinin şarkı bilgilerini görüntüler|s.spotify (etiket) |
 |s.tenor|Tenor'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|Giphy'de gif ararsın|s.giphy (gif adı) |
 |s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt|(emoji)|
