@@ -117,18 +117,9 @@ E-posta : sup.shukabot@gmail.com
 |s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick (etiket) |
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 2|s.sil (silinecek mesaj sayısı) |
 |s.sabitle|ID'sini attığınız mesajı sabitler|s.sabitle (mesaj ID) |
-|-s.oylama|Emojili ile oylama yaparsın|s.oylama (metin) |
-|-s.log|Mesaj silme, Rol silme, Rol oluşturma, Kanal silme, Kanal oluşturma yapıldığında belirlenen kanala atar|YOK|
 |s.shuka-sil|Botun Kanala attığı tüm mesajları siler|YOK|
 |s.shuka-nick|Botun Sunucudaki takma adını ayarlar|s.shuka-nick (nick) |
-|-s.sa-as|Birisi selam verdiğinde bot selam verir|s.sa-as aç \ s.sa-as kapat|
-|-s.emojili-sa-as|Birisi selam verdiğinde bot mesajına A S ile tepki verir|s.emojili-sa-as aç \ s.emojili-sa-as kapat|
-|-s.otorol|Birisi sunucuya katıldığında otomatik verilecek rolü, kanalı ve mesajı ayarlarsın|s.otorol-rolü (rol etiketi) \ s.otorol-kanalı (kanal etiketi) \ s.otorol-mesajı (kanala gönderilecek mesaj) |
 |s.reklam-taraması|Kullanıcı adı ve Oynuyor kısmında reklam içeren kullanıcıları tarar|YOK|
-|-s.link-engel|Sunucuya birisi link atmaya çalıştığında atmasını engeller|s.link-engel aç \ s.link-engel kapat|
-|-s.otorol|Sunucuya giren üyeye otomatik rol verir|s.otorol (rol etiket) |
-|-s.otorol-kanalı|Otorol verildikten sonra kanala atılacak metini ayarlar |s.otorol-kanalı (kanal etiket) |
-|-s.otorol-mesajı|Otorol verildikten sonra kanala atılacak metini değiştirir|s.otorol-mesajı (metin) |
 
 # Kullanıcı [19] 
 
