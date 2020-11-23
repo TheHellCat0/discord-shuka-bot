@@ -55,6 +55,8 @@ E-posta : sup.shukabot@gmail.com
 <a href="#Yetkili-10">Yetkili</a>
 •
 <a href="#Kullanıcı-19">Kullanıcı</a>
+•
+<a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
 
 # Anime [7]
