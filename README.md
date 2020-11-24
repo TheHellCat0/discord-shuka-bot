@@ -54,7 +54,7 @@ E-posta : sup.shukabot@gmail.com
 •
 <a href="#Yetkili-10">Yetkili</a>
 •
-<a href="#Kullanıcı-19">Kullanıcı</a>
+<a href="#Kullanıcı-20">Kullanıcı</a>
 •
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
@@ -121,7 +121,7 @@ E-posta : sup.shukabot@gmail.com
 |s.shuka-nick|Botun Sunucudaki takma adını ayarlar|s.shuka-nick (nick) |
 |s.reklam-taraması|Kullanıcı adı ve Oynuyor kısmında reklam içeren kullanıcıları tarar|YOK|
 
-# Kullanıcı [19] 
+# Kullanıcı [20] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
@@ -135,6 +135,8 @@ E-posta : sup.shukabot@gmail.com
 |s.kullanıcıbilgi|Etiketlediğiniz kullanıcı hakkında bilgi verir|s.kullanıcıbilgi (yada etiket) |
 |s.kanalbilgi|Kullandığınız kanal hakkında bilgi verir|YOK|
 |s.wikipedia|wikipediada arama yaparsın|s.wikipedia (kelime) |
+|s.qr oluştur |Yazınızı qr koduna dönüştürür|s.qr oluştur (metin)
+|s.qr okut|Attığınız qr kodunu okutur|s.qr okut (.png/.jpg)
 |s.github|Github'da kullanıcı veya repo araması yaparsın|Örnek: s.github TheHellCat0 discord-shuka-bot |
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: × Toplama: + Çıkartma: -) |
