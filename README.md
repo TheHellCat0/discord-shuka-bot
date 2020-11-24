@@ -136,7 +136,7 @@ E-posta : sup.shukabot@gmail.com
 |s.kanalbilgi|Kullandığınız kanal hakkında bilgi verir|YOK|
 |s.wikipedia|wikipediada arama yaparsın|s.wikipedia (kelime) |
 |s.qr oluştur |Yazınızı qr koduna dönüştürür|s.qr oluştur (metin)
-|s.qr okut|Attığınız qr kodunu okutur|s.qr okut (.png/.jpg)
+|s.qr okut|Attığınız qr kodunu okutur|s.qr okut (.png/.jpg) |
 |s.github|Github'da kullanıcı veya repo araması yaparsın|Örnek: s.github TheHellCat0 discord-shuka-bot |
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: × Toplama: + Çıkartma: -) |
