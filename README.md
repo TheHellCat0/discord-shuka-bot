@@ -63,35 +63,35 @@ E-posta : sup.shukabot@gmail.com
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
-|s.kitsu|Kitsu'da anime ararsın|s.kitsu (anime adı) |
-|s.animeara  | MyAnimeList'de anime ararsın | s.animeara (anime adı) |
-|s.mangaara |  Manga Bilgilerini ararsın       |   s.mangaara (manga adı) |
-|s.karakterara  |   Yazdığın anime,manga karakterinin bilgilerini alırsın    | s.karakterara (karakter adı) |
-|s.myanimelistprofil| MyAnimeList'de Profiline bakarsın        |   s.myanimelistprofil (m.a.l. kullanıcı adı) |
-|s.loli|FBI evine loli gönderir 🙃| YOK|
-|s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
+|s.kitsu|Kitsu'da anime ararsın|s.kitsu (anime adı)|
+|s.animeara|MyAnimeList'de anime ararsın|s.animeara (anime adı)|
+|s.mangaara|Manga Bilgilerini ararsın|s.mangaara (manga adı)|
+|s.karakterara|Yazdığın anime,manga karakterinin bilgilerini alırsın|s.karakterara (karakter adı)|
+|s.myanimelistprofil|MyAnimeList'de Profiline bakarsın|s.myanimelistprofil (m.a.l. kullanıcı adı)|
+|s.loli|FBI evine loli gönderir 🙃|YOK|
+|s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si)|
 
 
 # Eğlence [17]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
-|s.ascii|  Yazdığın metini ascii formatına dönüştürür|s.ascii (metin) |
-|s.yazıtura|Japon parasi ile yazı tura atarsın|s.yazıtura (yazı veya tura) |
-|s.öp|Etiketlediğin kişiyi öpersin|s.öp (etiket) |
-|s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla (etiket) |
-|s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (etiket) |
-|s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (etiket) |
+|s.ascii|Yazdığın metini ascii formatına dönüştürür|s.ascii (metin)|
+|s.yazıtura|Japon parasi ile yazı tura atarsın|s.yazıtura (yazı veya tura)|
+|s.öp|Etiketlediğin kişiyi öpersin|s.öp (etiket)|
+|s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla (etiket)|
+|s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (etiket)|
+|s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (etiket)|
 |s.owoify|OwO Budanediw x3|s.owoify (metin)|
-|s.8ball|Bota soru sorarsın|s.8ball (soru) |
+|s.8ball|Bota soru sorarsın|s.8ball (soru)|
 |s.rusruleti|Rus ruleti oynarsın|YOK|
 |s.lyrics|İsmini yazdığınız şarkının sözlerini görüntüler|s.lyrics (şarkı adı)|
-|s.mayın-tarlası|Mayın tarlası oynarsın|s.mayın-tarlası (satır) (sütun) (mayın) |
-|s.resimliyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.resimliyaz (etiket) (metin) |
-|s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin) |
-|s.yazıdöndür|Yazdığın yazıyı tersçevirir|s.yazıdöndür (metin) |
-|s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü (url) |
-|s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello (etiket) |
+|s.mayın-tarlası|Mayın tarlası oynarsın|s.mayın-tarlası (satır) (sütun) (mayın)|
+|s.resimliyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.resimliyaz (etiket) (metin)|
+|s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin)|
+|s.yazıdöndür|Yazdığın yazıyı tersçevirir|s.yazıdöndür (metin)|
+|s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü (url)|
+|s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello (etiket)|
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 
 
@@ -110,7 +110,7 @@ E-posta : sup.shukabot@gmail.com
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
-|s.ban|Belirlediğin kullanıcıyı sunucudan yasaklar|s.ban (etiket) |
+|s.ban|Belirlediğin kullanıcıyı sunucudan yasaklar|s.ban (etiket)|
 |s.forceban|ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar|s.forceban (kullanıcı id) |
 |s.unban|İd si atılan kullanıcının yasağını kaldırır|s.unban (id) |
 |s.emojiekle|Lİnkini attığınız emojiyi sunucuya yükler|s.emojiekle (emoji linki png,jpg,gif)|
