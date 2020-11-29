@@ -27,7 +27,7 @@ E-posta : sup.shukabot@gmail.com
 ![servers](https://top.gg/api/widget/servers/669179772575940629.png?leftcolor=ff7700&rightcolor=af1111&righttextcolor=4d0c43&lefttextcolor=afea22)
 ![library](https://top.gg/api/widget/lib/669179772575940629.png?leftcolor=ff7700&rightcolor=af1111&righttextcolor=68fa5d&lefttextcolor=0b4038)
 
-<p align="center">
+![support](https://discordapp.com/api/guilds/521354221338099736/embed.png?style=banner1)
  
  <a href="https://top.gg/bot/669179772575940629">D.B.L.</a>
   •
