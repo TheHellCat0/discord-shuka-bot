@@ -145,7 +145,7 @@ E-posta : sup.shukabot@gmail.com
 |s.github|Github'da kullanıcı veya repo araması yaparsın|Örnek: s.github TheHellCat0 discord-shuka-bot |
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: * Toplama: + Çıkartma: -) |
-|s.renkara|Girdiğiniz hex kodunun bilgilerini gösterir|s.renkara (renk [kodu](https://www.color-hex.com/) )|
+|s.renkara|Girdiğiniz [hex](https://www.color-hex.com/) kodunun bilgilerini gösterir|s.renkara (renk kodu)|
 |s.spotify|Spotify'dan şarkı dinleyen birinin şarkı bilgilerini görüntüler|s.spotify (etiket) |
 |s.tenor|Tenor'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|Giphy'de gif ararsın|s.giphy (gif adı) |
