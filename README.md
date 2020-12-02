@@ -112,7 +112,7 @@ E-posta : sup.shukabot@gmail.com
 |s.davet|Botun davet [linki](waa.ai/shuka)ni atar. |YOK|
 |s.komutsayısı|Bottaki toplam komut sayısını atar|YOK|
 
-# Yetkili [10] 
+# Yetkili [9] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
@@ -125,9 +125,8 @@ E-posta : sup.shukabot@gmail.com
 |s.sabitle|ID'sini attığınız mesajı sabitler|s.sabitle (mesaj ID) |
 |s.shuka-sil|Botun Kanala attığı son 100 mesajı siler|YOK|
 |s.shuka-nick|Botun sunucudaki takma adını ayarlar|s.shuka-nick (yeni nick) |
-|s.reklam-taraması|Kullanıcı adı ve Oynuyor kısmında reklam içeren kullanıcıları tarar|YOK|
 
-# Kullanıcı [20] 
+# Kullanıcı [19] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
@@ -146,7 +145,6 @@ E-posta : sup.shukabot@gmail.com
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: * Toplama: + Çıkartma: -) |
 |s.renkara|Girdiğiniz [hex](https://www.color-hex.com/) kodunun bilgilerini gösterir|s.renkara (renk kodu)|
-|s.spotify|[Spotify](https://www.spotify.com)'dan şarkı dinleyen birinin şarkı bilgilerini görüntüler|s.spotify (etiket) |
 |s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy (gif adı) |
 |s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt (emoji)|
