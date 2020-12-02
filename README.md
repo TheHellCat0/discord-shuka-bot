@@ -146,7 +146,7 @@ E-posta : sup.shukabot@gmail.com
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: * Toplama: + Çıkartma: -) |
 |s.renkara|Girdiğiniz [hex](https://www.color-hex.com/) kodunun bilgilerini gösterir|s.renkara (renk kodu)|
-|s.spotify|Spotify'dan şarkı dinleyen birinin şarkı bilgilerini görüntüler|s.spotify (etiket) |
+|s.spotify|[Spotify](https://www.spotify.com)'dan şarkı dinleyen birinin şarkı bilgilerini görüntüler|s.spotify (etiket) |
 |s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy (gif adı) |
 |s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt (emoji)|
