@@ -1,4 +1,4 @@
-|Komut|
+|Komut [7]|
 |-|
 |s.hentai|
 |s.hentai-gif|
@@ -6,3 +6,4 @@
 |s.yuri|
 |s.anal|
 |s.tits|
+|s.classic|
