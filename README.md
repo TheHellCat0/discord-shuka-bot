@@ -73,9 +73,9 @@ E-posta : sup.shukabot@gmail.com
 |s.animeara|MyAnimeList'de anime ararsın|s.animeara (anime adı)|
 |s.mangaara|Manga Bilgilerini ararsın|s.mangaara (manga adı)|
 |s.karakterara|Yazdığın anime,manga karakterinin bilgilerini alırsın|s.karakterara (karakter adı)|
-|s.myanimelistprofil|MyAnimeList'de Profiline bakarsın|s.myanimelistprofil (m.a.l. kullanıcı adı)|
+|s.myanimelistprofil|MyAnimeList'de profiline bakarsın|s.myanimelistprofil (m.a.l. kullanıcı adı)|
 |s.loli|FBI evine loli gönderir 🙃|YOK|
-|s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si)|
+|s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı)|
 
 
 # Eğlence [17]
@@ -83,7 +83,7 @@ E-posta : sup.shukabot@gmail.com
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
 |s.ascii|Yazdığın metini ascii formatına dönüştürür|s.ascii (metin)|
-|s.yazıtura|Japon parasi ile yazı tura atarsın|s.yazıtura (yazı veya tura)|
+|s.yazıtura|Japon parasi ile yazı tura atarsın|YOK|
 |s.öp|Etiketlediğin kişiyi öpersin|s.öp (etiket)|
 |s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla (etiket)|
 |s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (etiket)|
@@ -105,7 +105,7 @@ E-posta : sup.shukabot@gmail.com
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|---|---|
-|s.çalışmasüresi|Botun aktif olduğu zamanı gösterir|YOK|
+|s.çalışmasüresi|Botun aktif olduğu süreyi gösterir|YOK|
 |s.ping|Botun gecikmesini ölçer|YOK|
 |s.vote|Botun oy verme sayfasının linkini atar|YOK|
 |s.shuka-bilgi|Botun bilgilerini gösterir yapımcı,oluşturulma tarihi vb |YOK|
@@ -116,15 +116,15 @@ E-posta : sup.shukabot@gmail.com
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
-|s.ban|Belirlediğin kullanıcıyı sunucudan yasaklar|s.ban (etiket)|
-|s.forceban|ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar|s.forceban (kullanıcı id) |
-|s.unban|İd si atılan kullanıcının yasağını kaldırır|s.unban (id) |
-|s.emojiekle|Lİnkini attığınız emojiyi sunucuya yükler|s.emojiekle (emoji linki png,jpg,gif)|
-|s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick (etiket) |
-|s.sil|Belirlediğin miktarda mesajı siler max 100 min 2|s.sil (silinecek mesaj sayısı) |
+|s.ban|Belirlediğin kullanıcıyı sunucudan yasaklar|s.ban (etiket) (sebep)|
+|s.forceban|ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar|s.forceban (kullanıcı id) (isteğe bağlı sebep) |
+|s.unban|İd si atılan kullanıcının yasağını kaldırır|s.unban (id) (isteğe bağlı sebep)|
+|s.emojiekle|Lİnkini attığınız emojiyi sunucuya yükler|s.emojiekle (emoji linki .png,.jpg,.gif)|
+|s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick (etiket) (sebep)|
+|s.sil|Belirlediğin miktarda mesajı siler max 100 min 1|s.sil (silinecek mesaj sayısı) |
 |s.sabitle|ID'sini attığınız mesajı sabitler|s.sabitle (mesaj ID) |
-|s.shuka-sil|Botun Kanala attığı tüm mesajları siler|YOK|
-|s.shuka-nick|Botun Sunucudaki takma adını ayarlar|s.shuka-nick (nick) |
+|s.shuka-sil|Botun Kanala attığı son 100 mesajı siler|YOK|
+|s.shuka-nick|Botun sunucudaki takma adını ayarlar|s.shuka-nick (nick) |
 |s.reklam-taraması|Kullanıcı adı ve Oynuyor kısmında reklam içeren kullanıcıları tarar|YOK|
 
 # Kullanıcı [20] 
@@ -133,8 +133,8 @@ E-posta : sup.shukabot@gmail.com
 |----|----|----|
 |s.avatar|Etiketlediğin kişinin Avatarını atar|s.avatar \ s.avatar (etiket - id) |
 |s.sunucuikon|Sunucunun İkonunu atar|YOK|
-|s.yetkilerim|Sunucudaki yetkilerine bakarsın|YOK|
-|s.roller|sunucudaki tüm rollere bakarsın|YOK|
+|s.yetkiler|Bir kullanıcının sunucudaki yetkilerine bakarsın|s.yetkiler (kullanıcı etiket) |
+|s.roller|Sunucudaki tüm rolleri ve yetki seviyesini listeler|YOK|
 |s.yaz|Yazdığın metini bota yazdırır (everyone here atmaz!) |s.yaz (metin) |
 |s.youtube|YouTube'da video araması yaparsın|s.youtube (video adı) |
 |s.sunucubilgi|Sunucu hakkında bilgi verir|YOK|
@@ -150,4 +150,4 @@ E-posta : sup.shukabot@gmail.com
 |s.tenor|Tenor'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|Giphy'de gif ararsın|s.giphy (gif adı) |
 |s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt (emoji)|
-|s.emojibilgi|Emoji hakkında bilgi verir|s.emojibilgi (emoji) |
+|s.emojibilgi|Emoji hakkında bilgi verir|s.emojibilgi (emoji ismi) |
