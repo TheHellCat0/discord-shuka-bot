@@ -91,7 +91,7 @@ E-posta : sup.shukabot@gmail.com
 |s.owoify|OwO Budanediw x3|s.owoify (metin)|
 |s.8ball|Bota soru sorarsın|s.8ball (soru)|
 |s.rusruleti|Rus ruleti oynarsın|YOK|
-|s.lyrics|İsmini yazdığınız şarkının sözlerini görüntüler|s.lyrics (şarkı adı)|
+|s.lyrics|[Genios](https://genius.com/)'da ismini yazdığınız şarkının sözlerini gösterir|s.lyrics (şarkı adı)|
 |s.mayın-tarlası|Mayın tarlası oynarsın|s.mayın-tarlası (satır) (sütun) (mayın)|
 |s.resimliyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.resimliyaz (kullanıcı etiket) (metin)|
 |s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin)|
@@ -107,9 +107,9 @@ E-posta : sup.shukabot@gmail.com
 |----|---|---|
 |s.çalışmasüresi|Botun aktif olduğu süreyi gösterir|YOK|
 |s.ping|Botun gecikmesini ölçer|YOK|
-|s.vote|Botun oy verme sayfasının linkini atar|YOK|
+|s.vote|Botun oy verme [sayfası](http://bit.ly/shuka-vote)nın linkini atar|YOK|
 |s.shuka-bilgi|Botun bilgilerini gösterir yapımcı,oluşturulma tarihi vb |YOK|
-|s.davet|Botun davet linkini atar. |YOK|
+|s.davet|Botun davet [linki](waa.ai/shuka)ni atar. |YOK|
 |s.komutsayısı|Bottaki toplam komut sayısını atar|YOK|
 
 # Yetkili [10] 
@@ -136,18 +136,18 @@ E-posta : sup.shukabot@gmail.com
 |s.yetkiler|Bir kullanıcının sunucudaki yetkilerine bakarsın|s.yetkiler (kullanıcı etiket) |
 |s.roller|Sunucudaki tüm rolleri ve yetki seviyesini listeler|YOK|
 |s.yaz|Yazdığın metini bota yazdırır (everyone here atmaz!) |s.yaz (metin) |
-|s.youtube|YouTube'da video araması yaparsın|s.youtube (video adı) |
+|s.youtube|[YouTube](https://www.youtube.com/)'da video araması yaparsın|s.youtube (video adı) |
 |s.sunucubilgi|Sunucu hakkında bilgi verir|YOK|
 |s.kullanıcıbilgi|Etiketlediğiniz kullanıcı hakkında bilgi verir|s.kullanıcıbilgi (yada etiket) |
 |s.kanalbilgi|Kullandığınız kanal hakkında bilgi verir|YOK|
-|s.wikipedia|wikipediada arama yaparsın|s.wikipedia (kelime) 
+|s.wikipedia|[Wikipedia](https://tr.m.wikipedia.org/)'da arama yaparsın|s.wikipedia (kelime) 
 |s.qr oluştur/okut|Yazınızı qr koduna dönüştürür - s.qr okut Attığınız qr kodunu okutur|s.qr oluştur (metin) - s.qr okut (.png/.jpg) 
-|s.github|Github'da kullanıcı veya repo araması yaparsın|Örnek: s.github TheHellCat0 discord-shuka-bot |
+|s.github|[Github](https://github.com)'da kullanıcı veya repo araması yaparsın|Örnek: s.github TheHellCat0 discord-shuka-bot |
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: * Toplama: + Çıkartma: -) |
 |s.renkara|Girdiğiniz [hex](https://www.color-hex.com/) kodunun bilgilerini gösterir|s.renkara (renk kodu)|
 |s.spotify|Spotify'dan şarkı dinleyen birinin şarkı bilgilerini görüntüler|s.spotify (etiket) |
-|s.tenor|Tenor'da gif ararsın|s.tenor (gif adı) |
-|s.giphy|Giphy'de gif ararsın|s.giphy (gif adı) |
+|s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor (gif adı) |
+|s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy (gif adı) |
 |s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt (emoji)|
 |s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi (emoji ismi) |
