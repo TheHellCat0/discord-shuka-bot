@@ -54,13 +54,13 @@ E-posta : sup.shukabot@gmail.com
  
  <a href="#Anime-7">Anime</a>
   • 
-<a href="#Eğlence-17">Eğlence</a>
+<a href="#Eğlence-18">Eğlence</a>
   •
 <a href="#Bot-6">Bot</a>
 •
-<a href="#Yetkili-10">Yetkili</a>
+<a href="#Yetkili-9">Yetkili</a>
 •
-<a href="#Kullanıcı-20">Kullanıcı</a>
+<a href="#Kullanıcı-19">Kullanıcı</a>
 •
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
@@ -78,7 +78,7 @@ E-posta : sup.shukabot@gmail.com
 |s.pokemon|[Pokemon](https://www.pokemon.com/us/pokedex/)un bilgilerini ararsın|s.pokemon (pokemon adı)|
 
 
-# Eğlence [17]
+# Eğlence [18]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
@@ -88,6 +88,7 @@ E-posta : sup.shukabot@gmail.com
 |s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla (kullanıcı etiket)|
 |s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (kullanıcı etiket)|
 |s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (kullanıcı etiket)|
+|s.dürt|Etiketlediğin kişiyi dürtersin|s.dürt (kullanıcı etiket)|
 |s.owoify|OwO Budanediw x3|s.owoify (metin)|
 |s.8ball|Bota soru sorarsın|s.8ball (soru)|
 |s.rusruleti|Rus ruleti oynarsın|YOK|
