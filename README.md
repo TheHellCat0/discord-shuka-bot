@@ -69,9 +69,9 @@ E-posta : sup.shukabot@gmail.com
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
-|s.kitsu|[Kitsu](https://kitsu.io/)'da anime ararsın|s.kitsu (anime adı)|
+|s.kitsu-anime|[Kitsu](https://kitsu.io/)'da anime ararsın|s.kitsu-anime (anime adı)|
+|s.kitsu-manga|[Kitsu](https://kitsu.io/)'da manga ararsın|s.kitsu-anime (manga adı)|
 |s.animeara|[MyAnimeList](https://myanimelist.net/anime/38656/Darwins_Game)'de anime ararsın|s.animeara (anime adı)|
-|s.mangaara|MyAnimeList'de manga ararsın|s.mangaara (manga adı)|
 |s.karakterara|Yazdığın anime,manga [karakter](https://myanimelist.net/character/87877/Shuka_Karino)in bilgilerini alırsın|s.karakterara (karakter adı)|
 |s.myanimelistprofil|MyAnimeList'de [kullanıcı](https://myanimelist.net/profile/TheHellCat) profilini ararsın|s.myanimelistprofil (m.a.l. kullanıcı adı)|
 |s.loli|FBI evine loli gönderir 🙃|YOK|
