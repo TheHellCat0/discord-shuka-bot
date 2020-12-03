@@ -52,7 +52,7 @@ E-posta : sup.shukabot@gmail.com
 
 <p align="center">
  
- <a href="#Anime-7">Anime</a>
+ <a href="#Anime-8">Anime</a>
   • 
 <a href="#Eğlence-18">Eğlence</a>
   •
@@ -65,7 +65,7 @@ E-posta : sup.shukabot@gmail.com
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
 
-# Anime [7]
+# Anime [8]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
@@ -76,6 +76,7 @@ E-posta : sup.shukabot@gmail.com
 |s.myanimelistprofil|MyAnimeList'de [kullanıcı](https://myanimelist.net/profile/TheHellCat) profilini ararsın|s.myanimelistprofil (m.a.l. kullanıcı adı)|
 |s.loli|FBI evine loli gönderir 🙃|YOK|
 |s.pokemon|[Pokemon](https://www.pokemon.com/us/pokedex/)un bilgilerini ararsın|s.pokemon (pokemon adı)|
+|s.kanna|Kanna'nın sana bir mesajı var|s.kanna (metin)|
 
 
 # Eğlence [18]
