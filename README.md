@@ -60,7 +60,7 @@ E-posta : sup.shukabot@gmail.com
 •
 <a href="#Yetkili-9">Yetkili</a>
 •
-<a href="#Kullanıcı-19">Kullanıcı</a>
+<a href="#Kullanıcı-20">Kullanıcı</a>
 •
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
@@ -128,7 +128,7 @@ E-posta : sup.shukabot@gmail.com
 |s.shuka-sil|Botun Kanala attığı son 100 mesajı siler|YOK|
 |s.shuka-nick|Botun sunucudaki takma adını ayarlar|s.shuka-nick (yeni nick) |
 
-# Kullanıcı [19] 
+# Kullanıcı [20] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
@@ -147,6 +147,7 @@ E-posta : sup.shukabot@gmail.com
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: * Toplama: + Çıkartma: -) |
 |s.renkara|Girdiğiniz [hex](https://www.color-hex.com/) kodunun bilgilerini gösterir|s.renkara (renk kodu)|
+|s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu kullanıcı (kullanıcı adı) / s.osu beatmap (beatmap id) |
 |s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy (gif adı) |
 |s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt (emoji)|
