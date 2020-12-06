@@ -142,11 +142,11 @@ E-posta : sup.shukabot@gmail.com
 |s.kullanıcıbilgi|Etiketlediğiniz kullanıcı hakkında bilgi verir|s.kullanıcıbilgi (yada etiket) |
 |s.kanalbilgi|Kullandığınız kanal hakkında bilgi verir|YOK|
 |s.wikipedia|[Wikipedia](https://tr.m.wikipedia.org/)'da arama yaparsın|s.wikipedia (kelime) 
-|s.qr oluştur/okut|Yazınızı qr koduna dönüştürür - s.qr okut Attığınız qr kodunu okutur|s.qr oluştur (metin) - s.qr okut (.png/.jpg) 
+|s.qr oluştur/okut|Yazınızı qr koduna dönüştürür/okutur|s.qr oluştur (metin) - s.qr okut (.png/.jpg) 
 |s.github|[Github](https://github.com)'da kullanıcı veya repo araması yaparsın|Örnek: s.github TheHellCat0 discord-shuka-bot |
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: * Toplama: + Çıkartma: -) |
-|s.renkara|Girdiğiniz [hex](https://www.color-hex.com/) kodunun bilgilerini gösterir|s.renkara (renk kodu)|
+|s.hex ara /random|Girdiğiniz [hex](https://www.color-hex.com/) kodunun bilgilerini gösterir|s.hex ara (renk kodu) - s.hex random|
 |s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu kullanıcı (kullanıcı adı) / s.osu beatmap (beatmap id) |
 |s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy (gif adı) |
