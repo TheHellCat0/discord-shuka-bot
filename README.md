@@ -106,6 +106,7 @@ E-posta : sup.shukabot@gmail.com
 
 # Müzik [8]
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
+|----|----|----|
 |s.çal|İsmini yada linkini attığınız YouTube parçasını oynatır|s.çal (Video İsmi/Video Linki)|
 |s.çalmalistesi|İsmini yada linkini attığınız YouTube çalma listesini oynatır|s.çalmalistesi (PlayList İsmi/PlayList Linki)|
 |s.ses|Oynatılan şarkının sesini ayarlar|s.ses (0 - 100)|
