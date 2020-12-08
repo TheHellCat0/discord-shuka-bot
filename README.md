@@ -54,9 +54,9 @@ E-posta : sup.shukabot@gmail.com
  
  <a href="#Anime-8">Anime</a>
 • 
-<a href="#Eğlence-18">Eğlence</a>
+<a href="#Eğlence-17">Eğlence</a>
 •
-<a href="#Müzik-8">Müzik<a/>
+<a href="#Müzik-9">Müzik<a/>
 •
 <a href="#Bot-6">Bot</a>
 •
@@ -81,7 +81,7 @@ E-posta : sup.shukabot@gmail.com
 |s.kanna|Kannaya yazı yazdırırsın|s.kanna (metin)|
 
 
-# Eğlence [18]
+# Eğlence [17]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
@@ -95,7 +95,6 @@ E-posta : sup.shukabot@gmail.com
 |s.owoify|OwO Budanediw x3|s.owoify (metin)|
 |s.8ball|Bota soru sorarsın|s.8ball (soru)|
 |s.rusruleti|Rus ruleti oynarsın|YOK|
-|s.lyrics|[Genios](https://genius.com/)'da ismini yazdığınız şarkının sözlerini gösterir|s.lyrics (şarkı adı)|
 |s.mayın-tarlası|Mayın tarlası oynarsın|s.mayın-tarlası (satır) (sütun) (mayın)|
 |s.resimliyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.resimliyaz (kullanıcı etiket) (metin)|
 |s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin)|
@@ -115,6 +114,7 @@ E-posta : sup.shukabot@gmail.com
 |s.hızlı-geç|Birden fazla şarkıyı geçmenizi sağlar|s.hızlı-geç (geçilecek şarkı sayısı)|
 |s.döngü|Şarkı veya şarkıları sürekli tekrarlar|YOK|
 |s.karıştır|Karışık çakmayı açar|YOK|
+|s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini gösterir|s.lyrics (şarkı adı)|
 
 # Bot [6]
 
