@@ -113,7 +113,7 @@ E-posta : sup.shukabot@gmail.com
 |s.geç|Sırada şarkıya geçer|YOK|
 |s.hızlı-geç|Birden fazla şarkıyı geçmenizi sağlar|s.hızlı-geç (geçilecek şarkı sayısı)|
 |s.döngü|Şarkı veya şarkıları sürekli tekrarlar|YOK|
-|s.karıştır|Karışık çakmayı açar|YOK|
+|s.karıştır|Karışık çalmayı açar|YOK|
 |s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini gösterir|s.lyrics (şarkı adı)|
 
 # Bot [6]
