@@ -62,14 +62,14 @@ E-posta : sup.shukabot@gmail.com
 •
 <a href="#Yetkili-9">Yetkili</a>
 •
-<a href="#Kullanıcı-20">Kullanıcı</a>
+<a href="#Kullanıcı-21">Kullanıcı</a>
 •
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
 
 # Anime [8]
 
-|      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
 |s.kitsu-anime|[Kitsu](https://kitsu.io/)'da anime ararsın|s.kitsu-anime (anime adı)|
 |s.kitsu-manga|Kitsu'da manga ararsın|s.kitsu-anime (manga adı)|
@@ -83,7 +83,7 @@ E-posta : sup.shukabot@gmail.com
 
 # Eğlence [17]
 
-|      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
 |s.ascii|Yazdığın metini ascii formatına dönüştürür|s.ascii (metin)|
 |s.yazıtura|Japon parasi ile yazı tura atarsın|YOK|
@@ -104,8 +104,9 @@ E-posta : sup.shukabot@gmail.com
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 
 # Müzik [8]
+
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
-|----|----|----|
+| :------------ |:---------------:| -----:|
 |s.çal|İsmini yada linkini attığınız YouTube parçasını oynatır|s.çal (Video İsmi/Video Linki)|
 |s.çalmalistesi|İsmini yada linkini attığınız YouTube çalma listesini oynatır|s.çalmalistesi (PlayList İsmi/PlayList Linki)|
 |s.ses|Oynatılan şarkının sesini ayarlar|s.ses (0 - 100)|
@@ -116,10 +117,11 @@ E-posta : sup.shukabot@gmail.com
 |s.karıştır|Karışık çalmayı açar|YOK|
 |s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini gösterir|s.lyrics (şarkı adı)|
 
+
 # Bot [6]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
-|----|---|---|
+| :------------ |:---------------:| -----:|
 |s.çalışmasüresi|Botun aktif olduğu süreyi gösterir|YOK|
 |s.ping|Botun gecikmesini ölçer|YOK|
 |s.vote|Botun oy verme [sayfası](http://bit.ly/shuka-vote)nın linkini atar|YOK|
@@ -130,7 +132,7 @@ E-posta : sup.shukabot@gmail.com
 # Yetkili [9] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
-|----|----|----|
+| :------------ |:---------------:| -----:|
 |s.ban|Belirlediğin kullanıcıyı sunucudan yasaklar|s.ban (kullanıcı etiket) (sebep)|
 |s.forceban|ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar|s.forceban (kullanıcı id) (isteğe bağlı sebep) |
 |s.unban|İd si atılan kullanıcının yasağını kaldırır|s.unban (id) (isteğe bağlı sebep)|
@@ -141,10 +143,10 @@ E-posta : sup.shukabot@gmail.com
 |s.shuka-sil|Botun Kanala attığı son 100 mesajı siler|YOK|
 |s.shuka-nick|Botun sunucudaki takma adını ayarlar|s.shuka-nick (yeni nick) |
 
-# Kullanıcı [20] 
+# Kullanıcı [21] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
-|----|----|----|
+| :------------ |:---------------:| -----:|
 |s.avatar|Etiketlediğin kişinin Avatarını atar|s.avatar \ s.avatar (etiket - id) |
 |s.sunucuikon|Sunucunun İkonunu atar|YOK|
 |s.yetkiler|Bir kullanıcının sunucudaki yetkilerine bakarsın|s.yetkiler (kullanıcı etiket) |
@@ -154,8 +156,9 @@ E-posta : sup.shukabot@gmail.com
 |s.sunucubilgi|Sunucu hakkında bilgi verir|YOK|
 |s.kullanıcıbilgi|Etiketlediğiniz kullanıcı hakkında bilgi verir|s.kullanıcıbilgi (yada etiket) |
 |s.kanalbilgi|Kullandığınız kanal hakkında bilgi verir|YOK|
-|s.wikipedia|[Wikipedia](https://tr.m.wikipedia.org/)'da arama yaparsın|s.wikipedia (kelime) 
-|s.qr oluştur/okut|Yazınızı qr koduna dönüştürür/okutur|s.qr oluştur (metin) - s.qr okut (.png/.jpg) 
+|s.wikipedia|[Wikipedia](https://tr.m.wikipedia.org/)'da arama yaparsın|s.wikipedia (kelime)| 
+|s.qr oluştur/okut|Yazınızı qr koduna dönüştürür/okutur|s.qr oluştur (metin) - s.qr okut (.png/.jpg)|
+|s.base64 oluşur/çöz|Yazınızı base64 formatına dönüştürür/okutur|s.base64 oluştur (metin) - s.base64 çöz (base64 metin)|
 |s.github|[Github](https://github.com)'da kullanıcı veya repo araması yaparsın|Örnek: s.github TheHellCat0 discord-shuka-bot |
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: * Toplama: + Çıkartma: -) |
@@ -165,3 +168,4 @@ E-posta : sup.shukabot@gmail.com
 |s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy (gif adı) |
 |s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt (emoji)|
 |s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi (emoji ismi) |
+
