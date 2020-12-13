@@ -1,6 +1,6 @@
 {
   "name": "shuka-beta",
-  "version": "2.2.0",
+  "version": "3.0.1-b",
   "description": "Anime 🧡",
   "main": "shuka.js",
   "scripts": {
@@ -22,26 +22,17 @@
     "http": "^0.0.0",
     "jimp": "^0.14.0",
     "kitsu.js": "^2.0.0",
-    "lowdb": "^1.0.0",
     "math-expression-evaluator": "^1.2.22",
     "moment": "^2.27.0",
     "moment-duration-format": "^2.2.2",
     "mongoose": "^5.9.22",
-    "morgan": "^1.10.0",
     "node-superfetch": "^0.1.10",
     "pokedex-api": "^1.1.2",
     "quick.db": "^7.1.1",
     "request": "^2.88.2",
-    "request-promise": "^4.2.5",
-    "request-promise-native": "^1.0.8",
     "snekfetch": "^4.0.4",
-    "string-similarity": "^4.0.1",
     "superagent": "^5.3.1",
-    "svo-client": "^1.0.8",
-    "twemoji": "^13.0.0",
-    "wikijs": "^6.0.0",
-    "path": "^0.12.7",
-    "random-number": "^0.0.9"
+    "wikijs": "^6.0.0"
   },
   "engines": {
     "node": "12.x"
