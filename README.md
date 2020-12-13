@@ -12,7 +12,7 @@ Prefixler
 
 Destek,İletişim 
 
-```css
+```fix
 Discord : *The-HellCat#0058
 E-posta : sup.shukabot@gmail.com
 ```
