@@ -4,6 +4,6 @@
 |s.hentai-gif|
 |s.trap|
 |s.yuri|
-|s.anal|
+|s.hanal|
 |s.tits|
 |s.classic|
