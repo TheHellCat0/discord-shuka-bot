@@ -54,15 +54,15 @@ E-posta : sup.shukabot@gmail.com
  
  <a href="#Anime-8">Anime</a>
 • 
-<a href="#Eğlence-17">Eğlence</a>
+<a href="#Eğlence-16">Eğlence</a>
 •
 <a href="#Müzik-9">Müzik<a/>
 •
-<a href="#Bot-6">Bot</a>
+<a href="#Bot-8">Bot</a>
 •
-<a href="#Yetkili-9">Yetkili</a>
+<a href="#Yetkili-7">Yetkili</a>
 •
-<a href="#Kullanıcı-21">Kullanıcı</a>
+<a href="#Kullanıcı-22">Kullanıcı</a>
 •
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
@@ -81,7 +81,7 @@ E-posta : sup.shukabot@gmail.com
 |s.kanna|Kannaya yazı yazdırırsın|s.kanna (metin)|
 
 
-# Eğlence [17]
+# Eğlence [16]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -94,16 +94,15 @@ E-posta : sup.shukabot@gmail.com
 |s.dürt|Etiketlediğin kişiyi dürtersin|s.dürt (kullanıcı etiket)|
 |s.owoify|OwO Budanediw x3|s.owoify (metin)|
 |s.8ball|Bota soru sorarsın|s.8ball (soru)|
+|s.fakeyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.fakeyaz (kullanıcı etiket) (metin)|
 |s.rusruleti|Rus ruleti oynarsın|YOK|
 |s.mayın-tarlası|Mayın tarlası oynarsın|s.mayın-tarlası (satır) (sütun) (mayın)|
-|s.resimliyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.resimliyaz (kullanıcı etiket) (metin)|
 |s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin)|
 |s.yazıdöndür|Yazdığın yazıyı ters çevirir|s.yazıdöndür (metin)|
-|s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü (url)|
 |s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello (etiket)|
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 
-# Müzik [8]
+# Müzik [9]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -112,13 +111,13 @@ E-posta : sup.shukabot@gmail.com
 |s.ses|Oynatılan şarkının sesini ayarlar|s.ses (0 - 100)|
 |s.durdur|Oynatılan şarkıyı kapatır|YOK|
 |s.geç|Sırada şarkıya geçer|YOK|
-|s.hızlı-geç|Birden fazla şarkıyı geçmenizi sağlar|s.hızlı-geç (geçilecek şarkı sayısı)|
+|s.atla|Birden fazla şarkıyı geçmenizi sağlar|s.atla (geçilecek şarkı sayısı)|
 |s.döngü|Şarkı veya şarkıları sürekli tekrarlar|YOK|
 |s.karıştır|Karışık çalmayı açar|YOK|
 |s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini gösterir|s.lyrics (şarkı adı)|
 
 
-# Bot [6]
+# Bot [8]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -128,8 +127,10 @@ E-posta : sup.shukabot@gmail.com
 |s.shuka-bilgi|Botun bilgilerini gösterir yapımcı,oluşturulma tarihi vb |YOK|
 |s.davet|Botun davet [linki](waa.ai/shuka)ni atar. |YOK|
 |s.komutsayısı|Bottaki toplam komut sayısını atar|YOK|
+|s.shuka-sil|Botun Kanala attığı son 100 mesajı siler|YOK|
+|s.shuka-nick|Botun sunucudaki takma adını ayarlar|s.shuka-nick (yeni nick) |
 
-# Yetkili [9] 
+# Yetkili [7] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -140,10 +141,8 @@ E-posta : sup.shukabot@gmail.com
 |s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick (kullanıcı etiket) (sebep)|
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 1|s.sil (silinecek mesaj sayısı) |
 |s.sabitle|ID'sini attığınız mesajı sabitler|s.sabitle (mesaj ID) |
-|s.shuka-sil|Botun Kanala attığı son 100 mesajı siler|YOK|
-|s.shuka-nick|Botun sunucudaki takma adını ayarlar|s.shuka-nick (yeni nick) |
 
-# Kullanıcı [21] 
+# Kullanıcı [22] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -168,4 +167,4 @@ E-posta : sup.shukabot@gmail.com
 |s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy (gif adı) |
 |s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt (emoji)|
 |s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi (emoji ismi) |
-
+|s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü (url)|
