@@ -118,7 +118,7 @@ E-posta : sup.shukabot@gmail.com
 |s.çalan|Çalan şarkı hakkında bilgi verir|YOK|
 |s.duraklat|Çalan şarkıyı duraklatır|YOK|
 |s.devamet|Duraklatılan şarkıyı devam ettirir|YOK|
-|s.earrape|Kulak zarınızı yokeder|YOK|
+|s.earrape|Kulak zarınızı yokeder|s.earrape (aç/kapat)|
 
 # Bot [10]
 
