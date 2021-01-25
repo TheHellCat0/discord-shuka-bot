@@ -114,7 +114,7 @@ E-posta : sup.shukabot@gmail.com
 |s.atla|Birden fazla şarkıyı geçmenizi sağlar|s.atla (geçilecek şarkı sayısı)|
 |s.döngü|Şarkı veya şarkıları sürekli tekrarlar|YOK|
 |s.karıştır|Karışık çalmayı açar|YOK|
-|s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini gösterir|s.lyrics (şarkı adı)|
+|s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini aratır|s.lyrics (şarkı adı)|
 |s.çalan|Çalan şarkı hakkında bilgi verir|YOK|
 |s.duraklat|Çalan şarkıyı duraklatır|YOK|
 |s.devamet|Duraklatılan şarkıyı devam ettirir|YOK|
