@@ -77,7 +77,7 @@ E-posta : sup.shukabot@gmail.com
 |s.karakterara|Yazdığın anime,manga [karakter](https://myanimelist.net/character/87877/Shuka_Karino)in bilgilerini alırsın|s.karakterara (karakter adı)|
 |s.myanimelistprofil|MyAnimeList'de [kullanıcı](https://myanimelist.net/profile/TheHellCat) profilini ararsın|s.myanimelistprofil (m.a.l. kullanıcı adı)|
 |s.loli|FBI evine loli gönderir 🙃|YOK|
-|s.pokemon|[Pokemon](https://www.pokemon.com/us/pokedex/)un bilgilerini ararsın|s.pokemon (pokemon adı)|
+|s.pokemon|Yazdığınız [Pokemon](https://www.pokemon.com/us/pokedex/)un bilgilerini alırsın|s.pokemon (pokemon adı)|
 |s.kanna|Kannaya yazı yazdırırsın|s.kanna (metin)|
 |s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru (metin)|
 
