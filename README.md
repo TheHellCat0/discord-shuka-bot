@@ -78,7 +78,7 @@ E-posta : sup.shukabot@gmail.com
 |s.myanimelistprofil|MyAnimeList'de [kullanıcı](https://myanimelist.net/profile/TheHellCat) profilini ararsın|s.myanimelistprofil (m.a.l. kullanıcı adı)|
 |s.loli|FBI evine loli gönderir 🙃|YOK|
 |s.pokemon|Yazdığınız [Pokemon](https://www.pokemon.com/us/pokedex/)un bilgilerini alırsın|s.pokemon (pokemon adı)|
-|s.kanna|Kannaya yazı yazdırırsın|s.kanna (metin)|
+|s.kanna|Kanna'ya yazı yazdırırsın|s.kanna (metin)|
 |s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru (metin)|
 
 # Eğlence [16]
@@ -94,7 +94,7 @@ E-posta : sup.shukabot@gmail.com
 |s.dürt|Etiketlediğin kişiyi dürtersin|s.dürt (kullanıcı etiket)|
 |s.owoify|OwO Budanediw x3|s.owoify (metin)|
 |s.8ball|Bota soru sorarsın|s.8ball (soru)|
-|s.fakeyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.fakeyaz (dark/light) (kullanıcı etiket) (metin)|
+|s.fakeyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.fakeyaz (dark/amoled/light) (kullanıcı etiket) (metin)|
 |s.rusruleti|Rus ruleti oynarsın|YOK|
 |s.mayın-tarlası|Mayın tarlası oynarsın|s.mayın-tarlası (satır) (sütun) (mayın)|
 |s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin)|
