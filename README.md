@@ -152,7 +152,7 @@ E-posta : sup.shukabot@gmail.com
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
-|s.avatar|Etiketlediğin kullanıcının Avatarını atar|s.avatar \ s.avatar (etiket - id) |
+|s.avatar|İstediğiniz kullanıcın avatarını gösterir|s.avatar \ s.avatar (etiket - id) |
 |s.sunucuikon|Sunucunun İkonunu atar|YOK|
 |s.yetkiler|Bir kullanıcının sunucudaki yetkilerine bakarsın|s.yetkiler (kullanıcı etiket) |
 |s.roller|Sunucudaki tüm rolleri ve yetki seviyesini listeler|YOK|
