@@ -171,6 +171,6 @@ E-posta : sup.shukabot@gmail.com
 |s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu kullanıcı (kullanıcı adı) / s.osu beatmap (beatmap id) |
 |s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy (gif adı) |
-|s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt (emoji)|
+|s.emojibüyüt|Attığınız emojiyi büyütür|s.emojibüyüt (emoji)|
 |s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi (emoji ismi) |
 |s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü (url)|
