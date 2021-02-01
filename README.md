@@ -54,7 +54,7 @@ E-posta : sup.shukabot@gmail.com
  
  <a href="#Anime-9">Anime</a>
 • 
-<a href="#Eğlence-16">Eğlence</a>
+<a href="#Eğlence-17">Eğlence</a>
 •
 <a href="#Müzik-13">Müzik<a/>
 •
@@ -81,7 +81,7 @@ E-posta : sup.shukabot@gmail.com
 |s.kanna|Kanna'ya yazı yazdırırsın|s.kanna (metin)|
 |s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru (metin)|
 
-# Eğlence [16]
+# Eğlence [17]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -92,6 +92,7 @@ E-posta : sup.shukabot@gmail.com
 |s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (kullanıcı etiket)|
 |s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (kullanıcı etiket)|
 |s.dürt|Etiketlediğin kişiyi dürtersin|s.dürt (kullanıcı etiket)|
+|s.ağla|Ağlarsın|YOK|
 |s.owoify|OwO Budanediw x3|s.owoify (metin)|
 |s.8ball|Bota soru sorarsın|s.8ball (soru)|
 |s.fakeyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.fakeyaz (dark/amoled/light) (kullanıcı etiket) (metin)|
