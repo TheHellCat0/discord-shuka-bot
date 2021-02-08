@@ -1,4 +1,4 @@
-|Komut [8]|
+|Komut [10]|
 |-|
 |s.hentai|
 |s.hentai-gif|
@@ -8,3 +8,5 @@
 |s.tits|
 |s.classic|
 |s.pgif|
+|s.danbooru|
+|s.realbooru|
