@@ -54,7 +54,7 @@ E-posta : sup.shukabot@gmail.com
  
  <a href="#Anime-9">Anime</a>
 • 
-<a href="#Eğlence-17">Eğlence</a>
+<a href="#Eğlence-18">Eğlence</a>
 •
 <a href="#Müzik-13">Müzik<a/>
 •
