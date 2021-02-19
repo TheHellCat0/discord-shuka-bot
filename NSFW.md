@@ -9,4 +9,5 @@
 |s.classic|
 |s.pgif|
 |s.danbooru|
+|s.gelbooru|
 |s.realbooru|
