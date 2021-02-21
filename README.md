@@ -60,7 +60,7 @@ E-posta : sup.shukabot@gmail.com
 •
 <a href="#Bot-10">Bot</a>
 •
-<a href="#Yetkili-8">Yetkili</a>
+<a href="#Yetkili-9">Yetkili</a>
 •
 <a href="#Kullanıcı-22">Kullanıcı</a>
 •
@@ -137,7 +137,7 @@ E-posta : sup.shukabot@gmail.com
 |s.bildir|Hata,bug,yada önerileri sahibime gönderirsin|s.bildir (metin)|
 |s.yenilikler|Son yapılan değişiklikleri gösterir|YOK|
 
-# Yetkili [8] 
+# Yetkili [9] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -145,6 +145,7 @@ E-posta : sup.shukabot@gmail.com
 |s.forceban|ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar|s.forceban (kullanıcı id) (isteğe bağlı sebep) |
 |s.unban|ID'sini attığınız kullanıcının yasağını kaldırır|s.unban (id) (isteğe bağlı sebep)|
 |s.emojiekle|Linkini attığınız emojiyi sunucuya yükler|s.emojiekle (emoji linki .png,.jpg,.gif) (emoji ismi)|
+|s.emojisil|Attığınız yada adını girdiğiniz emojiyi siler|s.emojisil (emoji/emoji ismi)|
 |s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick (kullanıcı etiket) (sebep)|
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 1|s.sil (silinecek mesaj sayısı) |
 |s.sabitle|ID'sini attığınız mesajı sabitler|s.sabitle (mesaj ID) |
