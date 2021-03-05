@@ -5,15 +5,6 @@ client.config = require("./config.js");
 client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();
 
-require('child_process').execFile('find', [ 'komutlar/' ], function(err, stdout, stderr) {
-  var files = stdout.split('\n');
-  if (err) {
-    if (err.message === "...") {
-      return console.error(`Komut Dizini Bulunamadı!`);
-    } else {
-      return console.error(`Hata: ${err}`);
-    };
-  };
 
   
   console.log(`_________________________________${jsfile.length} komut yüklenecek_________________________________
@@ -44,7 +35,7 @@ Yükleniyor: ${props.help.name}.`);
 
 client.on("message", async message => {
 
-  require("./modules/functions.js")(client, message);
+  require("./f.js")(client, message);
   if (message.author.bot) return;
   
   let command = message.content.split(" ")[0];
