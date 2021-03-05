@@ -10,13 +10,14 @@ const config = {
   botID: "669179772575940629",
   
   //------------
+  osuapi: "", 
   dblapi:  "",
   discordbotlistapi : "",
   bfdapi : "",
   dboats : "",
   giphyapi: "",
   tenorapi: "",
-  YOUTUBE_APİ_KEY: "",
+  YOUTUBE_API_KEY: "",
   prefix: "s.",
   token: ""
   
