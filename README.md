@@ -52,7 +52,7 @@ E-posta : sup.shukabot@gmail.com
 
 <p align="center">
  
- <a href="#Anime-9">Anime</a>
+ <a href="#Anime-10">Anime</a>
 • 
 <a href="#Eğlence-18">Eğlence</a>
 •
@@ -67,7 +67,7 @@ E-posta : sup.shukabot@gmail.com
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
 
-# Anime [9]
+# Anime [10]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -80,6 +80,7 @@ E-posta : sup.shukabot@gmail.com
 |s.pokemon|Yazdığınız [Pokemon](https://www.pokemon.com/us/pokedex/)un bilgilerini alırsın|s.pokemon (pokemon adı)|
 |s.kanna|Kanna'ya yazı yazdırırsın|s.kanna (metin)|
 |s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru (metin)|
+|s.kanochan|kanochan.net'de resim araması yaparsın.|s.kanochan (tag)|
 
 # Eğlence [18]
 
