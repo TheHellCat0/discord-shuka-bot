@@ -1,4 +1,4 @@
-|Komut [10]|
+|Komut [13]|
 |-|
 |s.hentai|
 |s.hentai-gif|
@@ -11,3 +11,5 @@
 |s.danbooru|
 |s.gelbooru|
 |s.realbooru|
+|s.xbooru|
+|s.yandere|
