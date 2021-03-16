@@ -1,10 +1,11 @@
-|Komut [13]|
+|[13] Komut|
 |-|
 |s.hentai|
 |s.hentai-gif|
 |s.trap|
 |s.yuri|
 |s.hanal|
+|s.tentacle|
 |s.tits|
 |s.classic|
 |s.pgif|
