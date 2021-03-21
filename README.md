@@ -62,7 +62,7 @@ E-posta : sup.shukabot@gmail.com
 •
 <a href="#Yetkili-10">Yetkili</a>
 •
-<a href="#Kullanıcı-22">Kullanıcı</a>
+<a href="#Kullanıcı-23">Kullanıcı</a>
 •
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
@@ -154,7 +154,7 @@ E-posta : sup.shukabot@gmail.com
 |s.unpin|ID'sini attığınız mesajın sabitlemesini kaldırır|s.unpin (mesaj ID) |
 |s.nuke|Kanalı klonlar ve eskisini siler|s.nuke/s.nuke (kanal etiket)|
 
-# Kullanıcı [22] 
+# Kullanıcı [23] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -177,6 +177,7 @@ E-posta : sup.shukabot@gmail.com
 |s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu kullanıcı (kullanıcı adı) / s.osu beatmap (beatmap id) |
 |s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy (gif adı) |
+|s.pinterest|[Pinterest](http://pinterst.com/)'de foto,gif ararsın|s.pinterest (foto,gif adı) |
 |s.emojibüyüt|Attığınız emojiyi büyütür|s.emojibüyüt (emoji)|
 |s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi (emoji ismi) |
 |s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü (url)|
