@@ -66,13 +66,12 @@ client.on("ready", () => {
     type: "WATCHING"
    });*/
   console.log(`${client.user.username} aktif edildi!`);
-  console.log(`${client.guilds.cache.size} sunucu ${client.users.cache.size} kullanıcı ${client.channels.cache.size} kanal ${client.emojis.cache.size} emoji`
-  );
+   );
 });
 ///
 
 const DBL = require("dblapi.js");
-const dbl = new DBL('Yoh sana token', client);
+const dbl = new DBL('ğ', client);
 
 
 dbl.on('posted', () => {
