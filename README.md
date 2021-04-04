@@ -16,6 +16,10 @@ Destek,İletişim
 Discord : *HellCat#8191
 E-posta : sup.shukabot@gmail.com
 ```
+```
+< > : Gerekli
+[ ] : İsteğe bağlı
+```
 
   <a href="https://discord.gg/ZwZHgsrApM" target="_blank">
   <img src="https://discordapp.com/api/guilds/521354221338099736/embed.png?style=shield" alt="">
