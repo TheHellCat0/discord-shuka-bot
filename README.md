@@ -13,7 +13,7 @@ Prefixler
 Destek,İletişim 
 
 ```
-Discord : *HellCat#8699
+Discord : *HellCat#9890
 E-posta : hellcat855@gmail.com
 ```
 ```
