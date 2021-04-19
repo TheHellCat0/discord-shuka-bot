@@ -76,13 +76,13 @@ E-posta : hellcat855@gmail.com
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
 |s.kitsu-anime|[Kitsu](https://kitsu.io/)'da anime ararsın|s.kitsu-anime <anime adı>|
-|s.kitsu-manga|Kitsu'da manga ararsın|s.kitsu-manga <manga adı>|
-|s.animeara|[MyAnimeList](https://myanimelist.net/anime/38656/Darwins_Game)'de anime ararsın|s.animeara <anime adı>|
-|s.karakterara|Yazdığın anime,manga [karakter](https://myanimelist.net/character/87877/Shuka_Karino)in bilgilerini alırsın|s.karakterara <karakter adı>|
-|s.myanimelistprofil|MyAnimeList'de [kullanıcı](https://myanimelist.net/profile/TheHellCat) profilini ararsın|s.myanimelistprofil <m.a.l. kullanıcı adı>|
+|s.kitsu-manga|Kitsu'da manga ararsın|s.kitsu-manga <manga adı>.|
+|s.animeara|[MyAnimeList](https://myanimelist.net/anime/38656/Darwins_Game)'de anime ararsın|s.animeara <anime adı>.|
+|s.karakterara|Yazdığın anime,manga [karakter](https://myanimelist.net/character/87877/Shuka_Karino)in bilgilerini alırsın|s.karakterara <karakter adı>.|
+|s.myanimelistprofil|MyAnimeList'de [kullanıcı](https://myanimelist.net/profile/TheHellCat) profilini ararsın|s.myanimelistprofil <m.a.l. kullanıcı adı>.|
 |s.loli|FBI evine loli gönderir 🙃|YOK|
-|s.pokemon|Yazdığınız [Pokemon](https://www.pokemon.com/us/pokedex/)un bilgilerini alırsın|s.pokemon <pokemon adı>|
-|s.kanna|Kanna'ya yazı yazdırırsın|s.kanna <metin>|
+|s.pokemon|Yazdığınız [Pokemon](https://www.pokemon.com/us/pokedex/)un bilgilerini alırsın|s.pokemon <pokemon adı>.|
+|s.kanna|Kanna'ya yazı yazdırırsın|s.kanna <metin>.|
 |s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru [tag]|
 
 # Eğlence [20]
