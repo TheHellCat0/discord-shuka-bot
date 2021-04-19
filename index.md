@@ -3,7 +3,7 @@
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
-|s.kitsu-anime|[Kitsu](https://kitsu.io/)'da anime ararsın|s.kitsu-anime <anime adı>|
+|s.kitsu-anime|[Kitsu](https://kitsu.io/)'da anime ararsın|s.kitsu-anime < anime adı >|
 |s.kitsu-manga|Kitsu'da manga ararsın|s.kitsu-manga <manga adı>.|
 |s.animeara|[MyAnimeList](https://myanimelist.net/anime/38656/Darwins_Game)'de anime ararsın|s.animeara <anime adı>.|
 |s.karakterara|Yazdığın anime,manga [karakter](https://myanimelist.net/character/87877/Shuka_Karino)in bilgilerini alırsın|s.karakterara <karakter adı>.|
