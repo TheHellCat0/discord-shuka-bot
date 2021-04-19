@@ -185,5 +185,5 @@ E-posta : hellcat855@gmail.com
 |s.emojibüyüt|Attığınız emojiyi büyütür|s.emojibüyüt <.emoji>|
 |s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi <.emoji ismi>|
 |s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü <.URL>|
-|s.palet|Resimdeki renk paleti gösterir|s.palet [etiket/.png/.jpg/.gif]|
+|s.palet|Resimdeki renk paletini gösterir|s.palet [etiket/.png/.jpg/.gif]|
 |s.cinsiyet|Yazılan ismin muhtemel cisiyetini gösterir|s.cinsiyet <.isim>|
