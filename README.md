@@ -129,7 +129,41 @@ E-posta : hellcat855@gmail.com
 | :------------ |:---------------:| -----:|
 |s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu kullanıcı <kullanıcı adı> / s.osu beatmap <.beatmap id>|
 
-# Eğlence [20]
+# Arama [8]
+
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
+| :------------ |:---------------:| -----:|
+|s.cinsiyet|Yazılan ismin muhtemel cisiyetini gösterir|s.cinsiyet <.isim>|
+|s.github|[Github](https://github.com)'da kullanıcı veya repo araması yaparsın|s.github <.repo / kullanıcı / gist> <.repo adı / kullanıcı adı / gist id>| 
+|s.hex ara /random|Girdiğiniz [hex](https://www.color-hex.com/) kodunun bilgilerini gösterir|s.hex ara <renk kodu> - s.hex random|
+|s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor <.tag>|
+|s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy <.tag>|
+|s.pinterest|[Pinterest](http://pinterst.com/)'de foto,gif ararsın|s.pinterest <.tag>|
+|s.wikipedia|[Wikipedia](https://tr.m.wikipedia.org/)'da arama yaparsın|s.wikipedia <.kelime>| 
+|s.youtube|[YouTube](https://www.youtube.com/)'da video araması yaparsın|s.youtube <.video adı>|
+
+# Genel [16] 
+
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
+| :------------ |:---------------:| -----:|
+|s.avatar|İstediğiniz kullanıcın avatarını gösterir|s.avatar [kullanıcı etiket / id]|
+|s.sunucuikon|Sunucunun İkonunu atar|YOK|
+|s.yetkiler|Bir kullanıcının sunucudaki yetkilerine bakarsın|s.yetkiler [kullanıcı etiket]|
+|s.roller|Sunucudaki tüm rolleri ve yetki seviyesini listeler|YOK|
+|s.yaz|Yazdığın metini bota yazdırır (everyone here atmaz!) |s.yaz <.metin>|
+|s.sunucubilgi|Sunucu hakkında bilgi verir|YOK|
+|s.kullanıcıbilgi|Etiketlediğiniz kullanıcı hakkında bilgi verir|s.kullanıcıbilgi [etiket]|
+|s.kanalbilgi|Kullandığınız kanal hakkında bilgi verir|YOK|
+|s.qr oluştur/okut|Yazınızı qr koduna dönüştürür/okutur|s.qr oluştur <metin> - s.qr okut <.png/.jpg>|
+|s.base64 oluşur/çöz|Yazınızı base64 formatına dönüştürür/okutur|s.base64 oluştur <.metin> - s.base64 çöz <.base64 metin>|
+|s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı <.metin>|
+|s.hesapla|4 işlemden istediğini yaparsın|s.hesapla <Bölme: / Çarpma: * Toplama: + Çıkartma: ->|
+|s.emojibüyüt|Attığınız emojiyi büyütür|s.emojibüyüt <.emoji>|
+|s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi <.emoji ismi>|
+|s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü <.URL>|
+|s.palet|Resimdeki renk paletini gösterir|s.palet [etiket/.png/.jpg/.gif]|
+
+# Eğlence [12]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -172,32 +206,5 @@ E-posta : hellcat855@gmail.com
 |s.unpin|ID'sini attığınız mesajın sabitlemesini kaldırır|s.unpin <.mesaj ID>|
 |s.nuke|Kanalı klonlar ve eskisini siler|s.nuke [kanal etiket] |
 
-# Kullanıcı [25] 
 
-|`Komut`|`Açıklama`|`Kullanım Örneği`|
-| :------------ |:---------------:| -----:|
-|s.avatar|İstediğiniz kullanıcın avatarını gösterir|s.avatar [kullanıcı etiket / id]|
-|s.sunucuikon|Sunucunun İkonunu atar|YOK|
-|s.yetkiler|Bir kullanıcının sunucudaki yetkilerine bakarsın|s.yetkiler [kullanıcı etiket]|
-|s.roller|Sunucudaki tüm rolleri ve yetki seviyesini listeler|YOK|
-|s.yaz|Yazdığın metini bota yazdırır (everyone here atmaz!) |s.yaz <.metin>|
-|s.youtube|[YouTube](https://www.youtube.com/)'da video araması yaparsın|s.youtube <.video adı>|
-|s.sunucubilgi|Sunucu hakkında bilgi verir|YOK|
-|s.kullanıcıbilgi|Etiketlediğiniz kullanıcı hakkında bilgi verir|s.kullanıcıbilgi [etiket]|
-|s.kanalbilgi|Kullandığınız kanal hakkında bilgi verir|YOK|
-|s.wikipedia|[Wikipedia](https://tr.m.wikipedia.org/)'da arama yaparsın|s.wikipedia <.kelime>| 
-|s.qr oluştur/okut|Yazınızı qr koduna dönüştürür/okutur|s.qr oluştur <metin> - s.qr okut <.png/.jpg>|
-|s.base64 oluşur/çöz|Yazınızı base64 formatına dönüştürür/okutur|s.base64 oluştur <.metin> - s.base64 çöz <.base64 metin>|
-|s.github|[Github](https://github.com)'da kullanıcı veya repo araması yaparsın|s.github <.repo / kullanıcı / gist> <.repo adı / kullanıcı adı / gist id>|
-|s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı <.metin>|
-|s.hesapla|4 işlemden istediğini yaparsın|s.hesapla <Bölme: / Çarpma: * Toplama: + Çıkartma: ->|
-|s.hex ara /random|Girdiğiniz [hex](https://www.color-hex.com/) kodunun bilgilerini gösterir|s.hex ara <renk kodu> - s.hex random|
-|s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor <.tag>|
-|s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy <.tag>|
-|s.pinterest|[Pinterest](http://pinterst.com/)'de foto,gif ararsın|s.pinterest <.tag>|
-|s.emojibüyüt|Attığınız emojiyi büyütür|s.emojibüyüt <.emoji>|
-|s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi <.emoji ismi>|
-|s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü <.URL>|
-|s.palet|Resimdeki renk paletini gösterir|s.palet [etiket/.png/.jpg/.gif]|
-|s.cinsiyet|Yazılan ismin muhtemel cisiyetini gösterir|s.cinsiyet <.isim>|
-  
+
