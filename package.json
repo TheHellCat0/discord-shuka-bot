@@ -1,16 +1,13 @@
 {
   "name": "shuka-beta",
-  "version": "5.5.2-b",
+  "version": "6.0.0-b",
   "description": "Anime 🧡",
   "main": "shuka.js",
   "scripts": {
     "start": "node shuka.js"
   },
   "dependencies": {
-    "axios": "^0.21.0",
     "ffmpeg-static": "^4.2.7",
-    "chalk": "^4.1.0",
-    "chance": "^1.1.7",
     "string-progressbar":"^1.0.1",
     "cheerio": "^1.0.0-rc.3",
     "common-tags": "^1.8.0",
