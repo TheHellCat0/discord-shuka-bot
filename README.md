@@ -170,14 +170,6 @@ E-posta : hellcat855@gmail.com
 |s.ascii|Yazdığın metini ascii formatına dönüştürür|s.ascii <.metin>|
 |s.asciiart|Yazdığın metini ascii formatına dönüştürür|s.asciiart <etiket/.png/.jpg/.gif>|
 |s.yazıtura|Japon parasi ile yazı tura atarsın|YOK|
-|s.öp|Etiketlediğin kişiyi öpersin|s.öp <.kullanıcı etiket>|
-|s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla <.kullanıcı etiket>|
-|s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa <.kullanıcı etiket>|
-|s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl <.kullanıcı etiket>|
-|s.dürt|Etiketlediğin kişiyi dürtersin|s.dürt <.kullanıcı etiket>|
-|s.ağla|Ağlarsın|YOK|
-|s.napim|Laf koyarsın|s.napim [etiket]|
-|s.ohaçet|oooooooha çet nedio|YOK|
 |s.owoify|OwO Budanediw x3|s.owoify <.metin>|
 |s.8ball|Bota soru sorarsın|s.8ball <.soru>|
 |s.fakeyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.fakeyaz <dark/amoled/light> <.kullanıcı etiket> <.metin>|
@@ -187,9 +179,6 @@ E-posta : hellcat855@gmail.com
 |s.yazıdöndür|Yazdığın yazıyı ters çevirir|s.yazıdöndür <.metin>|
 |s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello <.etiket>|
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
-
-
-
 
 # Yetkili [10] 
 
@@ -207,4 +196,15 @@ E-posta : hellcat855@gmail.com
 |s.nuke|Kanalı klonlar ve eskisini siler|s.nuke [kanal etiket] |
 
 
+# Reaksiyon [8]
 
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
+| :------------ |:---------------:| -----:|
+|s.öp|Etiketlediğin kişiyi öpersin|s.öp <.kullanıcı etiket>|
+|s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla <.kullanıcı etiket>|
+|s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa <.kullanıcı etiket>|
+|s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl <.kullanıcı etiket>|
+|s.dürt|Etiketlediğin kişiyi dürtersin|s.dürt <.kullanıcı etiket>|
+|s.ağla|Ağlarsın|YOK|
+|s.napim|Laf koyarsın|s.napim [etiket]|
+|s.ohaçet|oooooooha çet nedio|YOK|
