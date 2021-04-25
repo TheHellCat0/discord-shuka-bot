@@ -76,6 +76,21 @@ E-posta : hellcat855@gmail.com
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
 
+# Bot [10]
+
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
+| :------------ |:---------------:| -----:|
+|s.çalışmasüresi|Botun aktif olduğu süreyi gösterir|YOK|
+|s.ping|Botun gecikmesini ölçer|YOK|
+|s.vote|Botun oy verme [sayfası](http://bit.ly/shuka-vote)nın linkini atar|YOK|
+|s.shuka-bilgi|Bilgi ve istatistiklerimi gösterir|YOK|
+|s.davet|Botun davet [linki](waa.ai/shuka)ni atar|YOK|
+|s.komutsayısı|Bottaki toplam komut sayısını gösterir|YOK|
+|s.shuka-sil|Botun Kanala attığı son 100 mesajı siler|YOK|
+|s.shuka-nick|Botun sunucudaki takma adını ayarlar|s.shuka-nick <.yeni nick>|
+|s.bildir|Hata,bug,yada önerileri sahibime gönderirsin|s.bildir <.metin>|
+|s.yenilikler|Son yapılan değişiklikleri gösterir|YOK|
+
 # Anime [9]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
@@ -89,6 +104,30 @@ E-posta : hellcat855@gmail.com
 |s.pokemon|Yazdığınız [Pokemon](https://www.pokemon.com/us/pokedex/)'un bilgilerini alırsın|s.pokemon <.pokemon adı>|
 |s.kanna|Kanna'ya yazı yazdırırsın|s.kanna <.metin>|
 |s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru [tag]|
+
+# Müzik [13]
+
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
+| :------------ |:---------------:| -----:|
+|s.çal|İsmini yada linkini attığınız YouTube parçasını oynatır|s.çal <Video İsmi/Video Linki>|
+|s.çalmalistesi|İsmini yada linkini attığınız YouTube çalma listesini oynatır|s.çalmalistesi <PlayList İsmi/PlayList Linki>|
+|s.ses|Oynatılan şarkının sesini ayarlar|s.ses <0 - 100>|
+|s.durdur|Oynatılan şarkıyı kapatır|YOK|
+|s.geç|Sırada şarkıya geçer|YOK|
+|s.atla|Birden fazla şarkıyı geçmenizi sağlar|s.atla <.geçilecek şarkı sayısı>|
+|s.döngü|Şarkı veya şarkıları sürekli tekrarlar|YOK|
+|s.karıştır|Karışık çalmayı açar|YOK|
+|s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini aratır|s.lyrics <.şarkı adı>|
+|s.çalan|Çalan şarkı hakkında bilgi verir|YOK|
+|s.duraklat|Çalan şarkıyı duraklatır|YOK|
+|s.devamet|Duraklatılan şarkıyı devam ettirir|YOK|
+|s.earrape|Kulak zarınızı yokeder|s.earrape <.aç/kapat>|
+
+# Oyun [1]
+
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
+| :------------ |:---------------:| -----:|
+|s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu kullanıcı <kullanıcı adı> / s.osu beatmap <.beatmap id>|
 
 # Eğlence [20]
 
@@ -115,38 +154,8 @@ E-posta : hellcat855@gmail.com
 |s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello <.etiket>|
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 
-# Müzik [13]
 
-|`Komut`|`Açıklama`|`Kullanım Örneği`|
-| :------------ |:---------------:| -----:|
-|s.çal|İsmini yada linkini attığınız YouTube parçasını oynatır|s.çal <Video İsmi/Video Linki>|
-|s.çalmalistesi|İsmini yada linkini attığınız YouTube çalma listesini oynatır|s.çalmalistesi <PlayList İsmi/PlayList Linki>|
-|s.ses|Oynatılan şarkının sesini ayarlar|s.ses <0 - 100>|
-|s.durdur|Oynatılan şarkıyı kapatır|YOK|
-|s.geç|Sırada şarkıya geçer|YOK|
-|s.atla|Birden fazla şarkıyı geçmenizi sağlar|s.atla <.geçilecek şarkı sayısı>|
-|s.döngü|Şarkı veya şarkıları sürekli tekrarlar|YOK|
-|s.karıştır|Karışık çalmayı açar|YOK|
-|s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini aratır|s.lyrics <.şarkı adı>|
-|s.çalan|Çalan şarkı hakkında bilgi verir|YOK|
-|s.duraklat|Çalan şarkıyı duraklatır|YOK|
-|s.devamet|Duraklatılan şarkıyı devam ettirir|YOK|
-|s.earrape|Kulak zarınızı yokeder|s.earrape <.aç/kapat>|
 
-# Bot [10]
-
-|`Komut`|`Açıklama`|`Kullanım Örneği`|
-| :------------ |:---------------:| -----:|
-|s.çalışmasüresi|Botun aktif olduğu süreyi gösterir|YOK|
-|s.ping|Botun gecikmesini ölçer|YOK|
-|s.vote|Botun oy verme [sayfası](http://bit.ly/shuka-vote)nın linkini atar|YOK|
-|s.shuka-bilgi|Bilgi ve istatistiklerimi gösterir|YOK|
-|s.davet|Botun davet [linki](waa.ai/shuka)ni atar|YOK|
-|s.komutsayısı|Bottaki toplam komut sayısını gösterir|YOK|
-|s.shuka-sil|Botun Kanala attığı son 100 mesajı siler|YOK|
-|s.shuka-nick|Botun sunucudaki takma adını ayarlar|s.shuka-nick <.yeni nick>|
-|s.bildir|Hata,bug,yada önerileri sahibime gönderirsin|s.bildir <.metin>|
-|s.yenilikler|Son yapılan değişiklikleri gösterir|YOK|
 
 # Yetkili [10] 
 
@@ -183,7 +192,6 @@ E-posta : hellcat855@gmail.com
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı <.metin>|
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla <Bölme: / Çarpma: * Toplama: + Çıkartma: ->|
 |s.hex ara /random|Girdiğiniz [hex](https://www.color-hex.com/) kodunun bilgilerini gösterir|s.hex ara <renk kodu> - s.hex random|
-|s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu kullanıcı <kullanıcı adı> / s.osu beatmap <.beatmap id>|
 |s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor <.tag>|
 |s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy <.tag>|
 |s.pinterest|[Pinterest](http://pinterst.com/)'de foto,gif ararsın|s.pinterest <.tag>|
@@ -192,3 +200,4 @@ E-posta : hellcat855@gmail.com
 |s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü <.URL>|
 |s.palet|Resimdeki renk paletini gösterir|s.palet [etiket/.png/.jpg/.gif]|
 |s.cinsiyet|Yazılan ismin muhtemel cisiyetini gösterir|s.cinsiyet <.isim>|
+  
