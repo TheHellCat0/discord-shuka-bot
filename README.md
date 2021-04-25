@@ -55,18 +55,23 @@ E-posta : hellcat855@gmail.com
 -------------
 
 <p align="center">
- 
- <a href="#Anime-9">Anime</a>
+<a href="#Bot-10">Bot</a>
 • 
-<a href="#Eğlence-20">Eğlence</a>
+<a href="#Anime-9">Anime</a>
 •
 <a href="#Müzik-13">Müzik<a/>
 •
-<a href="#Bot-10">Bot</a>
+<a href="#Oyun-1">Oyun<a/>
+•
+<a href="#Arama-8">Arama<a/>
+•  
+<a href="#Genel-16">Genel</a>
+•
+<a href="#Eğlence-12">Eğlence</a>
 •
 <a href="#Yetkili-10">Yetkili</a>
 •
-<a href="#Kullanıcı-25">Kullanıcı</a>
+<a href="#Reaksiyon-8">Reaksiyon</a>
 • 
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
