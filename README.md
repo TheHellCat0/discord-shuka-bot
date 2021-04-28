@@ -157,7 +157,7 @@ E-posta : hellcat855@gmail.com
 |s.qr oluştur/okut|Yazınızı qr koduna dönüştürür/okutur|s.qr oluştur <metin> - s.qr okut <.png/.jpg>|
 |s.base64 oluşur/çöz|Yazınızı base64 formatına dönüştürür/okutur|s.base64 oluştur <.metin> - s.base64 çöz <.base64 metin>|
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı <.metin>|
-|s.hesapla|4 işlemden istediğini yaparsın|s.hesapla <Bölme: / Çarpma: * Toplama: + Çıkartma: ->|
+|s.hesapla|Tüm matematiksel işlemleri yaparsın|s.hesapla <.işlem>|
 |s.emojibüyüt|Attığınız emojiyi büyütür|s.emojibüyüt <.emoji>|
 |s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi <.emoji ismi>|
 |s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü <.URL>|
