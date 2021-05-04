@@ -71,7 +71,7 @@ E-posta : hellcat855@gmail.com
 •
 <a href="#Yetkili-10">Yetkili</a>
 •
-<a href="#Reaksiyon-8">Reaksiyon</a>
+<a href="#Reaksiyon-16">Reaksiyon</a>
 • 
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
@@ -196,10 +196,18 @@ E-posta : hellcat855@gmail.com
 |s.nuke|Kanalı klonlar ve eskisini siler|s.nuke [kanal etiket] |
 
 
-# Reaksiyon [8]
+# Reaksiyon [16]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
+|s.danset|Dans edersin|s.danset [etiket]|
+|s.aşağıla|Etiketlediğin kişiyi aşağılarsın|s.aşağıla <.etiket>|
+|s.ısır|Etiketlediğin kişiyi ısırırsın|s.ısır <.etiket>|
+|s.elsalla|El sallarsın|s.elsalla [etiket]|
+|s.utan|Utanırsın|YOK|
+|s.gözkırp|Göz kırparsın|s.gözkırp [etiket]|
+|s.gülümse|Gülümsersin|s.gülümse [etiket]|
+|s.yumrukla|Etiketlediğin kişiyi yumruklarsın|s.yumrukla <.etiket>|
 |s.öp|Etiketlediğin kişiyi öpersin|s.öp <.kullanıcı etiket>|
 |s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla <.kullanıcı etiket>|
 |s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa <.kullanıcı etiket>|
