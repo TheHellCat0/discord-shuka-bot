@@ -61,9 +61,7 @@ E-posta : hellcat855@gmail.com
 •
 <a href="#Müzik-13">Müzik<a/>
 •
-<a href="#Oyun-1">Oyun<a/>
-•
-<a href="#Arama-8">Arama<a/>
+<a href="#Arama-9">Arama<a/>
 •  
 <a href="#Genel-16">Genel</a>
 •
@@ -123,13 +121,7 @@ E-posta : hellcat855@gmail.com
 |s.devamet|Duraklatılan şarkıyı devam ettirir|YOK|
 |s.earrape|Kulak zarınızı yokeder|s.earrape <.aç/kapat>|
 
-# Oyun [1]
-
-|`Komut`|`Açıklama`|`Kullanım Örneği`|
-| :------------ |:---------------:| -----:|
-|s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu kullanıcı <kullanıcı adı> / s.osu beatmap <.beatmap id>|
-
-# Arama [8]
+# Arama [9]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -141,6 +133,7 @@ E-posta : hellcat855@gmail.com
 |s.pinterest|[Pinterest](http://pinterst.com/)'de foto,gif ararsın|s.pinterest <.tag>|
 |s.wikipedia|[Wikipedia](https://tr.m.wikipedia.org/)'da arama yaparsın|s.wikipedia <.kelime>| 
 |s.youtube|[YouTube](https://www.youtube.com/)'da video araması yaparsın|s.youtube <.video adı>|
+|s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu kullanıcı <kullanıcı adı> / s.osu beatmap <.beatmap id>|
 
 # Genel [16] 
 
