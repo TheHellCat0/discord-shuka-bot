@@ -1,5 +1,5 @@
 
-![Karino Shuka](https://i.imgur.com/T4Oip9p.gif)
+<div align="center"><img src ="https://i.imgur.com/Xz95pb2.png"></div>
 
 <h1 align="center">Shuka Bot</h1>
 
