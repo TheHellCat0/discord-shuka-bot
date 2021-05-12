@@ -69,6 +69,8 @@ E-posta : hellcat855@gmail.com
 •
 <a href="#Yetkili-10">Yetkili</a>
 •
+<a href="#Manipülasyon-10">Manipülasyon</a> 
+•
 <a href="#Reaksiyon-16">Reaksiyon</a>
 • 
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
@@ -188,6 +190,20 @@ E-posta : hellcat855@gmail.com
 |s.unpin|ID'sini attığınız mesajın sabitlemesini kaldırır|s.unpin <.mesaj ID>|
 |s.nuke|Kanalı klonlar ve eskisini siler|s.nuke [kanal etiket] |
 
+# Manipülasyon [10] 
+
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
+| :------------ |:---------------:| -----:|
+|s.blur|Resime bulanıklık efekti ekler|s.blur [etiket | emoji]  [blur seviyesi 1 min  max 100 ]|
+|s.blurple|Resime blurple efekti ekler|s.blurple [etiket|emoji]|
+|s.gay|Resime gay efekti ekler|s.gay [etiket|emoji]|
+|s.glitch|Resime glitch efekti ekler|s.glitch [etiket|emoji]|
+|s.greyscale|Resime greyscale efekti ekler|s.greyscale [etiket|emoji]|
+|s.invert|Resimdeki renkleri ters çevirir|s.invert [etiket|emoji]|
+|s.pixelize|Resime pixel efekti ekler|s.pixelize [etiket|emoji]  [pixel seviyesi min 1 max 50]|
+|s.posterize|Resime posterize efekti ekler|s.posterize [etiket|emoji]  [posterize seviyesi min 1 max 100]|
+|s.sepya|Resime sepya efekti ekler|s.sepya [etiket|emoji]|
+|s.trigger|Resime trigger efekti ekler|s.trigger [etiket|emoji]|
 
 # Reaksiyon [16]
 
