@@ -35,11 +35,11 @@ E-posta : hellcat855@gmail.com
 ![servers](https://top.gg/api/widget/servers/669179772575940629.png?leftcolor=ff7700&rightcolor=af1111&righttextcolor=4d0c43&lefttextcolor=afea22)
 
 
-<a href="https://discord.gg/ZwZHgsrApM" target="_blank">
+ <a href="https://discord.gg/ZwZHgsrApM" target="_blank">
   <img src="https://discordapp.com/api/guilds/521354221338099736/embed.png?style=banner1" alt="">
-</a>
+ </a>
  
- <a href="https://top.gg/bot/669179772575940629">D.B.L.</a>
+  <a href="https://top.gg/bot/669179772575940629">D.B.L.</a>
   •
   <a href="http://bit.ly/shuka-vote">Oy Ver</a>
   •
@@ -63,7 +63,7 @@ E-posta : hellcat855@gmail.com
 •
 <a href="#Arama-9">Arama<a/>
 •  
-<a href="#Genel-16">Genel</a>
+<a href="#Genel-17">Genel</a>
 •
 <a href="#Eğlence-12">Eğlence</a>
 •
@@ -137,7 +137,7 @@ E-posta : hellcat855@gmail.com
 |s.youtube|[YouTube](https://www.youtube.com/)'da video araması yaparsın|s.youtube <.video adı>|
 |s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu kullanıcı <kullanıcı adı> / s.osu beatmap <.beatmap id>|
 
-# Genel [16] 
+# Genel [17] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -157,6 +157,7 @@ E-posta : hellcat855@gmail.com
 |s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi <.emoji ismi>|
 |s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü <.URL>|
 |s.palet|Resimdeki renk paletini gösterir|s.palet [etiket/.png/.jpg/.gif]|
+|s.discordstatü|Discord'un durmunu gösterir|YOK|
 
 # Eğlence [12]
 
