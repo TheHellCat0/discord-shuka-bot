@@ -224,5 +224,5 @@ E-posta : hellcat855@gmail.com
 |s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl <.kullanıcı etiket>|
 |s.dürt|Etiketlediğin kişiyi dürtersin|s.dürt <.kullanıcı etiket>|
 |s.ağla|Ağlarsın|YOK|
-|s.napim|Laf koyarsın|s.napim [etiket]|
+|s.napim|Lafı koyarsın(!)|s.napim [etiket]|
 |s.ohaçet|oooooooha çet nedio|YOK|
