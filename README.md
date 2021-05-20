@@ -69,7 +69,7 @@ E-posta : hellcat855@gmail.com
 •
 <a href="#Yetkili-10">Yetkili</a>
 •
-<a href="#Manipülasyon-10">Manipülasyon</a> 
+<a href="#Manipülasyon-12">Manipülasyon</a> 
 •
 <a href="#Reaksiyon-16">Reaksiyon</a>
 • 
@@ -191,7 +191,7 @@ E-posta : hellcat855@gmail.com
 |s.unpin|ID'sini attığınız mesajın sabitlemesini kaldırır|s.unpin <.mesaj ID>|
 |s.nuke|Kanalı klonlar ve eskisini siler|s.nuke [kanal etiket] |
 
-# Manipülasyon [10] 
+# Manipülasyon [12] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -204,7 +204,9 @@ E-posta : hellcat855@gmail.com
 |s.pixelize|Resime pixel efekti ekler|s.pixelize [etiket / emoji]  [pixel seviyesi min 1 max 50] |
 |s.posterize|Resime posterize efekti ekler|s.posterize [etiket / emoji]  [posterize seviyesi min 1 max 100] |
 |s.sepya|Resime sepya efekti ekler|s.sepya [etiket / emoji] |
-|s.trigger|Resime trigger efekti ekler|s.trigger [etiket / emoji] |
+|s.trigger|trigger meme'i oluşturur|s.trigger [etiket / emoji] |
+|s.stickbug|stickbug meme'i oluşturur|s.stickbug [etiket / emoji] |
+|s.headpat|headpat meme'i oluşturur|s.headpat [etiket / emoji] |
 
 # Reaksiyon [16]
 
