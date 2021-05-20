@@ -226,3 +226,5 @@ E-posta : hellcat855@gmail.com
 |s.ağla|Ağlarsın|YOK|
 |s.napim|Lafı koyarsın(!)|s.napim [etiket]|
 |s.ohaçet|oooooooha çet nedio|YOK|
+
+# ⚠️ Bu Repo botun kaynak kodlarını içermemekte,ücretli veya ücretsiz şekilde istenilmesi kabul edilmez. 
