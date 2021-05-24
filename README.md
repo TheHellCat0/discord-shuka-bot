@@ -67,7 +67,7 @@ E-posta : hellcat855@gmail.com
 •
 <a href="#Eğlence-12">Eğlence</a>
 •
-<a href="#Yetkili-10">Yetkili</a>
+<a href="#Yetkili-11">Yetkili</a>
 •
 <a href="#Manipülasyon-12">Manipülasyon</a> 
 •
@@ -176,7 +176,7 @@ E-posta : hellcat855@gmail.com
 |s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello <.etiket>|
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 
-# Yetkili [10] 
+# Yetkili [11] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -190,6 +190,7 @@ E-posta : hellcat855@gmail.com
 |s.pin|ID'sini attığınız mesajı sabitler|s.pin <.mesaj ID>|
 |s.unpin|ID'sini attığınız mesajın sabitlemesini kaldırır|s.unpin <.mesaj ID>|
 |s.nuke|Kanalı klonlar ve eskisini siler|s.nuke [kanal etiket] |
+|s.otorol|Sunucuya giren botlara ve üyelere otomatik rol verir|s.otorol <.üye|bot> <.rol etiket|rol adı|rol ID>|
 
 # Manipülasyon [12] 
 
