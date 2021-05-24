@@ -190,7 +190,7 @@ E-posta : hellcat855@gmail.com
 |s.pin|ID'sini attığınız mesajı sabitler|s.pin <.mesaj ID>|
 |s.unpin|ID'sini attığınız mesajın sabitlemesini kaldırır|s.unpin <.mesaj ID>|
 |s.nuke|Kanalı klonlar ve eskisini siler|s.nuke [kanal etiket] |
-|s.otorol|Sunucuya giren botlara ve üyelere otomatik rol verir|s.otorol <.üye|bot> <.rol etiket|rol adı|rol ID>|
+|s.otorol|Sunucuya giren botlara ve üyelere otomatik rol verir|s.otorol <.üye/bot> <.rol etiket/rol adı/rol ID>|
 
 # Manipülasyon [12] 
 
