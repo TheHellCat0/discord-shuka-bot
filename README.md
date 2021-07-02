@@ -65,7 +65,7 @@ E-posta : hellcat855@gmail.com
 •  
 <a href="#Genel-18">Genel</a>
 •
-<a href="#Eğlence-12">Eğlence</a>
+<a href="#Eğlence-13">Eğlence</a>
 •
 <a href="#Yetkili-11">Yetkili</a>
 •
@@ -134,7 +134,7 @@ E-posta : hellcat855@gmail.com
 |s.topgg|top.gg'de bot yada kullanıcı araması yaparsın|s.topgg <.bot / kullanıcı> <.etiket / id>|
     
  
-# Eğlence [12]
+# Eğlence [13]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -149,6 +149,7 @@ E-posta : hellcat855@gmail.com
 |s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz <.metin>|
 |s.yazıdöndür|Yazdığın yazıyı ters çevirir|s.yazıdöndür <.metin>|
 |s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello <.etiket>|
+|s.akinatör|Akinatör oynarsın|YOK|
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
   
   
