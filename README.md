@@ -61,7 +61,7 @@ E-posta : hellcat855@gmail.com
 •
 <a href="#Müzik-13">Müzik<a/>
 •
-<a href="#Arama-11">Arama<a/>
+<a href="#Arama-13">Arama<a/>
 •  
 <a href="#Genel-18">Genel</a>
 •
@@ -117,12 +117,14 @@ E-posta : hellcat855@gmail.com
 |s.otorol|Sunucuya giren botlara ve üyelere otomatik rol verir|s.otorol <.üye/bot> <.rol etiket/rol adı/rol ID>|
   
  
-# Arama [11]
+# Arama [13]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
 |s.cinsiyet|Yazılan ismin muhtemel cisiyetini gösterir|s.cinsiyet <.isim>|
 |s.github|[Github](https://github.com)'da kullanıcı veya repo araması yaparsın|s.github <.repo / kullanıcı / gist> <.repo adı / kullanıcı adı / gist id>| 
+|s.npm|npmjs.org'da modül araması yaparsın|s.npm <.modül adı>|
+|s.pypi|pypi.org'da modül araması yaparsın|s.pypi <.modül adı>|
 |s.hex ara /random|Girdiğiniz [hex](https://www.color-hex.com/) kodunun bilgilerini gösterir|s.hex ara <renk kodu> - s.hex random|
 |s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor <.tag>|
 |s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy <.tag>|
