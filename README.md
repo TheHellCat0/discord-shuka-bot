@@ -57,11 +57,11 @@ E-posta : hellcat855@gmail.com
 <p align="center">
 <a href="#Bot-10">Bot</a>
 • 
-<a href="#Anime-9">Anime</a>
+<a href="#Anime-10">Anime</a>
 •
 <a href="#Müzik-13">Müzik<a/>
 •
-<a href="#Arama-13">Arama<a/>
+<a href="#Arama-14">Arama<a/>
 •  
 <a href="#Genel-18">Genel</a>
 •
@@ -117,7 +117,7 @@ E-posta : hellcat855@gmail.com
 |s.otorol|Sunucuya giren botlara ve üyelere otomatik rol verir|s.otorol <.üye/bot> <.rol etiket/rol adı/rol ID>|
   
  
-# Arama [13]
+# Arama [14]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -134,7 +134,8 @@ E-posta : hellcat855@gmail.com
 |s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu <.kullanıcı / beatmap> <.kullanıcı adı / beatmap id>|
 |s.saucenao|anime, manga, film vb araması yapar|s.saucenao <.resim linki / resim dosyası>|
 |s.topgg|top.gg'de bot yada kullanıcı araması yaparsın|s.topgg <.bot / kullanıcı> <.etiket / id>|
-    
+|s.playstore|playstore'da oyun, uygulama araması yaparsın.|s.playstore <. oyun/ uygulama adı>|
+  
  
 # Eğlence [13]
 
@@ -171,7 +172,7 @@ E-posta : hellcat855@gmail.com
 |s.yenilikler|Son yapılan değişiklikleri gösterir|YOK|
 
   
-# Anime [9]
+# Anime [10]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -184,21 +185,21 @@ E-posta : hellcat855@gmail.com
 |s.pokemon|Yazdığınız [Pokemon](https://www.pokemon.com/us/pokedex/)'un bilgilerini alırsın|s.pokemon <.pokemon adı>|
 |s.kanna|Kanna'ya yazı yazdırırsın|s.kanna <.metin>|
 |s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru [tag]|
-
+|s.neko|Rastgele kedikız atar|YOK|
   
 # Müzik [13]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
-|s.çal|İsmini yada linkini attığınız YouTube parçasını oynatır|s.çal <Video İsmi/Video Linki>|
-|s.çalmalistesi|İsmini yada linkini attığınız YouTube çalma listesini oynatır|s.çalmalistesi <PlayList İsmi/PlayList Linki>|
+|s.çal|Şarkı ismi, YouTube linki yada Spotify url'si girdiğin şarkıyı oynatır.|s.çal <Şarkı İsmi/Şarkı Linki>|
 |s.ses|Oynatılan şarkının sesini ayarlar|s.ses <0 - 100>|
 |s.durdur|Oynatılan şarkıyı kapatır|YOK|
 |s.geç|Sırada şarkıya geçer|YOK|
 |s.atla|Birden fazla şarkıyı geçmenizi sağlar|s.atla <.geçilecek şarkı sayısı>|
-|s.döngü|Şarkı veya şarkıları sürekli tekrarlar|YOK|
+|s.tekrarla|Çalmakta olan şarkıyı sürekli tekrarlar|YOK|
+|s.süreklitekrarla|Sırayı sürekli tekrarlar|YOK|
 |s.karıştır|Karışık çalmayı açar|YOK|
-|s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini aratır|s.lyrics <.şarkı adı>|
+|s.lyrics|İsmini yazdığınız yada çalmakta olan şarkının sözlerini aratır.r|s.lyrics [.şarkı adı]|
 |s.çalan|Çalan şarkı hakkında bilgi verir|YOK|
 |s.duraklat|Çalan şarkıyı duraklatır|YOK|
 |s.devamet|Duraklatılan şarkıyı devam ettirir|YOK|
