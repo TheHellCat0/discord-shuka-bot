@@ -59,9 +59,7 @@ E-posta : hellcat855@gmail.com
 • 
 <a href="#Anime-10">Anime</a>
 •
-<a href="#Müzik-13">Müzik<a/>
-•
-<a href="#Arama-14">Arama<a/>
+<a href="#Arama-15">Arama<a/>
 •  
 <a href="#Genel-18">Genel</a>
 •
@@ -117,10 +115,11 @@ E-posta : hellcat855@gmail.com
 |s.otorol|Sunucuya giren botlara ve üyelere otomatik rol verir|s.otorol <.üye/bot> <.rol etiket/rol adı/rol ID>|
   
  
-# Arama [14]
+# Arama [15]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
+|s.lyrics|İsmini yazdığınız yada çalmakta olan şarkının sözlerini aratır.r|s.lyrics [.şarkı adı]|
 |s.cinsiyet|Yazılan ismin muhtemel cisiyetini gösterir|s.cinsiyet <.isim>|
 |s.github|[Github](https://github.com)'da kullanıcı veya repo araması yaparsın|s.github <.repo / kullanıcı / gist> <.repo adı / kullanıcı adı / gist id>| 
 |s.npm|npmjs.org'da modül araması yaparsın|s.npm <.modül adı>|
@@ -187,24 +186,6 @@ E-posta : hellcat855@gmail.com
 |s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru [tag]|
 |s.neko|Rastgele kedikız atar|YOK|
   
-# Müzik [13]
-
-|`Komut`|`Açıklama`|`Kullanım Örneği`|
-| :------------ |:---------------:| -----:|
-|s.çal|Şarkı ismi, YouTube linki yada Spotify url'si girdiğin şarkıyı oynatır.|s.çal <Şarkı İsmi/Şarkı Linki>|
-|s.ses|Oynatılan şarkının sesini ayarlar|s.ses <0 - 100>|
-|s.durdur|Oynatılan şarkıyı kapatır|YOK|
-|s.geç|Sırada şarkıya geçer|YOK|
-|s.atla|Birden fazla şarkıyı geçmenizi sağlar|s.atla <.geçilecek şarkı sayısı>|
-|s.tekrarla|Çalmakta olan şarkıyı sürekli tekrarlar|YOK|
-|s.süreklitekrarla|Sırayı sürekli tekrarlar|YOK|
-|s.karıştır|Karışık çalmayı açar|YOK|
-|s.lyrics|İsmini yazdığınız yada çalmakta olan şarkının sözlerini aratır.r|s.lyrics [.şarkı adı]|
-|s.çalan|Çalan şarkı hakkında bilgi verir|YOK|
-|s.duraklat|Çalan şarkıyı duraklatır|YOK|
-|s.devamet|Duraklatılan şarkıyı devam ettirir|YOK|
-|s.earrape|Kulak zarınızı yokeder|s.earrape <.aç/kapat>|
-
 
 # Manipülasyon [12] 
 
