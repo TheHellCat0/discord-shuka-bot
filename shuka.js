@@ -8,7 +8,6 @@ client.aliases = new Discord.Collection();
 
   
   console.log(`_________________________________${jsfile.length} komut yüklenecek_________________________________
-
 `);
   jsfile.forEach((f, i) => {
   
@@ -31,7 +30,7 @@ Yükleniyor: ${props.help.name}.`);
       };
     };
   });
-  console.log(`${client.commands.array().length} / ${jsfile.length} komut yüklendi!`)});
+  console.log(`${client.commands.array().length} / ${jsfile.length} komut yüklendi!`)
 
 client.on("message", async message => {
 
@@ -51,7 +50,7 @@ client.on("message", async message => {
     } catch (err) {
       
    const embed = new Discord.MessageEmbed()
-   .setDescription(`Hata \`\`${cmd.help.name}\`\`: \`\`\`js\n${err.message}\n\`\`\``)
+   .setDescription(`Hata \`\`${cmd.help.name}\`\`\n\`\`\`js\n${err.message}\n\`\`\``)
    .setColor("RED");
    message.channel.send(embed);
       
@@ -65,20 +64,9 @@ client.on("ready", () => {
   /*client.user.setActivity("on", {
     type: "WATCHING"
    });*/
-  console.log(`${client.user.username} aktif edildi!`);
-   );
-});
+  console.log(`${client.user.username} sa`)
+   
+})
 ///
 
-const DBL = require("dblapi.js");
-const dbl = new DBL('ğ', client);
-
-
-dbl.on('posted', () => {
-  console.log('Sunucu bilgisi dbl ye atıldı!');
-})
-
-dbl.on('error', e => {
- console.log(`Hata ${e}`);
-})
 client.login(client.config.token)
