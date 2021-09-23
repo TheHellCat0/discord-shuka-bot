@@ -57,7 +57,7 @@ E-posta : hellcat855@gmail.com
 <p align="center">
 <a href="#Bot-10">Bot</a>
 • 
-<a href="#Anime-10">Anime</a>
+<a href="#Anime-11">Anime</a>
 •
 <a href="#Arama-15">Arama<a/>
 •  
@@ -71,6 +71,10 @@ E-posta : hellcat855@gmail.com
 •
 <a href="#Reaksiyon-16">Reaksiyon</a>
 • 
+<a href="#Diğer-10">Reaksiyon</a>
+•  
+  
+  
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
 
@@ -105,8 +109,8 @@ E-posta : hellcat855@gmail.com
 |s.ban|Etiketlediğiniz kullanıcıyı sunucudan yasaklar|s.ban <.kullanıcı etiket> <.sebep>|
 |s.forceban|ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar|s.forceban <.kullanıcı id> [sebep]|
 |s.unban|ID'sini attığınız kullanıcının yasağını kaldırır|s.unban <.ID> [sebep]|
-|s.emojiekle|Linkini attığınız emojiyi sunucuya yükler|s.emojiekle <.png,.jpg,.gif> [emoji ismi]|
-|s.emojisil|Attığınız yada adını girdiğiniz emojiyi siler|s.emojisil <.emoji/emoji ismi>|
+|s.emoji |Linkini attığınız emojiyi sunucuya yükler|s.emojiekle <.png,.jpg,.gif> [emoji ismi]|
+|s.çıkartma|Attığınız yada adını girdiğiniz emojiyi siler|s.emojisil <.emoji/emoji ismi>|
 |s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick <.kullanıcı etiket> <.sebep>|
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 1|s.sil <.mesaj sayısı>|
 |s.pin|ID'sini attığınız mesajı sabitler|s.pin <.mesaj ID>|
@@ -171,7 +175,7 @@ E-posta : hellcat855@gmail.com
 |s.yenilikler|Son yapılan değişiklikleri gösterir|YOK|
 
   
-# Anime [10]
+# Anime [11]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -184,9 +188,10 @@ E-posta : hellcat855@gmail.com
 |s.pokemon|Yazdığınız [Pokemon](https://www.pokemon.com/us/pokedex/)'un bilgilerini alırsın|s.pokemon <.pokemon adı>|
 |s.kanna|Kanna'ya yazı yazdırırsın|s.kanna <.metin>|
 |s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru [tag]|
+|s.twdneYapay zeka tarafından oluşturulan waifu fotoğrafları atar.|YOK|
 |s.neko|Rastgele kedikız atar|YOK|
   
-
+  
 # Manipülasyon [12] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
@@ -226,4 +231,8 @@ E-posta : hellcat855@gmail.com
 |s.napim|Lafı koyarsın(!)|s.napim [etiket]|
 |s.ohaçet|oooooooha çet nedio|YOK|
 
+  
+# Diğer [10]
+  
+  
 # ⚠️ Bu Repo botun kaynak kodlarını içermemekte,ücretli veya ücretsiz şekilde istenilmesi kabul edilmez. 
