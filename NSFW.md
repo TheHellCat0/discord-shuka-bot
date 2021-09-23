@@ -1,18 +1,24 @@
-|[16] Komut|
+|[22] Komut|
 |-|
 |s.nhentai|
 |s.hentai|
 |s.hentai-gif|
 |s.trap|
 |s.yuri|
-|s.hanal|
+|s.yaoi|
 |s.tentacle|
-|s.tits|
-|s.classic|
+|s.anal|
+|s.hanal|
+|s.htits|
 |s.pgif|
 |s.danbooru|
 |s.gelbooru|
 |s.realbooru|
+|s.derpibooru|
 |s.xbooru|
 |s.yandere|
-|s.kanochan|
+|s.konachan|
+|s.e621|
+|s.rule34|
+|s.tbib|
+|s.hypnohub|
