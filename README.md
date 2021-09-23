@@ -224,6 +224,8 @@ E-posta : hellcat855@gmail.com
   
 # Diğer [10]
   
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
+| :------------ |:---------------:| -----:|
 |s.base64 oluşur/çöz|Yazınızı base64 formatına dönüştürür/okutur|s.base64 oluştur <.metin> - s.base64 çöz <.base64 metin>|
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı <.metin>|
 |s.hesapla|Tüm matematiksel işlemleri yaparsın|s.hesapla <.işlem>| 
