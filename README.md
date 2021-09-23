@@ -59,9 +59,9 @@ E-posta : hellcat855@gmail.com
 • 
 <a href="#Anime-11">Anime</a>
 •
-<a href="#Arama-15">Arama<a/>
+<a href="#Arama-14">Arama<a/>
 •  
-<a href="#Genel-18">Genel</a>
+<a href="#Genel-10">Genel</a>
 •
 <a href="#Eğlence-13">Eğlence</a>
 •
@@ -72,13 +72,11 @@ E-posta : hellcat855@gmail.com
 <a href="#Reaksiyon-16">Reaksiyon</a>
 • 
 <a href="#Diğer-10">Reaksiyon</a>
-•  
-  
-  
+•   
 <a href="https://github.com/TheHellCat0/discord-shuka-bot/blob/master/NSFW.md">NSFW</a>
 </p>
 
-# Genel [18] 
+# Genel [10] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -90,16 +88,9 @@ E-posta : hellcat855@gmail.com
 |s.sunucubilgi|Sunucu hakkında bilgi verir|YOK|
 |s.kullanıcıbilgi|Etiketlediğiniz kullanıcı hakkında bilgi verir|s.kullanıcıbilgi [etiket]|
 |s.kanalbilgi|Kullandığınız kanal hakkında bilgi verir|YOK|
-|s.qr oluştur/okut|Yazınızı qr koduna dönüştürür/okutur|s.qr oluştur <metin> - s.qr okut <.png/.jpg>|
-|s.base64 oluşur/çöz|Yazınızı base64 formatına dönüştürür/okutur|s.base64 oluştur <.metin> - s.base64 çöz <.base64 metin>|
-|s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı <.metin>|
-|s.hesapla|Tüm matematiksel işlemleri yaparsın|s.hesapla <.işlem>|
 |s.emojibüyüt|Attığınız emojiyi büyütür|s.emojibüyüt <.emoji>|
 |s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi <.emoji ismi>|
-|s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü <.URL>|
-|s.palet|Resimdeki renk paletini gösterir|s.palet [etiket/.png/.jpg/.gif]|
-|s.discordstatü|Discord'un durmunu gösterir|YOK|
-|s.texttospeech|Yazınızı sese dönüştürür|s.texttospeech <.metin>|
+
   
   
 # Yetkili [11] 
@@ -109,8 +100,8 @@ E-posta : hellcat855@gmail.com
 |s.ban|Etiketlediğiniz kullanıcıyı sunucudan yasaklar|s.ban <.kullanıcı etiket> <.sebep>|
 |s.forceban|ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar|s.forceban <.kullanıcı id> [sebep]|
 |s.unban|ID'sini attığınız kullanıcının yasağını kaldırır|s.unban <.ID> [sebep]|
-|s.emoji |Linkini attığınız emojiyi sunucuya yükler|s.emojiekle <.png,.jpg,.gif> [emoji ismi]|
-|s.çıkartma|Attığınız yada adını girdiğiniz emojiyi siler|s.emojisil <.emoji/emoji ismi>|
+|s.emoji |Emoji ekler, düzenler ve silersin.|YOK|
+|s.çıkartma|Çıkartma ekler, düzenler ve silersin.|YOK|
 |s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick <.kullanıcı etiket> <.sebep>|
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 1|s.sil <.mesaj sayısı>|
 |s.pin|ID'sini attığınız mesajı sabitler|s.pin <.mesaj ID>|
@@ -119,7 +110,7 @@ E-posta : hellcat855@gmail.com
 |s.otorol|Sunucuya giren botlara ve üyelere otomatik rol verir|s.otorol <.üye/bot> <.rol etiket/rol adı/rol ID>|
   
  
-# Arama [15]
+# Arama [14]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -131,7 +122,6 @@ E-posta : hellcat855@gmail.com
 |s.hex ara /random|Girdiğiniz [hex](https://www.color-hex.com/) kodunun bilgilerini gösterir|s.hex ara <renk kodu> - s.hex random|
 |s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor <.tag>|
 |s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy <.tag>|
-|s.pinterest|[Pinterest](http://pinterst.com/)'de foto,gif ararsın|s.pinterest <.tag>|
 |s.wikipedia|[Wikipedia](https://tr.m.wikipedia.org/)'da arama yaparsın|s.wikipedia <.kelime>| 
 |s.youtube|[YouTube](https://www.youtube.com/)'da video araması yaparsın|s.youtube <.video adı>|
 |s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu <.kullanıcı / beatmap> <.kullanıcı adı / beatmap id>|
@@ -234,5 +224,15 @@ E-posta : hellcat855@gmail.com
   
 # Diğer [10]
   
+|s.base64 oluşur/çöz|Yazınızı base64 formatına dönüştürür/okutur|s.base64 oluştur <.metin> - s.base64 çöz <.base64 metin>|
+|s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı <.metin>|
+|s.hesapla|Tüm matematiksel işlemleri yaparsın|s.hesapla <.işlem>| 
+|s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü <.URL>|
+|s.palet|Resimdeki renk paletini gösterir|s.palet [etiket/.png/.jpg/.gif]|
+|s.discordstatü|Discord'un durmunu gösterir|YOK|
+|s.texttospeech|Yazınızı sese dönüştürür|s.texttospeech <.metin>|
+|s.qr oluştur/okut|Yazınızı qr koduna dönüştürür/okutur|s.qr oluştur <metin> - s.qr okut <.png/.jpg>|
+|s.tpdne|Yapay zeka tarafından oluşturulan insan fotoğrafları atar|YOK|
+|s.code|681 farklı programa dilinde yazdığınız kodu çalıştırır|YOK|  
   
 # ⚠️ Bu Repo botun kaynak kodlarını içermemekte,ücretli veya ücretsiz şekilde istenilmesi kabul edilmez. 
