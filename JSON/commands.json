@@ -1,1 +1,39 @@
-{}
+ {
+
+        "Bot": [
+            {
+                "name": "yardım",
+                "description": "Ana yardım menüsünü gösterir.",
+                "usage": "s.yardım [komut ismi]",
+                "aliases": ["s.?", "s.h", "s.help", "s.sayardim", "s.sayardım", "s.y", "s.yardim"],
+                "image": "https://i.imgur.com/6XGRyXo.gif",
+                "cooldown": "10"
+            },
+            {
+                "name": "ping",
+                "description": "Botun gecikmesini ölçer.",
+                "aliases": ["s.gecikme"],
+                "cooldown": "15"
+            }
+        ],
+
+
+
+
+        "Anime": [
+            {
+                "name": "animeara",
+                "description": "MyAnimeList'de anime ararsın.",
+                "usage": "s.animeara <anime adı>",
+                "aliases": ["s.anime-ara"],
+                "cooldown": "5"
+            },
+            {
+                "name": "kanna",
+                "description": "Kannaya yazı yazdırırsın.",
+                
+                "usage": "s.kanna <metin>",
+                "cooldown": "5"
+            }
+        ]
+    }
