@@ -3,50 +3,62 @@
         "Anime": [
             {
                 "name": "animeara",
-                "description": "MyAnimeList'de anime ararsın.",
+                "description": "MyAnimeList'de anime ararsın",
                 "usage": "s.animeara <anime adı>",
                 "aliases": ["s.anime-ara"],
-                "cooldown": "5"
+                "cooldown": "5 saniye"
             },
             {
                 "name": "kanna",
-                "description": "Kannaya yazı yazdırırsın.",
+                "description": "Kannaya yazı yazdırırsın",
                 "usage": "s.kanna <metin>",
-                "cooldown": "5"
+                "cooldown": "5 saniye"
             },
              {
                 "name": "karakter-ara",
-                "description": "Yazdığın anime,manga karakterin bilgilerini alırsın.",
+                "description": "Yazdığın anime,manga karakterin bilgilerini alırsın",
                 "usage": "s.karakterara <karakter adı>",
                 "aliases": ["s.ka", "s.karakterara"],
-                "cooldown": "5"
+                "cooldown": "5 saniye"
             },
                 
               {
                 "name": "kitsu-anime",
-                "description": "Kitsu'da anime ararsın.",
+                "description": "Kitsu'da anime ararsın",
                 "usage": "s.kitsu-anime <anime adı>",
-                "aliases": ["s.karakteraras.kitsuanime"],
-                "cooldown": "5"
-            }
-                    
+                "aliases": ["s.kitsuanime"],
+                "cooldown": "5 saniye"
+            },
+               {
+                "name": "kitsu-manga",
+                "description": "Kitsu'da manga ararsın",
+                "usage": "s.kitsu-manga <manga adı>",
+                "aliases": ["s.kitsumanga"],
+                "cooldown": "5 saniye"
+            }  ,
+                
+               {
+                "name": "loli",
+                "description": "FBI evine loli gönderir",
+                "cooldown": "5 saniye"
+            }   
                 
                 
         ],
         "Bot": [
             {
                 "name": "yardım",
-                "description": "Ana yardım menüsünü gösterir.",
+                "description": "Ana yardım menüsünü gösterir",
                 "usage": "s.yardım [komut ismi]",
                 "aliases": ["s.?", "s.h", "s.help", "s.sayardim", "s.sayardım", "s.y", "s.yardim"],
                 "image": "https://i.imgur.com/6XGRyXo.gif",
-                "cooldown": "10"
+                "cooldown": "10 saniye"
             },
             {
                 "name": "ping",
-                "description": "Botun gecikmesini ölçer.",
+                "description": "Botun gecikmesini ölçer",
                 "aliases": ["s.gecikme"],
-                "cooldown": "15"
+                "cooldown": "15 saniye"
             }
         ]
 
