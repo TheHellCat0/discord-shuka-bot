@@ -1,25 +1,5 @@
 {
 
-        "Bot": [
-            {
-                "name": "yardım",
-                "description": "Ana yardım menüsünü gösterir.",
-                "usage": "s.yardım [komut ismi]",
-                "aliases": ["s.?", "s.h", "s.help", "s.sayardim", "s.sayardım", "s.y", "s.yardim"],
-                "image": "https://i.imgur.com/6XGRyXo.gif",
-                "cooldown": "10"
-            },
-            {
-                "name": "ping",
-                "description": "Botun gecikmesini ölçer.",
-                "aliases": ["s.gecikme"],
-                "cooldown": "15"
-            }
-        ],
-
-
-
-
         "Anime": [
             {
                 "name": "animeara",
@@ -35,5 +15,25 @@
                 "usage": "s.kanna <metin>",
                 "cooldown": "5"
             }
+        ],
+        "Bot": [
+            {
+                "name": "yardım",
+                "description": "Ana yardım menüsünü gösterir.",
+                "usage": "s.yardım [komut ismi]",
+                "aliases": ["s.?", "s.h", "s.help", "s.sayardim", "s.sayardım", "s.y", "s.yardim"],
+                "image": "https://i.imgur.com/6XGRyXo.gif",
+                "cooldown": "10"
+            },
+            {
+                "name": "ping",
+                "description": "Botun gecikmesini ölçer.",
+                "aliases": ["s.gecikme"],
+                "cooldown": "15"
+            }
         ]
+
+
+
+
     }
