@@ -11,10 +11,27 @@
             {
                 "name": "kanna",
                 "description": "Kannaya yazı yazdırırsın.",
-                
                 "usage": "s.kanna <metin>",
                 "cooldown": "5"
+            },
+             {
+                "name": "karakter-ara",
+                "description": "Yazdığın anime,manga karakterin bilgilerini alırsın.",
+                "usage": "s.karakterara <karakter adı>",
+                "aliases": ["s.ka", "s.karakterara"],
+                "cooldown": "5"
+            },
+                
+              {
+                "name": "kitsu-anime",
+                "description": "Kitsu'da anime ararsın.",
+                "usage": "s.kitsu-anime <anime adı>",
+                "aliases": ["s.karakteraras.kitsuanime"],
+                "cooldown": "5"
             }
+                    
+                
+                
         ],
         "Bot": [
             {
