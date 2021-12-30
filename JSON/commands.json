@@ -233,5 +233,78 @@
       ],
       "cooldown": "5 saniye"
     }
+  ],
+
+
+
+
+
+  "Arama": [
+   
+   
+    
+    
+    {
+      "name": "spotify",
+      "description": "Spotify'da arama yaparsın",
+      "usage": "s.spotify şarkı <şarkı adı>\ns.spotify albüm <albüm adı>\ns.spotify playlist <playlist adı>\ns.spotify profil <kullanıcı id>",
+      "aliases": [
+        "s.spo", "s.spoti", "s.spotif"
+      ],
+      "cooldown": "5 saniye"
+    },
+    
+    
+    
+    
+    
+    {
+      "name": "tenor",
+      "description": "Tenor'da gif ararsın",
+      "usage": "s.tenor <gif adı>",
+      "image": "https://i.imgur.com/m6SuMFQ.gif",
+      "cooldown": "5 saniye"
+    },
+    
+    
+    
+    
+    
+    {
+      "name": "topgg",
+      "description": "top.gg'de bot yada kullanıcı araması yaparsın",
+      "usage": "s.topgg bot <etiket | id>\ns.topgg kullanıcı <etiket | id>",
+      "aliases": [
+        "s.top.gg"
+      ],
+      "cooldown": "5 saniye"
+    },
+    
+    
+    {
+      "name": "wikipedia",
+      "description": "Wikipedia'da arama yaparsın",
+      "usage": "s.wikipedia <kelime>",
+      "aliases": [
+        "s.viki", "s.vikipedi", "s.vikipedia", "s.wiki", "s.wikipedia"
+      ],
+      "image": "https://i.imgur.com/gnPXQNX.png",
+      "cooldown": "5 saniye"
+    },
+    
+    
+    
+    {
+      "name": "youtube",
+      "description": "YouTube'da video araması yaparsın",
+      "usage": "s.youtube <video adı / video linki>",
+      "aliases": [
+        "s.yt", "s.ytb"
+      ],
+      "image": "https://i.imgur.com/BEA2LA7.png",
+      "cooldown": "10 saniye"
+    }
+  
+  
   ]
 }
