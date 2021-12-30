@@ -541,5 +541,130 @@
       ],
       "cooldown": "15 saniye"
     }
+  ],
+  "Genel": [
+    {
+      "name": "avatar",
+      "description": "İstediğiniz kullanıcının avatarını gösterir",
+      "usage": "s.avatar [etiket | id]",
+      "aliases": [
+        "s.av",
+        "s.pf",
+        "s.pfp",
+        "s.pg",
+        "s.pp"
+      ],
+      "image": "https://i.imgur.com/tp6Wv23.gif",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "emojibilgi",
+      "description": "Sunucudaki emoji hakkında bilgi verir",
+      "usage": "s.emojibilgi <emoji | emoji ismi | emoji id>",
+      "aliases": [
+        "s.eb",
+        "s.emoji-bilgi",
+        "s.emoji-bilgisi",
+        "s.emojibilgisi"
+      ],
+      "image": "https://i.imgur.com/IC6B2KY.gif",
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "emojibüyüt",
+      "description": "Attığınız emojiyi büyütür",
+      "usage": "s.emojibüyüt <emoji>",
+      "aliases": [
+        "s.emoji-büyüt",
+        "s.jumbo"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "kanalbilgi",
+      "description": "Kanal hakkında bilgi verir",
+      "usage": "s.kanalbilgi [id | etiket | isim]",
+      "aliases": [
+        "s.kanal-bilgi",
+        "s.kanal-bilgisi",
+        "s.kanalb",
+        "s.kanalbilgisi"
+      ],
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "kullanıcıbilgi",
+      "description": "Etiketlediğiniz kullanıcı hakkında bilgi verir",
+      "usage": "s.kullanıcıbilgi [etiket]",
+      "aliases": [
+        "s.kb",
+        "s.kullanıcı-bilgi",
+        "s.kullanıcı-bilgisi",
+        "s.kullanıcıbilgisi",
+        "s.ui",
+        "s.user-info",
+        "s.userinfo"
+      ],
+      "image": "https://i.imgur.com/iE6BJ4P.png",
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "roller",
+      "description": "Sunucudaki tüm rolleri listeler",
+      "aliases": [
+        "s.rol-list",
+        "s.rol-listesi",
+        "s.roles",
+        "s.rollist",
+        "s.rollistesi"
+      ],
+      "cooldown": "15 saniye"
+    },
+    {
+      "name": "sunucubilgi",
+      "description": "Sunucu bilgilerini gösterir",
+      "aliases": [
+        "s.sb",
+        "s.sbilgi",
+        "s.sunucu-bilgi",
+        "s.sunucu-bilgisi",
+        "s.sunucubilgisi"
+      ],
+      "image": "https://i.imgur.com/nQIVVjE.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "sunucuikon",
+      "description": "Sunucunun ikonunu atar",
+      "aliases": [
+        "s.server-icon",
+        "s.servericon",
+        "s.si",
+        "s.sunucu-ikon"
+      ],
+      "image": "https://i.imgur.com/jXbA8bz.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "yaz",
+      "description": "Yazdığın metini bota yazdırır",
+      "usage": "s.yaz <metin>",
+      "aliases": [
+        "s.say",
+        "s.yazdır"
+      ],
+      "image": "https://i.imgur.com/5Ogu0UD.gif",
+      "cooldown": "1 saniye"
+    },
+    {
+      "name": "yetkiler",
+      "description": "Bir kullanıcının sunucudaki yetkilerine bakarsın",
+      "usage": "s.yetkiler [etiket]",
+      "aliases": [
+        "s.yetkilerim"
+      ],
+      "image": "https://i.imgur.com/GodbZtq.png",
+      "cooldown": "5 saniye"
+    }
   ]
 }
