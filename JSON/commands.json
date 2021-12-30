@@ -923,5 +923,147 @@
         "s.sticker"
       ]
     }
+  ],
+  "Eğlence": [
+    {
+      "name": "8ball",
+      "description": "Bota soru sorarsın",
+      "usage": "s.8ball <soru>",
+      "aliases": [
+        "s.8-ball",
+        "s.8top"
+      ],
+      "image": "https://i.imgur.com/DOMHzes.png"
+    },
+    {
+      "name": "akinatör",
+      "description": "Akinatör oynarsın",
+      "aliases": [
+        "s.aki",
+        "s.akinator"
+      ]
+    },
+    {
+      "name": "ascii",
+      "description": "Yazdığın metini ascii formatına dönüştürür",
+      "usage": "s.ascii <metin>",
+      "image": "https://i.imgur.com/MmxEcpz.gif",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "asciiart",
+      "description": "Resimleri ascii formatına dönüştürür",
+      "usage": "s.asciiart [etiket | resim linki]",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "düello",
+      "description": "Etiketlediğin kişiyle duello yaparsın",
+      "usage": "s.duello <etiket>",
+      "aliases": [
+        "s.1v1",
+        "s.1vs1",
+        "s.duello",
+        "s.vs"
+      ],
+      "image": "https://i.imgur.com/IdbCMJF.gif",
+      "cooldown": " saniye"
+    },
+    {
+      "name": "emojiyaz",
+      "description": "Yazdığın metini emojili hale getirir",
+      "usage": "s.emojiyaz <metin>",
+      "aliases": [
+        "s.emoji-yaz",
+        "s.emoji-yazı",
+        "s.emojiyazı"
+      ],
+      "image": "https://i.imgur.com/vJ1a8Pr.png",
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "fakeyaz",
+      "description": "Etiketlediğin kişiye sahte yazı yazdırırsın",
+      "usage": "s.fakeyaz <dark | amoled | light | transparan> <etiket> <metin>",
+      "aliases": [
+        "s.fake-yaz",
+        "s.fy",
+        "s.resimli-yaz",
+        "s.resimliyaz",
+        "s.ry"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "masa-fırlat",
+      "description": "(╯°□°)╯ ┬─┬",
+      "aliases": [
+        "s.masafırlat"
+      ],
+      "image": "https://i.imgur.com/ZwEA0EX.gif",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "mayıntarlası",
+      "description": "Mayın tarlası oynarsın",
+      "usage": "s.mayın-tarlası [satır] [sütun] [mayın]",
+      "aliases": [
+        "s.mayın-tarlası",
+        "s.mt"
+      ],
+      "image": "https://i.imgur.com/KmdG9gV.gif",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "owoify",
+      "description": "OwO Budanediw x3",
+      "usage": "s.owoify <metin>",
+      "aliases": [
+        "s.owo",
+        "s.uwu",
+        "s.uwuify"
+      ],
+      "image": "https://i.imgur.com/rIWOxI2.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "rus-ruleti",
+      "description": "Rus ruleti oynarsın",
+      "aliases": [
+        "s.rr",
+        "s.rusruleti"
+      ],
+      "image": "https://i.imgur.com/elzLEOa.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "yazıdöndür",
+      "description": "Yazdığın yazıyı ters çevirir",
+      "usage": "s.yazıdöndür <metin>",
+      "aliases": [
+        "s.yazı-döndür",
+        "s.yazı-çevir",
+        "s.yazıçevir"
+      ],
+      "image": "https://i.imgur.com/ZttCPfb.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "yazıtura",
+      "description": "Japon parası ile yazı tura atarsın",
+      "aliases": [
+        "s.yazı-tura"
+      ],
+      "image": "https://i.imgur.com/L8KmbUa.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "zar",
+      "description": "Zar atarsın",
+      "aliases": [
+        "s.dice"
+      ],
+      "cooldown": "5 saniye"
+    }
   ]
 }
