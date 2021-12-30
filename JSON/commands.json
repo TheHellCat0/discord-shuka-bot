@@ -1,76 +1,237 @@
 {
-
-        "Anime": [
-            {
-                "name": "animeara",
-                "description": "MyAnimeList'de anime ararsın",
-                "usage": "s.animeara <anime adı>",
-                "aliases": ["s.anime-ara"],
-                "cooldown": "5 saniye"
-            },
-            {
-                "name": "kanna",
-                "description": "Kannaya yazı yazdırırsın",
-                "usage": "s.kanna <metin>",
-                "cooldown": "5 saniye"
-            },
-             {
-                "name": "karakter-ara",
-                "description": "Yazdığın anime,manga karakterin bilgilerini alırsın",
-                "usage": "s.karakterara <karakter adı>",
-                "aliases": ["s.ka", "s.karakterara"],
-                "cooldown": "5 saniye"
-            },
-                
-              {
-                "name": "kitsu-anime",
-                "description": "Kitsu'da anime ararsın",
-                "usage": "s.kitsu-anime <anime adı>",
-                "aliases": ["s.kitsuanime"],
-                "cooldown": "5 saniye"
-            },
-               {
-                "name": "kitsu-manga",
-                "description": "Kitsu'da manga ararsın",
-                "usage": "s.kitsu-manga <manga adı>",
-                "aliases": ["s.kitsumanga"],
-                "cooldown": "5 saniye"
-            }  ,
-                
-               {
-                "name": "loli",
-                "description": "FBI evine loli gönderir",
-                "cooldown": "5 saniye"
-            }   ,
-                
-               {
-                "name": "myanimelistprofil",
-                "description": "MyAnimeList'de kullanıcı profilini ararsın",
-                "usage": "s.myanimelistprofil <m.a.l. kullanıcı adı>",
-                "aliases": ["s.mal", "s.malp", "s.malpf", "s.malprofil"],
-                "cooldown": "5 saniye"
-            }    
-                
-                
-        ],
-        "Bot": [
-            {
-                "name": "yardım",
-                "description": "Ana yardım menüsünü gösterir",
-                "usage": "s.yardım [komut ismi]",
-                "aliases": ["s.?", "s.h", "s.help", "s.sayardim", "s.sayardım", "s.y", "s.yardim"],
-                "image": "https://i.imgur.com/6XGRyXo.gif",
-                "cooldown": "10 saniye"
-            },
-            {
-                "name": "ping",
-                "description": "Botun gecikmesini ölçer",
-                "aliases": ["s.gecikme"],
-                "cooldown": "15 saniye"
-            }
-        ]
-
-
-
-
+  "Anime": [
+    {
+      "name": "animeara",
+      "description": "MyAnimeList'de anime ararsın",
+      "usage": "s.animeara <anime adı>",
+      "aliases": [
+        "s.anime-ara"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "kanna",
+      "description": "Kannaya yazı yazdırırsın",
+      "usage": "s.kanna <metin>",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "karakter-ara",
+      "description": "Yazdığın anime,manga karakterin bilgilerini alırsın",
+      "usage": "s.karakterara <karakter adı>",
+      "aliases": [
+        "s.ka",
+        "s.karakterara"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "kitsu-anime",
+      "description": "Kitsu'da anime ararsın",
+      "usage": "s.kitsu-anime <anime adı>",
+      "aliases": [
+        "s.kitsuanime"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "kitsu-manga",
+      "description": "Kitsu'da manga ararsın",
+      "usage": "s.kitsu-manga <manga adı>",
+      "aliases": [
+        "s.kitsumanga"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "loli",
+      "description": "FBI evine loli gönderir",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "myanimelistprofil",
+      "description": "MyAnimeList'de kullanıcı profilini ararsın",
+      "usage": "s.myanimelistprofil <m.a.l. kullanıcı adı>",
+      "aliases": [
+        "s.mal",
+        "s.malp",
+        "s.malpf",
+        "s.malprofil"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "neko",
+      "description": "Rastgele kedikız atar",
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "myanimelistprofil",
+      "description": "MyAnimeList'de kullanıcı profilini ararsın",
+      "usage": "s.myanimelistprofil <m.a.l. kullanıcı adı>",
+      "aliases": [
+        "s.mal",
+        "s.malp",
+        "s.malpf",
+        "s.malprofil"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "pokemon",
+      "description": "Yazdığın Pokemonun bilgilerini alırsın",
+      "usage": "s.pokemon <pokemon adı>",
+      "aliases": [
+        "s.pokedex"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "safebooru",
+      "description": "Safebooru'da resim video araması yaparsın",
+      "usage": "s.safebooru [tag]",
+      "aliases": [
+        "s.safe-booru",
+        "s.safeb",
+        "s.sbooru"
+      ],
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "twdne",
+      "description": "Yapay zeka tarafından oluşturulan waifu fotoğrafları atar",
+      "aliases": [
+        "s.thiswaifudoesnotexist"
+      ],
+      "image": "https://i.imgur.com/7vdT1mz.png"
     }
+  ],
+  "Bot": [
+    {
+      "name": "davet",
+      "description": "Davet linkimi atar",
+      "aliases": [
+        "s.bot-davet",
+        "s.botdavet",
+        "s.ekle",
+        "s.inv",
+        "s.invite",
+        "s.s-davet",
+        "s.sdavet",
+        "s.shuka-davet",
+        "s.shukadavet"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "gizlilik-politikası",
+      "description": "Gizlilik politikasının linkini atar",
+      "aliases": [
+        "s.gizlilik",
+        "s.gizlilikpolitikası",
+        "s.gp",
+        "s.privacy",
+        "s.privacy-policy"
+      ]
+    },
+    {
+      "name": "komutsayısı",
+      "description": "Bottaki toplam komut sayısını gösterir",
+      "aliases": [
+        "s.komut-sayısı",
+        "s.ks"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "oy",
+      "description": "Çeşitli botlistlerdeki oy durumunuzu gösterir",
+      "usage": "s.oy [etiket | id]",
+      "aliases": [
+        "s.oyver",
+        "s.vote"
+      ],
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "ping",
+      "description": "Botun gecikmesini ölçer",
+      "aliases": [
+        "s.gecikme"
+      ],
+      "cooldown": "15 saniye"
+    },
+    {
+      "name": "bot-bilgi",
+      "description": "Bilgi ve istatistiklerimi gösterir",
+      "aliases": [
+        "s.bilgi",
+        "s.shuka-bilgi",
+        "s.botbilgi",
+        "s.i",
+        "s.istatistik",
+        "s.shukabilgi"
+      ],
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "bot-nick",
+      "description": "Botun sunucudaki takma adını ayarlar",
+      "usage": "s.bot-nick <yeni nick>",
+      "aliases": [
+        "s.botnick",
+        "s.shuka-nick",
+        "s.shukanick"
+      ],
+      "image": "https://i.imgur.com/gSyscxh.gif",
+      "cooldown": "15 saniye"
+    },
+    {
+      "name": "bot-sil",
+      "description": "Botun Kanala attığı son 100 mesajı siler",
+      "aliases": [
+        "s.botsil",
+        "s.shuka-sil",
+        "s.shukasil"
+      ],
+      "image": "https://i.imgur.com/6XGRyXo.gif",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "yardım",
+      "description": "Ana yardım menüsünü gösterir",
+      "usage": "s.yardım [komut ismi]",
+      "aliases": [
+        "s.?",
+        "s.h",
+        "s.help",
+        "s.sayardim",
+        "s.sayardım",
+        "s.y",
+        "s.yardim"
+      ],
+      "image": "https://i.imgur.com/6XGRyXo.gif",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "yenilikler",
+      "description": "Yapılan değişiklikleri gösterir",
+      "aliases": [
+        "s.güncellemeler",
+        "s.upd",
+        "s.updates"
+      ],
+      "cooldown": "20 saniye"
+    },
+    {
+      "name": "uptime",
+      "description": "Botun aktif olduğu süreyi gösterir",
+      "aliases": [
+        "s.up",
+        "s.çalışma-süresi",
+        "s.çalışmasüresi"
+      ],
+      "cooldown": "5 saniye"
+    }
+  ]
+}
