@@ -805,5 +805,123 @@
       ],
       "cooldown": "5 saniye"
     }
+  ],
+  "Yetkili": [
+    {
+      "name": "ban",
+      "description": "Etiketlediğiniz kullanıcıyı sunucudan yasaklar",
+      "usage": "s.ban <etiket> <sebep>",
+      "aliases": [
+        "s.yasakla"
+      ],
+      "image": "https://i.imgur.com/iYGqPqv.png",
+      "cooldown": "2 saniye"
+    },
+    {
+      "name": "emoji",
+      "description": "Emoji ekler, düzenler ve silersin",
+      "usage": "s.emoji ekle <emoji | emoji linki | dosya> [emoji ismi]\ns.emoji sil <emoji | emoji ismi>\ns.emoji düzenle <emoji | emoji ismi> <yeni isim>",
+      "aliases": [
+        "s.emote"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "forceban",
+      "description": "ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar",
+      "usage": "s.forceban <kullanıcı ID> [sebep]",
+      "aliases": [
+        "s.fb",
+        "s.fban",
+        "s.force-ban"
+      ],
+      "image": "https://i.imgur.com/pRk8lEu.jpg",
+      "cooldown": "2 saniye"
+    },
+    {
+      "name": "kick",
+      "description": "Etiketlediğiniz kullanıcıyı sunucudan atar",
+      "usage": "s.kick <etiket> <sebep>",
+      "aliases": [
+        "s.at"
+      ],
+      "image": "https://i.imgur.com/RQtaieN.png",
+      "cooldown": "2 saniye"
+    },
+    {
+      "name": "log",
+      "description": "Sunucuda yapılan işlemlerin logunu kanala atar",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "nuke",
+      "description": "Etiketlenen kanalı silip yeniden oluşturur",
+      "usage": "s.nuke\ns.nuke <kanal ismi | etiket>",
+      "image": "https://i.imgur.com/ahZ1Sjt.gif",
+      "cooldown": " saniye"
+    },
+    {
+      "name": "otorol",
+      "description": "Sunucuya giren bot ve üyelere otomatik rol veren sistemdir",
+      "aliases": [
+        "s.oto-rol",
+        "s.otomatik-rol",
+        "s.otomatikrol"
+      ],
+      "cooldown": "2 saniye"
+    },
+    {
+      "name": "pin",
+      "description": "ID'sini attığınız mesajı sabitler",
+      "usage": "s.pin <mesaj ID>",
+      "aliases": [
+        "s.sabitle"
+      ]
+    },
+    {
+      "name": "sil",
+      "description": "Belirlediğin miktarda mesajı siler max 100 min 1",
+      "usage": "s.sil <mesaj sayısı>",
+      "aliases": [
+        "s.clear",
+        "s.delete",
+        "s.prune",
+        "s.purge",
+        "s.temizle"
+      ],
+      "image": "https://i.imgur.com/aG97qdD.gif",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "unban",
+      "description": "ID'sini attığınız kullanıcının yasağını kaldırır",
+      "usage": "s.unban <id> [sebep]",
+      "aliases": [
+        "s.ban-kaldır",
+        "s.bankaldır",
+        "s.ub"
+      ],
+      "image": "https://i.imgur.com/vENj4Zg.png"
+    },
+    {
+      "name": "unpin",
+      "description": "ID'sini attığınız mesajın sabitlenmesini kaldırır",
+      "usage": "s.unpin <mesaj ID>",
+      "aliases": [
+        "s.sabitlemeyi-kaldır",
+        "s.sabitlemeyikaldır",
+        "s.unp"
+      ],
+      "image": "https://i.imgur.com/w6AEHlo.gif"
+    },
+    {
+      "name": "çıkartma",
+      "description": "Çıkartma ekler, düzenler ve silersin",
+      "usage": "s.çıkartma ekle <çıkartma linki | dosya> [çıkartma ismi]\ns.çıkartma sil <çıkartma ismi>\ns.çıkartma düzenle <çıkartma ismi> <yeni isim>",
+      "aliases": [
+        "s.cıkartma",
+        "s.sticker"
+      ]
+    }
   ]
 }
