@@ -409,5 +409,137 @@
       "image": "https://i.imgur.com/BEA2LA7.png",
       "cooldown": "10 saniye"
     }
+  ],
+  "Diğer": [
+    {
+      "name": "base64",
+      "description": "Yazınızı base64 formatına dönüştürür/okutur",
+      "usage": "s.base64 oluştur <metin>\ns.base64 çöz <base64 metin>",
+      "aliases": [
+        "s.b64"
+      ],
+      "image": "https://i.imgur.com/G9tMkSr.png"
+    },
+    {
+      "name": "kod",
+      "description": "681 farklı programa dilinde yazdığınız kodu çalıştırır",
+      "usage": "s.kod diller\ns.kod yürüt <dil ismi> <kod>",
+      "aliases": [
+        "s.code"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "discordstatü",
+      "description": "Discord'un durumunu gösterir",
+      "aliases": [
+        "s.discord-statu",
+        "s.discord-statü",
+        "s.ds",
+        "s.dstatu",
+        "s.dstatü"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "ekrangörüntüsü",
+      "description": "URL'si yazılan sitenin ekran görüntüsünü atar",
+      "usage": "s.ekrangörüntüsü <url>",
+      "aliases": [
+        "s.ekran-görüntüsü",
+        "s.sc",
+        "s.screen-shot",
+        "s.screenshot",
+        "s.ss"
+      ],
+      "image": "https://i.imgur.com/5LpTcrz.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "hesapla",
+      "description": "Matematiksel işlemleri yaparsın",
+      "usage": "s.hesapla <işlem>",
+      "aliases": [
+        "s.hesap",
+        "s.mat",
+        "s.matematik"
+      ],
+      "image": "https://i.imgur.com/BsBRVY9.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "karakter-sayacı",
+      "description": "Yazılan metindeki toplam karakter sayısını hesaplar",
+      "usage": "s.karakter-sayacı <metin>",
+      "aliases": [
+        "s.karakter-sayısı",
+        "s.karaktersayacı",
+        "s.karaktersayısı"
+      ],
+      "image": "https://i.imgur.com/vv2iEAh.png",
+      "cooldown": "2 saniye"
+    },
+    {
+      "name": "palet",
+      "description": "Resimdeki renk paletini gösterir",
+      "usage": "s.palet [etiket | resim linki | resim dosyası]",
+      "aliases": [
+        "s.gradient",
+        "s.gradyan",
+        "s.palette"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "qr",
+      "description": "Yazınızı qr koduna dönüştürür/okutur",
+      "usage": "s.qr oluştur <metin>\ns.qr okut <resim linki>",
+      "aliases": [
+        "s.kare-kod",
+        "s.karekod",
+        "s.qr-code",
+        "s.qr-kod",
+        "s.qrcode",
+        "s.qrkod"
+      ],
+      "image": "https://i.imgur.com/VOV8E3w.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "snowflake",
+      "description": "Girdiğin discord snowflake'i hakkında bilgi verir",
+      "usage": "s.snowflake <snowflake id>",
+      "aliases": [
+        "s.kartanesi"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "texttospeech",
+      "description": "Yazınızı sese dönüştürür",
+      "usage": "s.texttospeech <metin>",
+      "aliases": [
+        "s.tts"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "tpdne",
+      "description": "Yapay zeka tarafından oluşturulan insan fotoğrafları atar",
+      "aliases": [
+        "s.thispersondoesnotexist"
+      ],
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "virustotal",
+      "description": "Girilen URL'ye güvenlik taraması yapar",
+      "usage": "s.virustotal <url>",
+      "aliases": [
+        "s.virus-total",
+        "s.vt"
+      ],
+      "cooldown": "15 saniye"
+    }
   ]
 }
