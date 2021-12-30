@@ -66,18 +66,6 @@
       "cooldown": "3 saniye"
     },
     {
-      "name": "myanimelistprofil",
-      "description": "MyAnimeList'de kullanıcı profilini ararsın",
-      "usage": "s.myanimelistprofil <m.a.l. kullanıcı adı>",
-      "aliases": [
-        "s.mal",
-        "s.malp",
-        "s.malpf",
-        "s.malprofil"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
       "name": "pokemon",
       "description": "Yazdığın Pokemonun bilgilerini alırsın",
       "usage": "s.pokemon <pokemon adı>",
