@@ -654,5 +654,156 @@
       "image": "https://i.imgur.com/GodbZtq.png",
       "cooldown": "5 saniye"
     }
+  ],
+  "Reaksiyon": [
+    {
+      "name": "ağla",
+      "description": "Ağlarsın",
+      "aliases": [
+        "s.cry"
+      ],
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "aşağıla",
+      "description": "Etiketlediğin kişiyi aşağılarsın",
+      "usage": "s.aşağıla <etiket>",
+      "aliases": [
+        "s.smug"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "danset",
+      "description": "Dans edersin",
+      "usage": "s.danset [etiket]",
+      "aliases": [
+        "s.dance",
+        "s.dans",
+        "s.dans-et"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "dürt",
+      "description": "Etiketlediğin kişiyi dürtersin",
+      "usage": "s.dürt <kullanıcı etiket>",
+      "aliases": [
+        "s.durt",
+        "s.poke"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "elsalla",
+      "description": "El sallarsın",
+      "usage": "s.elsalla [etiket]",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "gözkırp",
+      "description": "Göz kırparsın",
+      "usage": "s.gözkırp [etiket]",
+      "aliases": [
+        "s.wink"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "gülümse",
+      "description": "Gülümsersin",
+      "usage": "s.gülümse [etiket]",
+      "aliases": [
+        "s.gül",
+        "s.smile"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "napim",
+      "description": "Laf koyarsın(!)",
+      "usage": "s.napim [etiket]",
+      "aliases": [
+        "s.nabim"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "ohaçet",
+      "description": "ses kanalında oa çet dersin",
+      "aliases": [
+        "s.oa",
+        " s.oaçet"
+      ],
+      "image": "https://i.imgur.com/3tVmJ8b.gif",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "okşa",
+      "description": "Etiketlediğin kişiyi okşarsın",
+      "usage": "s.okşa <kullanıcı etiket>",
+      "aliases": [
+        "s.pat"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "sarıl",
+      "description": "Etiketlediğin kişiye sarılırsın",
+      "usage": "s.sarıl <etiket>",
+      "aliases": [
+        "s.hug"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "tokatla",
+      "description": "Etiketlediğin kişiyi tokatlarsın",
+      "usage": "s.tokatla <etiket>",
+      "aliases": [
+        "s.slap",
+        "s.tokat"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "utan",
+      "description": "Utanırsın",
+      "aliases": [
+        "s.blush",
+        "s.shy"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "yumrukla",
+      "description": "Etiketlediğin kişiye yumruk atarsın",
+      "usage": "s.yumrukat <etiket>",
+      "aliases": [
+        "s.punch",
+        "s.yumruk",
+        "s.yumruk-at",
+        "s.yumrukat"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "öp",
+      "description": "Etiketlediğin kişiyi öpersin",
+      "usage": "s.öp <etiket>",
+      "aliases": [
+        "s.kiss"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "ısır",
+      "description": "Etiketlediğin kişiyi ısırırsın",
+      "usage": "s.ısır <etiket>",
+      "aliases": [
+        "s.bite"
+      ],
+      "cooldown": "5 saniye"
+    }
   ]
 }
