@@ -234,30 +234,140 @@
       "cooldown": "5 saniye"
     }
   ],
-
-
-
-
-
   "Arama": [
-   
-   
-    
-    
+    {
+      "name": "cinsiyet",
+      "description": "Yazılan isimin muhtemel cinsiyetini gösterir",
+      "usage": "s.cinsiyet <isim>",
+      "aliases": [
+        "s.gend",
+        "s.gender"
+      ],
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "distro",
+      "description": "Girilen Linux dağıtımı hakkında bilgi verir",
+      "usage": "s.distro <dağıtım ismi>",
+      "aliases": [
+        "s.dağıtım",
+        "s.distribution"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "giphy",
+      "description": "Giphy'de gif ararsın.",
+      "usage": "s.giphy <gif adı>",
+      "image": "https://i.imgur.com/7bc20Ze.gif",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "github",
+      "description": "Github'da kullanıcı veya repo araması yaparsın",
+      "usage": "s.github gist <gist id>\ns.github repo <repo adı>\ns.github kullanıcı <kullanıcı adı>",
+      "aliases": [
+        "s.gh",
+        "s.git",
+        "s.git-huba"
+      ],
+      "image": "https://i.imgur.com/51CpFE4.png",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "havadurumu",
+      "description": "Girilen yerin hava durumunu gösterir",
+      "usage": "s.havadurumu <yer>",
+      "aliases": [
+        "s.hava-durumu",
+        "s.weather"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "hex",
+      "description": "Girdiğiniz hex kodunun bilgilerini gösterir",
+      "usage": "s.hex ara <renk kodu>\ns.hex [random]",
+      "aliases": [
+        "s.color",
+        "s.color-search",
+        "s.colorsearch",
+        "s.renk",
+        "s.renk-ara",
+        "s.renkara"
+      ],
+      "image": "https://i.imgur.com/ra5MEc0.gif"
+    },
+    {
+      "name": "ip",
+      "cooldown": "5 saniye",
+      "description": "Girilen ip adresi hakkında bilgi verir",
+      "usage": "s.ip <ip adresi>"
+    },
+    {
+      "name": "lyrics",
+      "description": "ismini yazdığınız şarkının sözlerini aratır",
+      "usage": "s.lyrics <şarkı adı>",
+      "aliases": [
+        "s.ls",
+        "s.ly",
+        "s.lyric",
+        "s.söz-ara",
+        "s.sözara"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "npm",
+      "description": "npmjs.com'da modül araması yaparsın",
+      "usage": "s.npm <modül adı>",
+      "aliases": [
+        "s.node-package-manager, s.nodepackagemanager, s.npmjs"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "osu",
+      "description": "Osu kullanıcı yada beatmap bilgilerini gösterir",
+      "usage": "s.osu kullanıcı <kullanıcı adı>\ns.osu beatmap <beatmap id>",
+      "aliases": [
+        "s.osu!"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "playstore",
+      "description": "play store'da oyun, uygulama araması yaparsın",
+      "usage": "s.playstore <oyun, uygulama adı>",
+      "aliases": [
+        "s.play-store",
+        "s.ps"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "pypi",
+      "description": "pypi.org'da modül araması yaparsın",
+      "usage": "s.pypi <modül adı>",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "saucenao",
+      "description": "anime, manga, film vb araması yaparsın",
+      "usage": "s.saucenao <resim linki | dosya>",
+      "cooldown": "5 saniye"
+    },
     {
       "name": "spotify",
       "description": "Spotify'da arama yaparsın",
       "usage": "s.spotify şarkı <şarkı adı>\ns.spotify albüm <albüm adı>\ns.spotify playlist <playlist adı>\ns.spotify profil <kullanıcı id>",
       "aliases": [
-        "s.spo", "s.spoti", "s.spotif"
+        "s.spo",
+        "s.spoti",
+        "s.spotif"
       ],
       "cooldown": "5 saniye"
     },
-    
-    
-    
-    
-    
     {
       "name": "tenor",
       "description": "Tenor'da gif ararsın",
@@ -265,11 +375,6 @@
       "image": "https://i.imgur.com/m6SuMFQ.gif",
       "cooldown": "5 saniye"
     },
-    
-    
-    
-    
-    
     {
       "name": "topgg",
       "description": "top.gg'de bot yada kullanıcı araması yaparsın",
@@ -279,32 +384,30 @@
       ],
       "cooldown": "5 saniye"
     },
-    
-    
     {
       "name": "wikipedia",
       "description": "Wikipedia'da arama yaparsın",
       "usage": "s.wikipedia <kelime>",
       "aliases": [
-        "s.viki", "s.vikipedi", "s.vikipedia", "s.wiki", "s.wikipedia"
+        "s.viki",
+        "s.vikipedi",
+        "s.vikipedia",
+        "s.wiki",
+        "s.wikipedia"
       ],
       "image": "https://i.imgur.com/gnPXQNX.png",
       "cooldown": "5 saniye"
     },
-    
-    
-    
     {
       "name": "youtube",
       "description": "YouTube'da video araması yaparsın",
       "usage": "s.youtube <video adı / video linki>",
       "aliases": [
-        "s.yt", "s.ytb"
+        "s.yt",
+        "s.ytb"
       ],
       "image": "https://i.imgur.com/BEA2LA7.png",
       "cooldown": "10 saniye"
     }
-  
-  
   ]
 }
