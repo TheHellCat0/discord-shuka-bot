@@ -1066,8 +1066,6 @@
       "cooldown": "5 saniye"
     }
   ],
-
-
   "Manipülasyon": [
     {
       "name": "blur",
@@ -1078,21 +1076,12 @@
       ],
       "cooldown": "5 saniye"
     },
-
-
-
-
     {
       "name": "blurple",
       "description": "Resime blurple efekti ekler",
       "usage": "s.blurple [etiket|emoji]",
       "cooldown": "5 saniye"
-    }, 
-    
-    
-    
-    
-    
+    },
     {
       "name": "gay",
       "description": "Resime gay efekti ekler",
@@ -1101,109 +1090,68 @@
         "s.lgbt"
       ],
       "cooldown": "5 saniye"
-    }, 
-    
-    
-    
-    
-    
+    },
     {
       "name": "glitch",
       "description": "Resime glitch efekti ekler",
       "usage": "s.glitch [etiket|emoji]",
       "cooldown": "5 saniye"
-    },  
-    
-    
-    
-    
-    
-    
+    },
     {
       "name": "greyple",
       "description": "Resime greyple efekti ekler",
       "usage": "s.greyple [etiket|emoji]",
       "cooldown": "5 saniye"
-    }, 
-    
-    
-    
-    
-    
+    },
     {
       "name": "greyscale",
       "description": "Resime greyscale efekti ekler",
       "usage": "s.greyscale [etiket|emoji]",
       "aliases": [
-        "s.grey", "s.gri"
+        "s.grey",
+        "s.gri"
       ],
       "cooldown": "5 saniye"
-    }, 
-    
-    
-    
-    
-    
+    },
     {
       "name": "headpat",
       "description": "Headpat meme'i oluşturur",
       "usage": "s.headpat [etiket|emoji]",
       "aliases": [
-        "s.head-pat", "s.hp", "s.petpat", "s.petpet"
+        "s.head-pat",
+        "s.hp",
+        "s.petpat",
+        "s.petpet"
       ],
       "image": "https://i.imgur.com/DVCMWvZ.gif",
       "cooldown": "10 saniye"
-    },  
-    
-    
-    
-    
-    
-    
-    
+    },
     {
       "name": "invert",
       "description": "Resimdeki renkleri ters çevirir",
       "usage": "s.invert [etiket|emoji]",
       "aliases": [
-        "s.ters-renk", "s.tersrenk"
+        "s.ters-renk",
+        "s.tersrenk"
       ],
       "cooldown": "5 saniye"
-    },  
-    
-    
-    
-    
-    
+    },
     {
       "name": "keskinlik",
       "description": "Resime keskinlik efekti ekler",
       "usage": "s.keskinlik [etiket|emoji]",
       "aliases": [
-        "s.sharp", "s.sharpen"
+        "s.sharp",
+        "s.sharpen"
       ],
       "cooldown": "5 saniye"
-    }, 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    },
     {
       "name": "magik",
       "description": "Resime magik efekti ekler",
       "usage": "s.magik [etiket|emoji]",
       "cooldown": "5 saniye"
     },
-    
-    
-    
-    
     {
       "name": "pixelize",
       "description": "Resime pixel efekti ekler",
@@ -1212,70 +1160,39 @@
         "s.pixel"
       ],
       "cooldown": "5 saniye"
-    }, 
-    
-    
-    
-    
-    
-    
+    },
     {
       "name": "posterize",
       "description": "Resime posterize efekti ekler",
       "usage": "s.posterize [etiket|emoji] [posterize seviyesi min 1 max 100]",
       "cooldown": "5 saniye"
-    }, 
-    
-    
-    
-    
-    
-    
-    
+    },
     {
       "name": "redple",
       "description": "Resime redple efekti ekler",
       "usage": "s.redple [etiket|emoji]",
       "cooldown": "5 saniye"
-    }, 
-    
-    
-    
-    
-    
-    
-    
+    },
     {
       "name": "sepya",
       "description": "Resime sepya efekti ekler",
       "usage": "s.sepya [etiket|emoji]",
       "aliases": [
-        "s.sepia", "s.sepıa"
+        "s.sepia",
+        "s.sepıa"
       ],
       "cooldown": "5 saniye"
-    },  
-    
-    
-    
-    
-    
-    
-    
+    },
     {
       "name": "stickbug",
       "description": "Stickbug meme'i oluşturur",
       "usage": "s.stickbug [etiket|emoji]",
       "aliases": [
-        "s.stick-bug", "s.stickb"
+        "s.stick-bug",
+        "s.stickb"
       ],
       "cooldown": "10 saniye"
-    }, 
-    
-    
-    
-    
-    
-    
+    },
     {
       "name": "trigger",
       "description": "Resime trigger efekti ekler",
@@ -1285,6 +1202,189 @@
       ],
       "cooldown": "10 saniye"
     }
-  
+  ],
+  "NSFW": [
+    {
+      "name": "anal",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "danbooru",
+      "description": "Danbooru'da resim video araması yaparsın",
+      "usage": "s.danbooru [tag]",
+      "aliases": [
+        "s.dan-booru",
+        "s.danb",
+        "s.dbooru"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "derpibooru",
+      "description": "Derpibooru'da resim video araması yaparsın",
+      "usage": "s.derpibooru [tag]",
+      "aliases": [
+        "s.derpi",
+        "s.derpi-booru",
+        "s.dp"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "e621",
+      "description": "e621.net'de resim video araması yaparsın",
+      "usage": "s.e621 [tag]",
+      "aliases": [
+        "s.e6"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "gelbooru",
+      "description": "Gelbooru'da resim video araması yaparsın",
+      "usage": "s.gelbooru [tag]",
+      "aliases": [
+        "s.gbooru",
+        "s.gel-booru",
+        "s.gelb"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "hanal",
+      "aliases": [
+        "s.hanal-gif",
+        "s.hentai-anal",
+        "s.hentaianal"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "hentai-gif",
+      "aliases": [
+        "s.hentaigif"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "hentai",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "htits",
+      "aliases": [
+        "s.hentai-tits, s.hentaitits"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "hypnohub",
+      "description": "hypnohub.net'de resim gif araması yaparsın",
+      "usage": "s.hypnohub [tag]",
+      "aliases": [
+        "s.hypno"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "konachan",
+      "description": "konachan.net'de resim araması yaparsın",
+      "usage": "s.konachan [tag]",
+      "aliases": [
+        "s.kc",
+        "s.kch",
+        "s.kn",
+        "s.knet",
+        "s.konac"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "nhentai",
+      "aliases": [
+        "s.nh"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "pgif",
+      "aliases": [
+        "s.porn-gif",
+        "s.porngif"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "realbooru",
+      "description": "Realbooru'da resim video araması yaparsın",
+      "usage": "s.realbooru [tag]",
+      "aliases": [
+        "s.rb",
+        "s.rbooru",
+        "s.real-booru",
+        "s.realb"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "rule34",
+      "description": "rule34'de resim video araması yaparsın",
+      "usage": "s.rule34 [tag]",
+      "aliases": [
+        "s.r34"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "tbib",
+      "description": "tbib.org'da resim gif araması yaparsın",
+      "usage": "s.tbib [tag]",
+      "aliases": [
+        "s.tb"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "tentacle",
+      "aliases": [
+        "s.dokunaç"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "trap",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "xbooru",
+      "description": "xbooru'da resim video araması yaparsın",
+      "usage": "s.xbooru [tag]",
+      "aliases": [
+        "s.x-booru",
+        "s.xb",
+        "s.xbooru"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "yandere",
+      "description": "yande.re'de resim video araması yaparsın",
+      "usage": "s.yandere [tag]",
+      "aliases": [
+        "s.yand",
+        "s.yande-re",
+        "s.yande.re",
+        "s.yd"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "yaoi",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "yuri",
+      "cooldown": "5 saniye"
+    }
   ]
 }
