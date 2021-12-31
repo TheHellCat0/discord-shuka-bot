@@ -1083,14 +1083,10 @@
 
 
     {
-      "name": "",
-      "description": "",
-      "usage": "",
-      "aliases": [
-        ""
-      ],
-      "image": "",
-      "cooldown": " saniye"
+      "name": "blurple",
+      "description": "Resime blurple efekti ekler",
+      "usage": "s.blurple [etiket|emoji]",
+      "cooldown": "5 saniye"
     }, 
     
     
@@ -1098,14 +1094,13 @@
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
+      "name": "gay",
+      "description": "Resime gay efekti ekler",
+      "usage": "s.gay [etiket|emoji]",
       "aliases": [
-        ""
+        "s.lgbt"
       ],
-      "image": "",
-      "cooldown": " saniye"
+      "cooldown": "5 saniye"
     }, 
     
     
@@ -1113,14 +1108,10 @@
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
-      "aliases": [
-        ""
-      ],
-      "image": "",
-      "cooldown": " saniye"
+      "name": "glitch",
+      "description": "Resime glitch efekti ekler",
+      "usage": "s.glitch [etiket|emoji]",
+      "cooldown": "5 saniye"
     },  
     
     
@@ -1129,14 +1120,10 @@
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
-      "aliases": [
-        ""
-      ],
-      "image": "",
-      "cooldown": " saniye"
+      "name": "greyple",
+      "description": "Resime greyple efekti ekler",
+      "usage": "s.greyple [etiket|emoji]",
+      "cooldown": "5 saniye"
     }, 
     
     
@@ -1144,14 +1131,13 @@
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
+      "name": "greyscale",
+      "description": "Resime greyscale efekti ekler",
+      "usage": "s.greyscale [etiket|emoji]",
       "aliases": [
-        ""
+        "s.grey", "s.gri"
       ],
-      "image": "",
-      "cooldown": " saniye"
+      "cooldown": "5 saniye"
     }, 
     
     
@@ -1159,14 +1145,14 @@
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
+      "name": "headpat",
+      "description": "Headpat meme'i oluşturur",
+      "usage": "s.headpat [etiket|emoji]",
       "aliases": [
-        ""
+        "s.head-pat", "s.hp", "s.petpat", "s.petpet"
       ],
-      "image": "",
-      "cooldown": " saniye"
+      "image": "https://i.imgur.com/DVCMWvZ.gif",
+      "cooldown": "10 saniye"
     },  
     
     
@@ -1176,14 +1162,13 @@
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
+      "name": "invert",
+      "description": "Resimdeki renkleri ters çevirir",
+      "usage": "s.invert [etiket|emoji]",
       "aliases": [
-        ""
+        "s.ters-renk", "s.tersrenk"
       ],
-      "image": "",
-      "cooldown": " saniye"
+      "cooldown": "5 saniye"
     },  
     
     
@@ -1191,14 +1176,13 @@
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
+      "name": "keskinlik",
+      "description": "Resime keskinlik efekti ekler",
+      "usage": "s.keskinlik [etiket|emoji]",
       "aliases": [
-        ""
+        "s.sharp", "s.sharpen"
       ],
-      "image": "",
-      "cooldown": " saniye"
+      "cooldown": "5 saniye"
     }, 
     
     
@@ -1211,28 +1195,23 @@
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
-      "aliases": [
-        ""
-      ],
-      "image": "",
-      "cooldown": " saniye"
+      "name": "magik",
+      "description": "Resime magik efekti ekler",
+      "usage": "s.magik [etiket|emoji]",
+      "cooldown": "5 saniye"
     },
     
     
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
+      "name": "pixelize",
+      "description": "Resime pixel efekti ekler",
+      "usage": "s.pixelize [etiket|emoji] [pixel seviyesi min 1 max 50]",
       "aliases": [
-        ""
+        "s.pixel"
       ],
-      "image": "",
-      "cooldown": " saniye"
+      "cooldown": "5 saniye"
     }, 
     
     
@@ -1241,31 +1220,10 @@
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
-      "aliases": [
-        ""
-      ],
-      "image": "",
-      "cooldown": " saniye"
-    }, 
-    
-    
-    
-    
-    
-    
-    
-    {
-      "name": "",
-      "description": "",
-      "usage": "",
-      "aliases": [
-        ""
-      ],
-      "image": "",
-      "cooldown": " saniye"
+      "name": "posterize",
+      "description": "Resime posterize efekti ekler",
+      "usage": "s.posterize [etiket|emoji] [posterize seviyesi min 1 max 100]",
+      "cooldown": "5 saniye"
     }, 
     
     
@@ -1275,14 +1233,26 @@
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
+      "name": "redple",
+      "description": "Resime redple efekti ekler",
+      "usage": "s.redple [etiket|emoji]",
+      "cooldown": "5 saniye"
+    }, 
+    
+    
+    
+    
+    
+    
+    
+    {
+      "name": "sepya",
+      "description": "Resime sepya efekti ekler",
+      "usage": "s.sepya [etiket|emoji]",
       "aliases": [
-        ""
+        "s.sepia", "s.sepıa"
       ],
-      "image": "",
-      "cooldown": " saniye"
+      "cooldown": "5 saniye"
     },  
     
     
@@ -1292,14 +1262,13 @@
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
+      "name": "stickbug",
+      "description": "Stickbug meme'i oluşturur",
+      "usage": "s.stickbug [etiket|emoji]",
       "aliases": [
-        ""
+        "s.stick-bug", "s.stickb"
       ],
-      "image": "",
-      "cooldown": " saniye"
+      "cooldown": "10 saniye"
     }, 
     
     
@@ -1308,14 +1277,13 @@
     
     
     {
-      "name": "",
-      "description": "",
-      "usage": "",
+      "name": "trigger",
+      "description": "Resime trigger efekti ekler",
+      "usage": "s.trigger [etiket|emoji]",
       "aliases": [
-        ""
+        "s.triggered"
       ],
-      "image": "",
-      "cooldown": " saniye"
+      "cooldown": "10 saniye"
     }
   
   ]
