@@ -1065,5 +1065,258 @@
       ],
       "cooldown": "5 saniye"
     }
+  ],
+
+
+  "Manipülasyon": [
+    {
+      "name": "blur",
+      "description": "Resime bulanıklık efekti ekler",
+      "usage": "s.blur [etiket|emoji] [blur seviyesi min 1 max 100]",
+      "aliases": [
+        "s.bulanık"
+      ],
+      "cooldown": "5 saniye"
+    },
+
+
+
+
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    }, 
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    }, 
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    },  
+    
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    }, 
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    }, 
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    },  
+    
+    
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    },  
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    }, 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    },
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    }, 
+    
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    }, 
+    
+    
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    }, 
+    
+    
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    },  
+    
+    
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    }, 
+    
+    
+    
+    
+    
+    
+    {
+      "name": "",
+      "description": "",
+      "usage": "",
+      "aliases": [
+        ""
+      ],
+      "image": "",
+      "cooldown": " saniye"
+    }
+  
   ]
 }
