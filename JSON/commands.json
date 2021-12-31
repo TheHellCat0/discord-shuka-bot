@@ -1,99 +1,4 @@
 {
-  "Anime": [
-    {
-      "name": "animeara",
-      "description": "MyAnimeList'de anime ararsın",
-      "usage": "s.animeara <anime adı>",
-      "aliases": [
-        "s.anime-ara"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "kanna",
-      "description": "Kannaya yazı yazdırırsın",
-      "usage": "s.kanna <metin>",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "karakter-ara",
-      "description": "Yazdığın anime,manga karakterin bilgilerini alırsın",
-      "usage": "s.karakterara <karakter adı>",
-      "aliases": [
-        "s.ka",
-        "s.karakterara"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "kitsu-anime",
-      "description": "Kitsu'da anime ararsın",
-      "usage": "s.kitsu-anime <anime adı>",
-      "aliases": [
-        "s.kitsuanime"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "kitsu-manga",
-      "description": "Kitsu'da manga ararsın",
-      "usage": "s.kitsu-manga <manga adı>",
-      "aliases": [
-        "s.kitsumanga"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "loli",
-      "description": "FBI evine loli gönderir",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "myanimelistprofil",
-      "description": "MyAnimeList'de kullanıcı profilini ararsın",
-      "usage": "s.myanimelistprofil <m.a.l. kullanıcı adı>",
-      "aliases": [
-        "s.mal",
-        "s.malp",
-        "s.malpf",
-        "s.malprofil"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "neko",
-      "description": "Rastgele kedikız atar",
-      "cooldown": "3 saniye"
-    },
-    {
-      "name": "pokemon",
-      "description": "Yazdığın Pokemonun bilgilerini alırsın",
-      "usage": "s.pokemon <pokemon adı>",
-      "aliases": [
-        "s.pokedex"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "safebooru",
-      "description": "Safebooru'da resim video araması yaparsın",
-      "usage": "s.safebooru [tag]",
-      "aliases": [
-        "s.safe-booru",
-        "s.safeb",
-        "s.sbooru"
-      ],
-      "cooldown": "3 saniye"
-    },
-    {
-      "name": "twdne",
-      "description": "Yapay zeka tarafından oluşturulan waifu fotoğrafları atar",
-      "aliases": [
-        "s.thiswaifudoesnotexist"
-      ],
-      "image": "https://i.imgur.com/7vdT1mz.png"
-    }
-  ],
   "Bot": [
     {
       "name": "davet",
@@ -222,985 +127,99 @@
       "cooldown": "5 saniye"
     }
   ],
-  "Arama": [
+  "Anime": [
     {
-      "name": "cinsiyet",
-      "description": "Yazılan isimin muhtemel cinsiyetini gösterir",
-      "usage": "s.cinsiyet <isim>",
+      "name": "animeara",
+      "description": "MyAnimeList'de anime ararsın",
+      "usage": "s.animeara <anime adı>",
       "aliases": [
-        "s.gend",
-        "s.gender"
+        "s.anime-ara"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "kanna",
+      "description": "Kannaya yazı yazdırırsın",
+      "usage": "s.kanna <metin>",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "karakter-ara",
+      "description": "Yazdığın anime,manga karakterin bilgilerini alırsın",
+      "usage": "s.karakterara <karakter adı>",
+      "aliases": [
+        "s.ka",
+        "s.karakterara"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "kitsu-anime",
+      "description": "Kitsu'da anime ararsın",
+      "usage": "s.kitsu-anime <anime adı>",
+      "aliases": [
+        "s.kitsuanime"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "kitsu-manga",
+      "description": "Kitsu'da manga ararsın",
+      "usage": "s.kitsu-manga <manga adı>",
+      "aliases": [
+        "s.kitsumanga"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "loli",
+      "description": "FBI evine loli gönderir",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "myanimelistprofil",
+      "description": "MyAnimeList'de kullanıcı profilini ararsın",
+      "usage": "s.myanimelistprofil <m.a.l. kullanıcı adı>",
+      "aliases": [
+        "s.mal",
+        "s.malp",
+        "s.malpf",
+        "s.malprofil"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "neko",
+      "description": "Rastgele kedikız atar",
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "pokemon",
+      "description": "Yazdığın Pokemonun bilgilerini alırsın",
+      "usage": "s.pokemon <pokemon adı>",
+      "aliases": [
+        "s.pokedex"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "safebooru",
+      "description": "Safebooru'da resim video araması yaparsın",
+      "usage": "s.safebooru [tag]",
+      "aliases": [
+        "s.safe-booru",
+        "s.safeb",
+        "s.sbooru"
       ],
       "cooldown": "3 saniye"
     },
     {
-      "name": "distro",
-      "description": "Girilen Linux dağıtımı hakkında bilgi verir",
-      "usage": "s.distro <dağıtım ismi>",
+      "name": "twdne",
+      "description": "Yapay zeka tarafından oluşturulan waifu fotoğrafları atar",
       "aliases": [
-        "s.dağıtım",
-        "s.distribution"
+        "s.thiswaifudoesnotexist"
       ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "giphy",
-      "description": "Giphy'de gif ararsın.",
-      "usage": "s.giphy <gif adı>",
-      "image": "https://i.imgur.com/7bc20Ze.gif",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "github",
-      "description": "Github'da kullanıcı veya repo araması yaparsın",
-      "usage": "s.github gist <gist id>\ns.github repo <repo adı>\ns.github kullanıcı <kullanıcı adı>",
-      "aliases": [
-        "s.gh",
-        "s.git",
-        "s.git-huba"
-      ],
-      "image": "https://i.imgur.com/51CpFE4.png",
-      "cooldown": "10 saniye"
-    },
-    {
-      "name": "havadurumu",
-      "description": "Girilen yerin hava durumunu gösterir",
-      "usage": "s.havadurumu <yer>",
-      "aliases": [
-        "s.hava-durumu",
-        "s.weather"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "hex",
-      "description": "Girdiğiniz hex kodunun bilgilerini gösterir",
-      "usage": "s.hex ara <renk kodu>\ns.hex [random]",
-      "aliases": [
-        "s.color",
-        "s.color-search",
-        "s.colorsearch",
-        "s.renk",
-        "s.renk-ara",
-        "s.renkara"
-      ],
-      "image": "https://i.imgur.com/ra5MEc0.gif"
-    },
-    {
-      "name": "ip",
-      "cooldown": "5 saniye",
-      "description": "Girilen ip adresi hakkında bilgi verir",
-      "usage": "s.ip <ip adresi>"
-    },
-    {
-      "name": "lyrics",
-      "description": "ismini yazdığınız şarkının sözlerini aratır",
-      "usage": "s.lyrics <şarkı adı>",
-      "aliases": [
-        "s.ls",
-        "s.ly",
-        "s.lyric",
-        "s.söz-ara",
-        "s.sözara"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "npm",
-      "description": "npmjs.com'da modül araması yaparsın",
-      "usage": "s.npm <modül adı>",
-      "aliases": [
-        "s.node-package-manager, s.nodepackagemanager, s.npmjs"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "osu",
-      "description": "Osu kullanıcı yada beatmap bilgilerini gösterir",
-      "usage": "s.osu kullanıcı <kullanıcı adı>\ns.osu beatmap <beatmap id>",
-      "aliases": [
-        "s.osu!"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "playstore",
-      "description": "play store'da oyun, uygulama araması yaparsın",
-      "usage": "s.playstore <oyun, uygulama adı>",
-      "aliases": [
-        "s.play-store",
-        "s.ps"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "pypi",
-      "description": "pypi.org'da modül araması yaparsın",
-      "usage": "s.pypi <modül adı>",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "saucenao",
-      "description": "anime, manga, film vb araması yaparsın",
-      "usage": "s.saucenao <resim linki | dosya>",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "spotify",
-      "description": "Spotify'da arama yaparsın",
-      "usage": "s.spotify şarkı <şarkı adı>\ns.spotify albüm <albüm adı>\ns.spotify playlist <playlist adı>\ns.spotify profil <kullanıcı id>",
-      "aliases": [
-        "s.spo",
-        "s.spoti",
-        "s.spotif"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "tenor",
-      "description": "Tenor'da gif ararsın",
-      "usage": "s.tenor <gif adı>",
-      "image": "https://i.imgur.com/m6SuMFQ.gif",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "topgg",
-      "description": "top.gg'de bot yada kullanıcı araması yaparsın",
-      "usage": "s.topgg bot <etiket | id>\ns.topgg kullanıcı <etiket | id>",
-      "aliases": [
-        "s.top.gg"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "wikipedia",
-      "description": "Wikipedia'da arama yaparsın",
-      "usage": "s.wikipedia <kelime>",
-      "aliases": [
-        "s.viki",
-        "s.vikipedi",
-        "s.vikipedia",
-        "s.wiki",
-        "s.wikipedia"
-      ],
-      "image": "https://i.imgur.com/gnPXQNX.png",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "youtube",
-      "description": "YouTube'da video araması yaparsın",
-      "usage": "s.youtube <video adı / video linki>",
-      "aliases": [
-        "s.yt",
-        "s.ytb"
-      ],
-      "image": "https://i.imgur.com/BEA2LA7.png",
-      "cooldown": "10 saniye"
-    }
-  ],
-  "Diğer": [
-    {
-      "name": "base64",
-      "description": "Yazınızı base64 formatına dönüştürür/okutur",
-      "usage": "s.base64 oluştur <metin>\ns.base64 çöz <base64 metin>",
-      "aliases": [
-        "s.b64"
-      ],
-      "image": "https://i.imgur.com/G9tMkSr.png"
-    },
-    {
-      "name": "kod",
-      "description": "681 farklı programa dilinde yazdığınız kodu çalıştırır",
-      "usage": "s.kod diller\ns.kod yürüt <dil ismi> <kod>",
-      "aliases": [
-        "s.code"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "discordstatü",
-      "description": "Discord'un durumunu gösterir",
-      "aliases": [
-        "s.discord-statu",
-        "s.discord-statü",
-        "s.ds",
-        "s.dstatu",
-        "s.dstatü"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "ekrangörüntüsü",
-      "description": "URL'si yazılan sitenin ekran görüntüsünü atar",
-      "usage": "s.ekrangörüntüsü <url>",
-      "aliases": [
-        "s.ekran-görüntüsü",
-        "s.sc",
-        "s.screen-shot",
-        "s.screenshot",
-        "s.ss"
-      ],
-      "image": "https://i.imgur.com/5LpTcrz.png",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "hesapla",
-      "description": "Matematiksel işlemleri yaparsın",
-      "usage": "s.hesapla <işlem>",
-      "aliases": [
-        "s.hesap",
-        "s.mat",
-        "s.matematik"
-      ],
-      "image": "https://i.imgur.com/BsBRVY9.png",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "karakter-sayacı",
-      "description": "Yazılan metindeki toplam karakter sayısını hesaplar",
-      "usage": "s.karakter-sayacı <metin>",
-      "aliases": [
-        "s.karakter-sayısı",
-        "s.karaktersayacı",
-        "s.karaktersayısı"
-      ],
-      "image": "https://i.imgur.com/vv2iEAh.png",
-      "cooldown": "2 saniye"
-    },
-    {
-      "name": "palet",
-      "description": "Resimdeki renk paletini gösterir",
-      "usage": "s.palet [etiket | resim linki | resim dosyası]",
-      "aliases": [
-        "s.gradient",
-        "s.gradyan",
-        "s.palette"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "qr",
-      "description": "Yazınızı qr koduna dönüştürür/okutur",
-      "usage": "s.qr oluştur <metin>\ns.qr okut <resim linki>",
-      "aliases": [
-        "s.kare-kod",
-        "s.karekod",
-        "s.qr-code",
-        "s.qr-kod",
-        "s.qrcode",
-        "s.qrkod"
-      ],
-      "image": "https://i.imgur.com/VOV8E3w.png",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "snowflake",
-      "description": "Girdiğin discord snowflake'i hakkında bilgi verir",
-      "usage": "s.snowflake <snowflake id>",
-      "aliases": [
-        "s.kartanesi"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "texttospeech",
-      "description": "Yazınızı sese dönüştürür",
-      "usage": "s.texttospeech <metin>",
-      "aliases": [
-        "s.tts"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "tpdne",
-      "description": "Yapay zeka tarafından oluşturulan insan fotoğrafları atar",
-      "aliases": [
-        "s.thispersondoesnotexist"
-      ],
-      "cooldown": "3 saniye"
-    },
-    {
-      "name": "virustotal",
-      "description": "Girilen URL'ye güvenlik taraması yapar",
-      "usage": "s.virustotal <url>",
-      "aliases": [
-        "s.virus-total",
-        "s.vt"
-      ],
-      "cooldown": "15 saniye"
-    }
-  ],
-  "Genel": [
-    {
-      "name": "avatar",
-      "description": "İstediğiniz kullanıcının avatarını gösterir",
-      "usage": "s.avatar [etiket | id]",
-      "aliases": [
-        "s.av",
-        "s.pf",
-        "s.pfp",
-        "s.pg",
-        "s.pp"
-      ],
-      "image": "https://i.imgur.com/tp6Wv23.gif",
-      "cooldown": "10 saniye"
-    },
-    {
-      "name": "emojibilgi",
-      "description": "Sunucudaki emoji hakkında bilgi verir",
-      "usage": "s.emojibilgi <emoji | emoji ismi | emoji id>",
-      "aliases": [
-        "s.eb",
-        "s.emoji-bilgi",
-        "s.emoji-bilgisi",
-        "s.emojibilgisi"
-      ],
-      "image": "https://i.imgur.com/IC6B2KY.gif",
-      "cooldown": "3 saniye"
-    },
-    {
-      "name": "emojibüyüt",
-      "description": "Attığınız emojiyi büyütür",
-      "usage": "s.emojibüyüt <emoji>",
-      "aliases": [
-        "s.emoji-büyüt",
-        "s.jumbo"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "kanalbilgi",
-      "description": "Kanal hakkında bilgi verir",
-      "usage": "s.kanalbilgi [id | etiket | isim]",
-      "aliases": [
-        "s.kanal-bilgi",
-        "s.kanal-bilgisi",
-        "s.kanalb",
-        "s.kanalbilgisi"
-      ],
-      "cooldown": "3 saniye"
-    },
-    {
-      "name": "kullanıcıbilgi",
-      "description": "Etiketlediğiniz kullanıcı hakkında bilgi verir",
-      "usage": "s.kullanıcıbilgi [etiket]",
-      "aliases": [
-        "s.kb",
-        "s.kullanıcı-bilgi",
-        "s.kullanıcı-bilgisi",
-        "s.kullanıcıbilgisi",
-        "s.ui",
-        "s.user-info",
-        "s.userinfo"
-      ],
-      "image": "https://i.imgur.com/iE6BJ4P.png",
-      "cooldown": "3 saniye"
-    },
-    {
-      "name": "roller",
-      "description": "Sunucudaki tüm rolleri listeler",
-      "aliases": [
-        "s.rol-list",
-        "s.rol-listesi",
-        "s.roles",
-        "s.rollist",
-        "s.rollistesi"
-      ],
-      "cooldown": "15 saniye"
-    },
-    {
-      "name": "sunucubilgi",
-      "description": "Sunucu bilgilerini gösterir",
-      "aliases": [
-        "s.sb",
-        "s.sbilgi",
-        "s.sunucu-bilgi",
-        "s.sunucu-bilgisi",
-        "s.sunucubilgisi"
-      ],
-      "image": "https://i.imgur.com/nQIVVjE.png",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "sunucuikon",
-      "description": "Sunucunun ikonunu atar",
-      "aliases": [
-        "s.server-icon",
-        "s.servericon",
-        "s.si",
-        "s.sunucu-ikon"
-      ],
-      "image": "https://i.imgur.com/jXbA8bz.png",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "yaz",
-      "description": "Yazdığın metini bota yazdırır",
-      "usage": "s.yaz <metin>",
-      "aliases": [
-        "s.say",
-        "s.yazdır"
-      ],
-      "image": "https://i.imgur.com/5Ogu0UD.gif",
-      "cooldown": "1 saniye"
-    },
-    {
-      "name": "yetkiler",
-      "description": "Bir kullanıcının sunucudaki yetkilerine bakarsın",
-      "usage": "s.yetkiler [etiket]",
-      "aliases": [
-        "s.yetkilerim"
-      ],
-      "image": "https://i.imgur.com/GodbZtq.png",
-      "cooldown": "5 saniye"
-    }
-  ],
-  "Reaksiyon": [
-    {
-      "name": "ağla",
-      "description": "Ağlarsın",
-      "aliases": [
-        "s.cry"
-      ],
-      "cooldown": "3 saniye"
-    },
-    {
-      "name": "aşağıla",
-      "description": "Etiketlediğin kişiyi aşağılarsın",
-      "usage": "s.aşağıla <etiket>",
-      "aliases": [
-        "s.smug"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "danset",
-      "description": "Dans edersin",
-      "usage": "s.danset [etiket]",
-      "aliases": [
-        "s.dance",
-        "s.dans",
-        "s.dans-et"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "dürt",
-      "description": "Etiketlediğin kişiyi dürtersin",
-      "usage": "s.dürt <kullanıcı etiket>",
-      "aliases": [
-        "s.durt",
-        "s.poke"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "elsalla",
-      "description": "El sallarsın",
-      "usage": "s.elsalla [etiket]",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "gözkırp",
-      "description": "Göz kırparsın",
-      "usage": "s.gözkırp [etiket]",
-      "aliases": [
-        "s.wink"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "gülümse",
-      "description": "Gülümsersin",
-      "usage": "s.gülümse [etiket]",
-      "aliases": [
-        "s.gül",
-        "s.smile"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "napim",
-      "description": "Laf koyarsın(!)",
-      "usage": "s.napim [etiket]",
-      "aliases": [
-        "s.nabim"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "ohaçet",
-      "description": "ses kanalında oa çet dersin",
-      "aliases": [
-        "s.oa",
-        " s.oaçet"
-      ],
-      "image": "https://i.imgur.com/3tVmJ8b.gif",
-      "cooldown": "10 saniye"
-    },
-    {
-      "name": "okşa",
-      "description": "Etiketlediğin kişiyi okşarsın",
-      "usage": "s.okşa <kullanıcı etiket>",
-      "aliases": [
-        "s.pat"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "sarıl",
-      "description": "Etiketlediğin kişiye sarılırsın",
-      "usage": "s.sarıl <etiket>",
-      "aliases": [
-        "s.hug"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "tokatla",
-      "description": "Etiketlediğin kişiyi tokatlarsın",
-      "usage": "s.tokatla <etiket>",
-      "aliases": [
-        "s.slap",
-        "s.tokat"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "utan",
-      "description": "Utanırsın",
-      "aliases": [
-        "s.blush",
-        "s.shy"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "yumrukla",
-      "description": "Etiketlediğin kişiye yumruk atarsın",
-      "usage": "s.yumrukat <etiket>",
-      "aliases": [
-        "s.punch",
-        "s.yumruk",
-        "s.yumruk-at",
-        "s.yumrukat"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "öp",
-      "description": "Etiketlediğin kişiyi öpersin",
-      "usage": "s.öp <etiket>",
-      "aliases": [
-        "s.kiss"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "ısır",
-      "description": "Etiketlediğin kişiyi ısırırsın",
-      "usage": "s.ısır <etiket>",
-      "aliases": [
-        "s.bite"
-      ],
-      "cooldown": "5 saniye"
-    }
-  ],
-  "Yetkili": [
-    {
-      "name": "ban",
-      "description": "Etiketlediğiniz kullanıcıyı sunucudan yasaklar",
-      "usage": "s.ban <etiket> <sebep>",
-      "aliases": [
-        "s.yasakla"
-      ],
-      "image": "https://i.imgur.com/iYGqPqv.png",
-      "cooldown": "2 saniye"
-    },
-    {
-      "name": "emoji",
-      "description": "Emoji ekler, düzenler ve silersin",
-      "usage": "s.emoji ekle <emoji | emoji linki | dosya> [emoji ismi]\ns.emoji sil <emoji | emoji ismi>\ns.emoji düzenle <emoji | emoji ismi> <yeni isim>",
-      "aliases": [
-        "s.emote"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "forceban",
-      "description": "ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar",
-      "usage": "s.forceban <kullanıcı ID> [sebep]",
-      "aliases": [
-        "s.fb",
-        "s.fban",
-        "s.force-ban"
-      ],
-      "image": "https://i.imgur.com/pRk8lEu.jpg",
-      "cooldown": "2 saniye"
-    },
-    {
-      "name": "kick",
-      "description": "Etiketlediğiniz kullanıcıyı sunucudan atar",
-      "usage": "s.kick <etiket> <sebep>",
-      "aliases": [
-        "s.at"
-      ],
-      "image": "https://i.imgur.com/RQtaieN.png",
-      "cooldown": "2 saniye"
-    },
-    {
-      "name": "log",
-      "description": "Sunucuda yapılan işlemlerin logunu kanala atar",
-      "cooldown": "10 saniye"
-    },
-    {
-      "name": "nuke",
-      "description": "Etiketlenen kanalı silip yeniden oluşturur",
-      "usage": "s.nuke\ns.nuke <kanal ismi | etiket>",
-      "image": "https://i.imgur.com/ahZ1Sjt.gif",
-      "cooldown": " saniye"
-    },
-    {
-      "name": "otorol",
-      "description": "Sunucuya giren bot ve üyelere otomatik rol veren sistemdir",
-      "aliases": [
-        "s.oto-rol",
-        "s.otomatik-rol",
-        "s.otomatikrol"
-      ],
-      "cooldown": "2 saniye"
-    },
-    {
-      "name": "pin",
-      "description": "ID'sini attığınız mesajı sabitler",
-      "usage": "s.pin <mesaj ID>",
-      "aliases": [
-        "s.sabitle"
-      ]
-    },
-    {
-      "name": "sil",
-      "description": "Belirlediğin miktarda mesajı siler max 100 min 1",
-      "usage": "s.sil <mesaj sayısı>",
-      "aliases": [
-        "s.clear",
-        "s.delete",
-        "s.prune",
-        "s.purge",
-        "s.temizle"
-      ],
-      "image": "https://i.imgur.com/aG97qdD.gif",
-      "cooldown": "10 saniye"
-    },
-    {
-      "name": "unban",
-      "description": "ID'sini attığınız kullanıcının yasağını kaldırır",
-      "usage": "s.unban <id> [sebep]",
-      "aliases": [
-        "s.ban-kaldır",
-        "s.bankaldır",
-        "s.ub"
-      ],
-      "image": "https://i.imgur.com/vENj4Zg.png"
-    },
-    {
-      "name": "unpin",
-      "description": "ID'sini attığınız mesajın sabitlenmesini kaldırır",
-      "usage": "s.unpin <mesaj ID>",
-      "aliases": [
-        "s.sabitlemeyi-kaldır",
-        "s.sabitlemeyikaldır",
-        "s.unp"
-      ],
-      "image": "https://i.imgur.com/w6AEHlo.gif"
-    },
-    {
-      "name": "çıkartma",
-      "description": "Çıkartma ekler, düzenler ve silersin",
-      "usage": "s.çıkartma ekle <çıkartma linki | dosya> [çıkartma ismi]\ns.çıkartma sil <çıkartma ismi>\ns.çıkartma düzenle <çıkartma ismi> <yeni isim>",
-      "aliases": [
-        "s.cıkartma",
-        "s.sticker"
-      ]
-    }
-  ],
-  "Eğlence": [
-    {
-      "name": "8ball",
-      "description": "Bota soru sorarsın",
-      "usage": "s.8ball <soru>",
-      "aliases": [
-        "s.8-ball",
-        "s.8top"
-      ],
-      "image": "https://i.imgur.com/DOMHzes.png"
-    },
-    {
-      "name": "akinatör",
-      "description": "Akinatör oynarsın",
-      "aliases": [
-        "s.aki",
-        "s.akinator"
-      ]
-    },
-    {
-      "name": "ascii",
-      "description": "Yazdığın metini ascii formatına dönüştürür",
-      "usage": "s.ascii <metin>",
-      "image": "https://i.imgur.com/MmxEcpz.gif",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "asciiart",
-      "description": "Resimleri ascii formatına dönüştürür",
-      "usage": "s.asciiart [etiket | resim linki]",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "düello",
-      "description": "Etiketlediğin kişiyle duello yaparsın",
-      "usage": "s.duello <etiket>",
-      "aliases": [
-        "s.1v1",
-        "s.1vs1",
-        "s.duello",
-        "s.vs"
-      ],
-      "image": "https://i.imgur.com/IdbCMJF.gif",
-      "cooldown": " saniye"
-    },
-    {
-      "name": "emojiyaz",
-      "description": "Yazdığın metini emojili hale getirir",
-      "usage": "s.emojiyaz <metin>",
-      "aliases": [
-        "s.emoji-yaz",
-        "s.emoji-yazı",
-        "s.emojiyazı"
-      ],
-      "image": "https://i.imgur.com/vJ1a8Pr.png",
-      "cooldown": "3 saniye"
-    },
-    {
-      "name": "fakeyaz",
-      "description": "Etiketlediğin kişiye sahte yazı yazdırırsın",
-      "usage": "s.fakeyaz <dark | amoled | light | transparan> <etiket> <metin>",
-      "aliases": [
-        "s.fake-yaz",
-        "s.fy",
-        "s.resimli-yaz",
-        "s.resimliyaz",
-        "s.ry"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "masa-fırlat",
-      "description": "(╯°□°)╯ ┬─┬",
-      "aliases": [
-        "s.masafırlat"
-      ],
-      "image": "https://i.imgur.com/ZwEA0EX.gif",
-      "cooldown": "10 saniye"
-    },
-    {
-      "name": "mayıntarlası",
-      "description": "Mayın tarlası oynarsın",
-      "usage": "s.mayın-tarlası [satır] [sütun] [mayın]",
-      "aliases": [
-        "s.mayın-tarlası",
-        "s.mt"
-      ],
-      "image": "https://i.imgur.com/KmdG9gV.gif",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "owoify",
-      "description": "OwO Budanediw x3",
-      "usage": "s.owoify <metin>",
-      "aliases": [
-        "s.owo",
-        "s.uwu",
-        "s.uwuify"
-      ],
-      "image": "https://i.imgur.com/rIWOxI2.png",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "rus-ruleti",
-      "description": "Rus ruleti oynarsın",
-      "aliases": [
-        "s.rr",
-        "s.rusruleti"
-      ],
-      "image": "https://i.imgur.com/elzLEOa.png",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "yazıdöndür",
-      "description": "Yazdığın yazıyı ters çevirir",
-      "usage": "s.yazıdöndür <metin>",
-      "aliases": [
-        "s.yazı-döndür",
-        "s.yazı-çevir",
-        "s.yazıçevir"
-      ],
-      "image": "https://i.imgur.com/ZttCPfb.png",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "yazıtura",
-      "description": "Japon parası ile yazı tura atarsın",
-      "aliases": [
-        "s.yazı-tura"
-      ],
-      "image": "https://i.imgur.com/L8KmbUa.png",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "zar",
-      "description": "Zar atarsın",
-      "aliases": [
-        "s.dice"
-      ],
-      "cooldown": "5 saniye"
-    }
-  ],
-  "Manipülasyon": [
-    {
-      "name": "blur",
-      "description": "Resime bulanıklık efekti ekler",
-      "usage": "s.blur [etiket|emoji] [blur seviyesi min 1 max 100]",
-      "aliases": [
-        "s.bulanık"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "blurple",
-      "description": "Resime blurple efekti ekler",
-      "usage": "s.blurple [etiket|emoji]",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "gay",
-      "description": "Resime gay efekti ekler",
-      "usage": "s.gay [etiket|emoji]",
-      "aliases": [
-        "s.lgbt"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "glitch",
-      "description": "Resime glitch efekti ekler",
-      "usage": "s.glitch [etiket|emoji]",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "greyple",
-      "description": "Resime greyple efekti ekler",
-      "usage": "s.greyple [etiket|emoji]",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "greyscale",
-      "description": "Resime greyscale efekti ekler",
-      "usage": "s.greyscale [etiket|emoji]",
-      "aliases": [
-        "s.grey",
-        "s.gri"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "headpat",
-      "description": "Headpat meme'i oluşturur",
-      "usage": "s.headpat [etiket|emoji]",
-      "aliases": [
-        "s.head-pat",
-        "s.hp",
-        "s.petpat",
-        "s.petpet"
-      ],
-      "image": "https://i.imgur.com/DVCMWvZ.gif",
-      "cooldown": "10 saniye"
-    },
-    {
-      "name": "invert",
-      "description": "Resimdeki renkleri ters çevirir",
-      "usage": "s.invert [etiket|emoji]",
-      "aliases": [
-        "s.ters-renk",
-        "s.tersrenk"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "keskinlik",
-      "description": "Resime keskinlik efekti ekler",
-      "usage": "s.keskinlik [etiket|emoji]",
-      "aliases": [
-        "s.sharp",
-        "s.sharpen"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "magik",
-      "description": "Resime magik efekti ekler",
-      "usage": "s.magik [etiket|emoji]",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "pixelize",
-      "description": "Resime pixel efekti ekler",
-      "usage": "s.pixelize [etiket|emoji] [pixel seviyesi min 1 max 50]",
-      "aliases": [
-        "s.pixel"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "posterize",
-      "description": "Resime posterize efekti ekler",
-      "usage": "s.posterize [etiket|emoji] [posterize seviyesi min 1 max 100]",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "redple",
-      "description": "Resime redple efekti ekler",
-      "usage": "s.redple [etiket|emoji]",
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "sepya",
-      "description": "Resime sepya efekti ekler",
-      "usage": "s.sepya [etiket|emoji]",
-      "aliases": [
-        "s.sepia",
-        "s.sepıa"
-      ],
-      "cooldown": "5 saniye"
-    },
-    {
-      "name": "stickbug",
-      "description": "Stickbug meme'i oluşturur",
-      "usage": "s.stickbug [etiket|emoji]",
-      "aliases": [
-        "s.stick-bug",
-        "s.stickb"
-      ],
-      "cooldown": "10 saniye"
-    },
-    {
-      "name": "trigger",
-      "description": "Resime trigger efekti ekler",
-      "usage": "s.trigger [etiket|emoji]",
-      "aliases": [
-        "s.triggered"
-      ],
-      "cooldown": "10 saniye"
+      "image": "https://i.imgur.com/7vdT1mz.png"
     }
   ],
   "NSFW": [
@@ -1385,6 +404,987 @@
     {
       "name": "yuri",
       "cooldown": "5 saniye"
+    }
+  ],
+  "Arama": [
+    {
+      "name": "cinsiyet",
+      "description": "Yazılan isimin muhtemel cinsiyetini gösterir",
+      "usage": "s.cinsiyet <isim>",
+      "aliases": [
+        "s.gend",
+        "s.gender"
+      ],
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "distro",
+      "description": "Girilen Linux dağıtımı hakkında bilgi verir",
+      "usage": "s.distro <dağıtım ismi>",
+      "aliases": [
+        "s.dağıtım",
+        "s.distribution"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "giphy",
+      "description": "Giphy'de gif ararsın.",
+      "usage": "s.giphy <gif adı>",
+      "image": "https://i.imgur.com/7bc20Ze.gif",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "github",
+      "description": "Github'da kullanıcı veya repo araması yaparsın",
+      "usage": "s.github gist <gist id>\ns.github repo <repo adı>\ns.github kullanıcı <kullanıcı adı>",
+      "aliases": [
+        "s.gh",
+        "s.git",
+        "s.git-huba"
+      ],
+      "image": "https://i.imgur.com/51CpFE4.png",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "havadurumu",
+      "description": "Girilen yerin hava durumunu gösterir",
+      "usage": "s.havadurumu <yer>",
+      "aliases": [
+        "s.hava-durumu",
+        "s.weather"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "hex",
+      "description": "Girdiğiniz hex kodunun bilgilerini gösterir",
+      "usage": "s.hex ara <renk kodu>\ns.hex [random]",
+      "aliases": [
+        "s.color",
+        "s.color-search",
+        "s.colorsearch",
+        "s.renk",
+        "s.renk-ara",
+        "s.renkara"
+      ],
+      "image": "https://i.imgur.com/ra5MEc0.gif"
+    },
+    {
+      "name": "ip",
+      "cooldown": "5 saniye",
+      "description": "Girilen ip adresi hakkında bilgi verir",
+      "usage": "s.ip <ip adresi>"
+    },
+    {
+      "name": "lyrics",
+      "description": "ismini yazdığınız şarkının sözlerini aratır",
+      "usage": "s.lyrics <şarkı adı>",
+      "aliases": [
+        "s.ls",
+        "s.ly",
+        "s.lyric",
+        "s.söz-ara",
+        "s.sözara"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "npm",
+      "description": "npmjs.com'da modül araması yaparsın",
+      "usage": "s.npm <modül adı>",
+      "aliases": [
+        "s.node-package-manager, s.nodepackagemanager, s.npmjs"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "osu",
+      "description": "Osu kullanıcı yada beatmap bilgilerini gösterir",
+      "usage": "s.osu kullanıcı <kullanıcı adı>\ns.osu beatmap <beatmap id>",
+      "aliases": [
+        "s.osu!"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "playstore",
+      "description": "play store'da oyun, uygulama araması yaparsın",
+      "usage": "s.playstore <oyun, uygulama adı>",
+      "aliases": [
+        "s.play-store",
+        "s.ps"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "pypi",
+      "description": "pypi.org'da modül araması yaparsın",
+      "usage": "s.pypi <modül adı>",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "saucenao",
+      "description": "anime, manga, film vb araması yaparsın",
+      "usage": "s.saucenao <resim linki | dosya>",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "spotify",
+      "description": "Spotify'da arama yaparsın",
+      "usage": "s.spotify şarkı <şarkı adı>\ns.spotify albüm <albüm adı>\ns.spotify playlist <playlist adı>\ns.spotify profil <kullanıcı id>",
+      "aliases": [
+        "s.spo",
+        "s.spoti",
+        "s.spotif"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "tenor",
+      "description": "Tenor'da gif ararsın",
+      "usage": "s.tenor <gif adı>",
+      "image": "https://i.imgur.com/m6SuMFQ.gif",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "topgg",
+      "description": "top.gg'de bot yada kullanıcı araması yaparsın",
+      "usage": "s.topgg bot <etiket | id>\ns.topgg kullanıcı <etiket | id>",
+      "aliases": [
+        "s.top.gg"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "wikipedia",
+      "description": "Wikipedia'da arama yaparsın",
+      "usage": "s.wikipedia <kelime>",
+      "aliases": [
+        "s.viki",
+        "s.vikipedi",
+        "s.vikipedia",
+        "s.wiki",
+        "s.wikipedia"
+      ],
+      "image": "https://i.imgur.com/gnPXQNX.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "youtube",
+      "description": "YouTube'da video araması yaparsın",
+      "usage": "s.youtube <video adı / video linki>",
+      "aliases": [
+        "s.yt",
+        "s.ytb"
+      ],
+      "image": "https://i.imgur.com/BEA2LA7.png",
+      "cooldown": "10 saniye"
+    }
+  ],
+  "Genel": [
+    {
+      "name": "avatar",
+      "description": "İstediğiniz kullanıcının avatarını gösterir",
+      "usage": "s.avatar [etiket | id]",
+      "aliases": [
+        "s.av",
+        "s.pf",
+        "s.pfp",
+        "s.pg",
+        "s.pp"
+      ],
+      "image": "https://i.imgur.com/tp6Wv23.gif",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "emojibilgi",
+      "description": "Sunucudaki emoji hakkında bilgi verir",
+      "usage": "s.emojibilgi <emoji | emoji ismi | emoji id>",
+      "aliases": [
+        "s.eb",
+        "s.emoji-bilgi",
+        "s.emoji-bilgisi",
+        "s.emojibilgisi"
+      ],
+      "image": "https://i.imgur.com/IC6B2KY.gif",
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "emojibüyüt",
+      "description": "Attığınız emojiyi büyütür",
+      "usage": "s.emojibüyüt <emoji>",
+      "aliases": [
+        "s.emoji-büyüt",
+        "s.jumbo"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "kanalbilgi",
+      "description": "Kanal hakkında bilgi verir",
+      "usage": "s.kanalbilgi [id | etiket | isim]",
+      "aliases": [
+        "s.kanal-bilgi",
+        "s.kanal-bilgisi",
+        "s.kanalb",
+        "s.kanalbilgisi"
+      ],
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "kullanıcıbilgi",
+      "description": "Etiketlediğiniz kullanıcı hakkında bilgi verir",
+      "usage": "s.kullanıcıbilgi [etiket]",
+      "aliases": [
+        "s.kb",
+        "s.kullanıcı-bilgi",
+        "s.kullanıcı-bilgisi",
+        "s.kullanıcıbilgisi",
+        "s.ui",
+        "s.user-info",
+        "s.userinfo"
+      ],
+      "image": "https://i.imgur.com/iE6BJ4P.png",
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "roller",
+      "description": "Sunucudaki tüm rolleri listeler",
+      "aliases": [
+        "s.rol-list",
+        "s.rol-listesi",
+        "s.roles",
+        "s.rollist",
+        "s.rollistesi"
+      ],
+      "cooldown": "15 saniye"
+    },
+    {
+      "name": "sunucubilgi",
+      "description": "Sunucu bilgilerini gösterir",
+      "aliases": [
+        "s.sb",
+        "s.sbilgi",
+        "s.sunucu-bilgi",
+        "s.sunucu-bilgisi",
+        "s.sunucubilgisi"
+      ],
+      "image": "https://i.imgur.com/nQIVVjE.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "sunucuikon",
+      "description": "Sunucunun ikonunu atar",
+      "aliases": [
+        "s.server-icon",
+        "s.servericon",
+        "s.si",
+        "s.sunucu-ikon"
+      ],
+      "image": "https://i.imgur.com/jXbA8bz.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "yaz",
+      "description": "Yazdığın metini bota yazdırır",
+      "usage": "s.yaz <metin>",
+      "aliases": [
+        "s.say",
+        "s.yazdır"
+      ],
+      "image": "https://i.imgur.com/5Ogu0UD.gif",
+      "cooldown": "1 saniye"
+    },
+    {
+      "name": "yetkiler",
+      "description": "Bir kullanıcının sunucudaki yetkilerine bakarsın",
+      "usage": "s.yetkiler [etiket]",
+      "aliases": [
+        "s.yetkilerim"
+      ],
+      "image": "https://i.imgur.com/GodbZtq.png",
+      "cooldown": "5 saniye"
+    }
+  ],
+  "Eğlence": [
+    {
+      "name": "8ball",
+      "description": "Bota soru sorarsın",
+      "usage": "s.8ball <soru>",
+      "aliases": [
+        "s.8-ball",
+        "s.8top"
+      ],
+      "image": "https://i.imgur.com/DOMHzes.png"
+    },
+    {
+      "name": "akinatör",
+      "description": "Akinatör oynarsın",
+      "aliases": [
+        "s.aki",
+        "s.akinator"
+      ]
+    },
+    {
+      "name": "ascii",
+      "description": "Yazdığın metini ascii formatına dönüştürür",
+      "usage": "s.ascii <metin>",
+      "image": "https://i.imgur.com/MmxEcpz.gif",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "asciiart",
+      "description": "Resimleri ascii formatına dönüştürür",
+      "usage": "s.asciiart [etiket | resim linki]",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "düello",
+      "description": "Etiketlediğin kişiyle duello yaparsın",
+      "usage": "s.duello <etiket>",
+      "aliases": [
+        "s.1v1",
+        "s.1vs1",
+        "s.duello",
+        "s.vs"
+      ],
+      "image": "https://i.imgur.com/IdbCMJF.gif",
+      "cooldown": " saniye"
+    },
+    {
+      "name": "emojiyaz",
+      "description": "Yazdığın metini emojili hale getirir",
+      "usage": "s.emojiyaz <metin>",
+      "aliases": [
+        "s.emoji-yaz",
+        "s.emoji-yazı",
+        "s.emojiyazı"
+      ],
+      "image": "https://i.imgur.com/vJ1a8Pr.png",
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "fakeyaz",
+      "description": "Etiketlediğin kişiye sahte yazı yazdırırsın",
+      "usage": "s.fakeyaz <dark | amoled | light | transparan> <etiket> <metin>",
+      "aliases": [
+        "s.fake-yaz",
+        "s.fy",
+        "s.resimli-yaz",
+        "s.resimliyaz",
+        "s.ry"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "masa-fırlat",
+      "description": "(╯°□°)╯ ┬─┬",
+      "aliases": [
+        "s.masafırlat"
+      ],
+      "image": "https://i.imgur.com/ZwEA0EX.gif",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "mayıntarlası",
+      "description": "Mayın tarlası oynarsın",
+      "usage": "s.mayın-tarlası [satır] [sütun] [mayın]",
+      "aliases": [
+        "s.mayın-tarlası",
+        "s.mt"
+      ],
+      "image": "https://i.imgur.com/KmdG9gV.gif",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "owoify",
+      "description": "OwO Budanediw x3",
+      "usage": "s.owoify <metin>",
+      "aliases": [
+        "s.owo",
+        "s.uwu",
+        "s.uwuify"
+      ],
+      "image": "https://i.imgur.com/rIWOxI2.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "rus-ruleti",
+      "description": "Rus ruleti oynarsın",
+      "aliases": [
+        "s.rr",
+        "s.rusruleti"
+      ],
+      "image": "https://i.imgur.com/elzLEOa.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "yazıdöndür",
+      "description": "Yazdığın yazıyı ters çevirir",
+      "usage": "s.yazıdöndür <metin>",
+      "aliases": [
+        "s.yazı-döndür",
+        "s.yazı-çevir",
+        "s.yazıçevir"
+      ],
+      "image": "https://i.imgur.com/ZttCPfb.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "yazıtura",
+      "description": "Japon parası ile yazı tura atarsın",
+      "aliases": [
+        "s.yazı-tura"
+      ],
+      "image": "https://i.imgur.com/L8KmbUa.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "zar",
+      "description": "Zar atarsın",
+      "aliases": [
+        "s.dice"
+      ],
+      "cooldown": "5 saniye"
+    }
+  ],
+  "Yetkili": [
+    {
+      "name": "ban",
+      "description": "Etiketlediğiniz kullanıcıyı sunucudan yasaklar",
+      "usage": "s.ban <etiket> <sebep>",
+      "aliases": [
+        "s.yasakla"
+      ],
+      "image": "https://i.imgur.com/iYGqPqv.png",
+      "cooldown": "2 saniye"
+    },
+    {
+      "name": "emoji",
+      "description": "Emoji ekler, düzenler ve silersin",
+      "usage": "s.emoji ekle <emoji | emoji linki | dosya> [emoji ismi]\ns.emoji sil <emoji | emoji ismi>\ns.emoji düzenle <emoji | emoji ismi> <yeni isim>",
+      "aliases": [
+        "s.emote"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "forceban",
+      "description": "ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar",
+      "usage": "s.forceban <kullanıcı ID> [sebep]",
+      "aliases": [
+        "s.fb",
+        "s.fban",
+        "s.force-ban"
+      ],
+      "image": "https://i.imgur.com/pRk8lEu.jpg",
+      "cooldown": "2 saniye"
+    },
+    {
+      "name": "kick",
+      "description": "Etiketlediğiniz kullanıcıyı sunucudan atar",
+      "usage": "s.kick <etiket> <sebep>",
+      "aliases": [
+        "s.at"
+      ],
+      "image": "https://i.imgur.com/RQtaieN.png",
+      "cooldown": "2 saniye"
+    },
+    {
+      "name": "log",
+      "description": "Sunucuda yapılan işlemlerin logunu kanala atar",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "nuke",
+      "description": "Etiketlenen kanalı silip yeniden oluşturur",
+      "usage": "s.nuke\ns.nuke <kanal ismi | etiket>",
+      "image": "https://i.imgur.com/ahZ1Sjt.gif",
+      "cooldown": " saniye"
+    },
+    {
+      "name": "otorol",
+      "description": "Sunucuya giren bot ve üyelere otomatik rol veren sistemdir",
+      "aliases": [
+        "s.oto-rol",
+        "s.otomatik-rol",
+        "s.otomatikrol"
+      ],
+      "cooldown": "2 saniye"
+    },
+    {
+      "name": "pin",
+      "description": "ID'sini attığınız mesajı sabitler",
+      "usage": "s.pin <mesaj ID>",
+      "aliases": [
+        "s.sabitle"
+      ]
+    },
+    {
+      "name": "sil",
+      "description": "Belirlediğin miktarda mesajı siler max 100 min 1",
+      "usage": "s.sil <mesaj sayısı>",
+      "aliases": [
+        "s.clear",
+        "s.delete",
+        "s.prune",
+        "s.purge",
+        "s.temizle"
+      ],
+      "image": "https://i.imgur.com/aG97qdD.gif",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "unban",
+      "description": "ID'sini attığınız kullanıcının yasağını kaldırır",
+      "usage": "s.unban <id> [sebep]",
+      "aliases": [
+        "s.ban-kaldır",
+        "s.bankaldır",
+        "s.ub"
+      ],
+      "image": "https://i.imgur.com/vENj4Zg.png"
+    },
+    {
+      "name": "unpin",
+      "description": "ID'sini attığınız mesajın sabitlenmesini kaldırır",
+      "usage": "s.unpin <mesaj ID>",
+      "aliases": [
+        "s.sabitlemeyi-kaldır",
+        "s.sabitlemeyikaldır",
+        "s.unp"
+      ],
+      "image": "https://i.imgur.com/w6AEHlo.gif"
+    },
+    {
+      "name": "çıkartma",
+      "description": "Çıkartma ekler, düzenler ve silersin",
+      "usage": "s.çıkartma ekle <çıkartma linki | dosya> [çıkartma ismi]\ns.çıkartma sil <çıkartma ismi>\ns.çıkartma düzenle <çıkartma ismi> <yeni isim>",
+      "aliases": [
+        "s.cıkartma",
+        "s.sticker"
+      ]
+    }
+  ],
+  "Manipülasyon": [
+    {
+      "name": "blur",
+      "description": "Resime bulanıklık efekti ekler",
+      "usage": "s.blur [etiket|emoji] [blur seviyesi min 1 max 100]",
+      "aliases": [
+        "s.bulanık"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "blurple",
+      "description": "Resime blurple efekti ekler",
+      "usage": "s.blurple [etiket|emoji]",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "gay",
+      "description": "Resime gay efekti ekler",
+      "usage": "s.gay [etiket|emoji]",
+      "aliases": [
+        "s.lgbt"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "glitch",
+      "description": "Resime glitch efekti ekler",
+      "usage": "s.glitch [etiket|emoji]",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "greyple",
+      "description": "Resime greyple efekti ekler",
+      "usage": "s.greyple [etiket|emoji]",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "greyscale",
+      "description": "Resime greyscale efekti ekler",
+      "usage": "s.greyscale [etiket|emoji]",
+      "aliases": [
+        "s.grey",
+        "s.gri"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "headpat",
+      "description": "Headpat meme'i oluşturur",
+      "usage": "s.headpat [etiket|emoji]",
+      "aliases": [
+        "s.head-pat",
+        "s.hp",
+        "s.petpat",
+        "s.petpet"
+      ],
+      "image": "https://i.imgur.com/DVCMWvZ.gif",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "invert",
+      "description": "Resimdeki renkleri ters çevirir",
+      "usage": "s.invert [etiket|emoji]",
+      "aliases": [
+        "s.ters-renk",
+        "s.tersrenk"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "keskinlik",
+      "description": "Resime keskinlik efekti ekler",
+      "usage": "s.keskinlik [etiket|emoji]",
+      "aliases": [
+        "s.sharp",
+        "s.sharpen"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "magik",
+      "description": "Resime magik efekti ekler",
+      "usage": "s.magik [etiket|emoji]",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "pixelize",
+      "description": "Resime pixel efekti ekler",
+      "usage": "s.pixelize [etiket|emoji] [pixel seviyesi min 1 max 50]",
+      "aliases": [
+        "s.pixel"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "posterize",
+      "description": "Resime posterize efekti ekler",
+      "usage": "s.posterize [etiket|emoji] [posterize seviyesi min 1 max 100]",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "redple",
+      "description": "Resime redple efekti ekler",
+      "usage": "s.redple [etiket|emoji]",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "sepya",
+      "description": "Resime sepya efekti ekler",
+      "usage": "s.sepya [etiket|emoji]",
+      "aliases": [
+        "s.sepia",
+        "s.sepıa"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "stickbug",
+      "description": "Stickbug meme'i oluşturur",
+      "usage": "s.stickbug [etiket|emoji]",
+      "aliases": [
+        "s.stick-bug",
+        "s.stickb"
+      ],
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "trigger",
+      "description": "Resime trigger efekti ekler",
+      "usage": "s.trigger [etiket|emoji]",
+      "aliases": [
+        "s.triggered"
+      ],
+      "cooldown": "10 saniye"
+    }
+  ],
+  "Reaksiyon": [
+    {
+      "name": "ağla",
+      "description": "Ağlarsın",
+      "aliases": [
+        "s.cry"
+      ],
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "aşağıla",
+      "description": "Etiketlediğin kişiyi aşağılarsın",
+      "usage": "s.aşağıla <etiket>",
+      "aliases": [
+        "s.smug"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "danset",
+      "description": "Dans edersin",
+      "usage": "s.danset [etiket]",
+      "aliases": [
+        "s.dance",
+        "s.dans",
+        "s.dans-et"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "dürt",
+      "description": "Etiketlediğin kişiyi dürtersin",
+      "usage": "s.dürt <kullanıcı etiket>",
+      "aliases": [
+        "s.durt",
+        "s.poke"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "elsalla",
+      "description": "El sallarsın",
+      "usage": "s.elsalla [etiket]",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "gözkırp",
+      "description": "Göz kırparsın",
+      "usage": "s.gözkırp [etiket]",
+      "aliases": [
+        "s.wink"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "gülümse",
+      "description": "Gülümsersin",
+      "usage": "s.gülümse [etiket]",
+      "aliases": [
+        "s.gül",
+        "s.smile"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "napim",
+      "description": "Laf koyarsın(!)",
+      "usage": "s.napim [etiket]",
+      "aliases": [
+        "s.nabim"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "ohaçet",
+      "description": "ses kanalında oa çet dersin",
+      "aliases": [
+        "s.oa",
+        " s.oaçet"
+      ],
+      "image": "https://i.imgur.com/3tVmJ8b.gif",
+      "cooldown": "10 saniye"
+    },
+    {
+      "name": "okşa",
+      "description": "Etiketlediğin kişiyi okşarsın",
+      "usage": "s.okşa <kullanıcı etiket>",
+      "aliases": [
+        "s.pat"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "sarıl",
+      "description": "Etiketlediğin kişiye sarılırsın",
+      "usage": "s.sarıl <etiket>",
+      "aliases": [
+        "s.hug"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "tokatla",
+      "description": "Etiketlediğin kişiyi tokatlarsın",
+      "usage": "s.tokatla <etiket>",
+      "aliases": [
+        "s.slap",
+        "s.tokat"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "utan",
+      "description": "Utanırsın",
+      "aliases": [
+        "s.blush",
+        "s.shy"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "yumrukla",
+      "description": "Etiketlediğin kişiye yumruk atarsın",
+      "usage": "s.yumrukat <etiket>",
+      "aliases": [
+        "s.punch",
+        "s.yumruk",
+        "s.yumruk-at",
+        "s.yumrukat"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "öp",
+      "description": "Etiketlediğin kişiyi öpersin",
+      "usage": "s.öp <etiket>",
+      "aliases": [
+        "s.kiss"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "ısır",
+      "description": "Etiketlediğin kişiyi ısırırsın",
+      "usage": "s.ısır <etiket>",
+      "aliases": [
+        "s.bite"
+      ],
+      "cooldown": "5 saniye"
+    }
+  ],
+  "Diğer": [
+    {
+      "name": "base64",
+      "description": "Yazınızı base64 formatına dönüştürür/okutur",
+      "usage": "s.base64 oluştur <metin>\ns.base64 çöz <base64 metin>",
+      "aliases": [
+        "s.b64"
+      ],
+      "image": "https://i.imgur.com/G9tMkSr.png"
+    },
+    {
+      "name": "kod",
+      "description": "681 farklı programa dilinde yazdığınız kodu çalıştırır",
+      "usage": "s.kod diller\ns.kod yürüt <dil ismi> <kod>",
+      "aliases": [
+        "s.code"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "discordstatü",
+      "description": "Discord'un durumunu gösterir",
+      "aliases": [
+        "s.discord-statu",
+        "s.discord-statü",
+        "s.ds",
+        "s.dstatu",
+        "s.dstatü"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "ekrangörüntüsü",
+      "description": "URL'si yazılan sitenin ekran görüntüsünü atar",
+      "usage": "s.ekrangörüntüsü <url>",
+      "aliases": [
+        "s.ekran-görüntüsü",
+        "s.sc",
+        "s.screen-shot",
+        "s.screenshot",
+        "s.ss"
+      ],
+      "image": "https://i.imgur.com/5LpTcrz.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "hesapla",
+      "description": "Matematiksel işlemleri yaparsın",
+      "usage": "s.hesapla <işlem>",
+      "aliases": [
+        "s.hesap",
+        "s.mat",
+        "s.matematik"
+      ],
+      "image": "https://i.imgur.com/BsBRVY9.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "karakter-sayacı",
+      "description": "Yazılan metindeki toplam karakter sayısını hesaplar",
+      "usage": "s.karakter-sayacı <metin>",
+      "aliases": [
+        "s.karakter-sayısı",
+        "s.karaktersayacı",
+        "s.karaktersayısı"
+      ],
+      "image": "https://i.imgur.com/vv2iEAh.png",
+      "cooldown": "2 saniye"
+    },
+    {
+      "name": "palet",
+      "description": "Resimdeki renk paletini gösterir",
+      "usage": "s.palet [etiket | resim linki | resim dosyası]",
+      "aliases": [
+        "s.gradient",
+        "s.gradyan",
+        "s.palette"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "qr",
+      "description": "Yazınızı qr koduna dönüştürür/okutur",
+      "usage": "s.qr oluştur <metin>\ns.qr okut <resim linki>",
+      "aliases": [
+        "s.kare-kod",
+        "s.karekod",
+        "s.qr-code",
+        "s.qr-kod",
+        "s.qrcode",
+        "s.qrkod"
+      ],
+      "image": "https://i.imgur.com/VOV8E3w.png",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "snowflake",
+      "description": "Girdiğin discord snowflake'i hakkında bilgi verir",
+      "usage": "s.snowflake <snowflake id>",
+      "aliases": [
+        "s.kartanesi"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "texttospeech",
+      "description": "Yazınızı sese dönüştürür",
+      "usage": "s.texttospeech <metin>",
+      "aliases": [
+        "s.tts"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "tpdne",
+      "description": "Yapay zeka tarafından oluşturulan insan fotoğrafları atar",
+      "aliases": [
+        "s.thispersondoesnotexist"
+      ],
+      "cooldown": "3 saniye"
+    },
+    {
+      "name": "virustotal",
+      "description": "Girilen URL'ye güvenlik taraması yapar",
+      "usage": "s.virustotal <url>",
+      "aliases": [
+        "s.virus-total",
+        "s.vt"
+      ],
+      "cooldown": "15 saniye"
     }
   ]
 }
