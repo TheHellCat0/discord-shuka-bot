@@ -1263,6 +1263,7 @@
       "aliases": [
         "s.b64"
       ],
+      "cooldown": "5 saniye",
       "image": "https://i.imgur.com/G9tMkSr.png"
     },
     {
