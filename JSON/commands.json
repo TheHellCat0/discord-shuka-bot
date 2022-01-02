@@ -852,10 +852,11 @@
   "Yetkili": [
     {
       "name": "ban",
-      "description": "Etiketlediğiniz kullanıcıyı sunucudan yasaklar",
-      "usage": "s.ban <etiket> <sebep>",
+      "description": "Sunucudan olan ve olmayan kullanıcıları yasaklamanızı sağlar",
+      "usage": "s.ban <etiket / id> <sebep> [--temizle]",
       "aliases": [
-        "s.yasakla"
+        "s.yasakla",
+        "s.forceban"
       ],
       "image": "https://i.imgur.com/iYGqPqv.png",
       "cooldown": "2 saniye"
@@ -868,18 +869,6 @@
         "s.emote"
       ],
       "cooldown": "5 saniye"
-    },
-    {
-      "name": "forceban",
-      "description": "ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar",
-      "usage": "s.forceban <kullanıcı ID> [sebep]",
-      "aliases": [
-        "s.fb",
-        "s.fban",
-        "s.force-ban"
-      ],
-      "image": "https://i.imgur.com/pRk8lEu.jpg",
-      "cooldown": "2 saniye"
     },
     {
       "name": "kick",
