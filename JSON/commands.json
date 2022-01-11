@@ -476,6 +476,15 @@
       "description": "Girilen ip adresi hakkında bilgi verir",
       "usage": "s.ip <ip adresi>"
     },
+
+    {
+      "name": "jisho",
+      "description": "Japon sözlüğünde arama yapmanız sağlar",
+      "usage": "s.jisho <kelime>",
+      "cooldown": "5 saniye"
+    },
+
+
     {
       "name": "lyrics",
       "description": "ismini yazdığınız şarkının sözlerini aratır",
