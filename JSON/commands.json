@@ -476,15 +476,12 @@
       "description": "Girilen ip adresi hakkında bilgi verir",
       "usage": "s.ip <ip adresi>"
     },
-
     {
       "name": "jisho",
       "description": "Japon sözlüğünde arama yapmanız sağlar",
       "usage": "s.jisho <kelime>",
       "cooldown": "5 saniye"
     },
-
-
     {
       "name": "lyrics",
       "description": "ismini yazdığınız şarkının sözlerini aratır",
@@ -982,6 +979,16 @@
       "cooldown": "5 saniye"
     },
     {
+      "name": "colorize",
+      "description": "Siyah beyaz fotoğrafları renklendirir",
+      "usage": "s.colorize [fotoğraf | etiket | emoji | url]",
+      "aliases": [
+        "s.renklendir"
+      ],
+      "image": "https://i.imgur.com/vzQfOtJh.jpg",
+      "cooldown": "5 saniye"
+    },
+    {
       "name": "gay",
       "description": "Resime gay efekti ekler",
       "usage": "s.gay [etiket|emoji]",
@@ -1093,6 +1100,12 @@
       "cooldown": "10 saniye"
     },
     {
+      "name": "toonify",
+      "description": "Yüz fotoğrafını çizgi film karakterine dönüştürür",
+      "usage": "s.toonify [fotoğraf | etiket | emoji | url]",
+      "cooldown": "5 saniye"
+    },
+    {
       "name": "trigger",
       "description": "Resime trigger efekti ekler",
       "usage": "s.trigger [etiket|emoji]",
@@ -1100,6 +1113,15 @@
         "s.triggered"
       ],
       "cooldown": "10 saniye"
+    },
+    {
+      "name": "waifu2x",
+      "description": "Fotoğraflarınızın çözünürlüğünü arttırır",
+      "usage": "s.waifu2x [fotoğraf | etiket | emoji | url]",
+      "aliases": [
+        "s.w2"
+      ],
+      "cooldown": "5 saniye"
     }
   ],
   "Reaksiyon": [
