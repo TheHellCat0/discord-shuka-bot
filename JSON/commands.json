@@ -667,6 +667,14 @@
       "cooldown": "15 saniye"
     },
     {
+      "name": "snipe",
+      "description": "Son silinen mesajları gösterir.",
+      "usage": "s.snipe [id | etiket | isim]",
+      "aliases": [
+        "s.sn"
+      ]
+    },
+    {
       "name": "sunucubilgi",
       "description": "Sunucu bilgilerini gösterir",
       "aliases": [
@@ -856,6 +864,19 @@
     }
   ],
   "Yetkili": [
+    {
+      "name": "antinudity",
+      "description": "Çıplaklık içeriği engelleme sistemi",
+      "usage": "Sistemi Açma\ns.antinudity ayarla [kanal ismi |kanal etiket | kanal ID]\nAyarlanmış Sistemi Kapatma/Açma\ns.antinudity <kapat | aç>\nAyarlanmış Kanalı Değiştirme\ns.antinudity kanal-değiştir [kanal ismi | kanal etiket | kanal ID]\nSistemi Sıfırlama\ns.antinudity sıfırla\nSistem Ayarlarını Görüntüleme\ns.antinudity ayarlar\nBeyazListe Üyeleri ekleme/kaldırma\ns.antinudity beyazliste <ekle | kaldır> <kullanıcı etiket | kullanıcı ID>",
+      "aliases": [
+        "s.anti-nsfw",
+        "s.anti-nude",
+        "s.anti-nudiy",
+        "s.antinsfw",
+        "s.antinude"
+      ],
+      "cooldown": "3 saniye"
+    },
     {
       "name": "ban",
       "description": "Sunucudan olan ve olmayan kullanıcıları yasaklamanızı sağlar",
