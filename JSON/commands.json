@@ -1309,7 +1309,7 @@
     },
     {
       "name": "kod",
-      "description": "681 farklı programa dilinde yazdığınız kodu çalıştırır",
+      "description": "681 farklı programlama dilinde yazdığınız kodu çalıştırır",
       "usage": "s.kod diller\ns.kod yürüt <dil ismi> <kod>",
       "aliases": [
         "s.code"
@@ -1326,6 +1326,7 @@
         "s.dstatu",
         "s.dstatü"
       ],
+      "image" : "https://i.imgur.com/yNmXzr4.jpg", 
       "cooldown": "5 saniye"
     },
     {
