@@ -833,7 +833,15 @@
       "image": "https://i.imgur.com/elzLEOa.png",
       "cooldown": "5 saniye"
     },
-  
+    {
+      "name": "unixporn",
+      "description": "r/unixporn subredditinden rastgele resim atar.",
+      "aliases": [
+        "s.unx"
+      ],
+      "image": "https://i.imgur.com/MMgZYpkh.jpg",
+      "cooldown": "5 saniye"
+    },
     {
       "name": "yazıdöndür",
       "description": "Yazdığın yazıyı ters çevirir",
