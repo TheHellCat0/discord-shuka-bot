@@ -1318,11 +1318,12 @@
     },
     {
       "name": "kod",
-      "description": "681 farklı programa dilinde yazdığınız kodu çalıştırır",
+      "description": "681 farklı programlama dilinde yazdığınız kodu çalıştırır",
       "usage": "s.kod diller\ns.kod yürüt <dil ismi> <kod>",
       "aliases": [
         "s.code"
       ],
+      "image" : "https://i.imgur.com/L63ikJA.jpg", 
       "cooldown": "5 saniye"
     },
     {
@@ -1335,6 +1336,7 @@
         "s.dstatu",
         "s.dstatü"
       ],
+      "image" : "https://i.imgur.com/yNmXzr4.jpg", 
       "cooldown": "5 saniye"
     },
     {
@@ -1438,4 +1440,8 @@
       "cooldown": " 15 saniye"
     }
   ]
+<<<<<<< HEAD
 } 
+=======
+}
+>>>>>>> 9f5917386e3e0f0ea2a15df94f80fb49f5579ebd
