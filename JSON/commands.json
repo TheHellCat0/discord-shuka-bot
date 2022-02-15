@@ -496,6 +496,21 @@
       "cooldown": "5 saniye"
     },
     {
+      "name": "mdn",
+      "description": "Mozila dökümanında arama yaparsın",
+      "usage": "s.mdn <dökğman adı>",
+      "cooldown": "5 saniye"
+    },
+    {
+      "name": "minecraft",
+      "description": "Minecraft Oyuncu ve Sunucu bilgilerini gösterir",
+      "usage": "s.minecraft <oyuncu> <oyuncu adı | UUID>\ns.minecraft <sunucu> <sunucu ip>",
+      "aliases": [
+        "s.mc"
+      ],
+      "cooldown": "5 saniye"
+    },
+    {
       "name": "npm",
       "description": "npmjs.com'da modül araması yaparsın",
       "usage": "s.npm <modül adı>",
