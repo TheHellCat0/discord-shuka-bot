@@ -498,7 +498,7 @@
     {
       "name": "mdn",
       "description": "Mozila dökümanında arama yaparsın",
-      "usage": "s.mdn <dökğman adı>",
+      "usage": "s.mdn <döküman adı>",
       "cooldown": "5 saniye"
     },
     {
