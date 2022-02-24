@@ -771,15 +771,13 @@
     {
       "name": "düello",
       "description": "Etiketlediğin kişiyle duello yaparsın",
-      "usage": "s.duello <etiket>",
+      "usage": "s.düello <etiket>",
       "aliases": [
         "s.1v1",
         "s.1vs1",
         "s.duello",
         "s.vs"
-      ],
-      "image": "https://i.imgur.com/IdbCMJF.gif",
-      "cooldown": " saniye"
+      ]
     },
     {
       "name": "emojiyaz",
