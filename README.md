@@ -39,8 +39,10 @@ E-posta : hellcat855@gmail.com
   <img src="https://discordapp.com/api/guilds/521354221338099736/embed.png?style=banner1" alt="">
  </a>
  
-  <a href="https://top.gg/bot/669179772575940629">D.B.L.</a>
+  <a href="https://top.gg/bot/669179772575940629">Top.gg</a>
   •
-  <a href="http://bit.ly/shuka-vote">Oy Ver</a>
+  <a href="http://bit.ly/shuka-vote">Oy Linki</a>
   •
   <a href="https://bit.ly/2yr0Mkl">Davet Linki</a>
+  •
+  <a href="https://shuka.vercel.app/komutlar">Komut Listesi</a>
