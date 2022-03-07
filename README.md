@@ -24,6 +24,7 @@ E-posta : hellcat855@gmail.com
   <a href="https://discord.gg/ZwZHgsrApM" target="_blank">
   <img src="https://discordapp.com/api/guilds/521354221338099736/embed.png?style=shield" alt="">
 </a>
+
 [![license](https://img.shields.io/github/license/TheHellCat0/discord-shuka-bot?style=flat-square)](https://github.com/TheHellCat0/discord-shuka-bot/blob/master/LICENSE) 
 [![<3 ile yapıldı](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://bit.ly/2yr0Mkl) 
 [![Versiyon](https://img.shields.io/github/package-json/v/TheHellCat0/discord-shuka-bot?color=ff7700&logo=Shuka&style=for-the-badge)](https://github.com/TheHellCat0/discord-shuka-bot/blob/master/package.json)
