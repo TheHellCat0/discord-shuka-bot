@@ -91,6 +91,16 @@
       "cooldown": "5 saniye"
     },
     {
+      "name": "tos",
+      "description": "Kullanım şartlarının linkini atar",
+      "aliases": [
+        "s.kullanımşartlari",
+        "s.kullanım-şartlari",
+        "s.termsofservice"
+      ], 
+       "cooldown" : "5 saniye" 
+    },
+    {
       "name": "yardım",
       "description": "Ana yardım menüsünü gösterir",
       "usage": "s.yardım [komut ismi]",
