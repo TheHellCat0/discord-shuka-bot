@@ -849,7 +849,7 @@
 {
       "name": "tictactoe",
       "description": "TicTacToe oynarsın",
-      "usage" : "s.tictactoe <etiket>" 
+      "usage" : "s.tictactoe <etiket>", 
       "aliases": [
         "s.xox",
         "ttt"
