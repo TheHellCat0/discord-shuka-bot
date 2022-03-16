@@ -846,9 +846,18 @@
       "image": "https://i.imgur.com/elzLEOa.png",
       "cooldown": "5 saniye"
     },
-    {
+{
+      "name": "tictactoe",
+      "description": "TicTacToe oynarsın",
+      "usage" : "s.tictactoe <etiket>" 
+      "aliases": [
+        "s.xox",
+        "ttt"
+      ]
+},
+ {
       "name": "unixporn",
-      "description": "r/unixporn subredditinden rastgele resim atar.",
+      "description": "r/unixporn subredditinden rastgele resim atar",
       "aliases": [
         "s.unx"
       ],
