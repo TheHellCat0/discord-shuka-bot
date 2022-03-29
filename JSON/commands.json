@@ -6,7 +6,7 @@
       "aliases": [
         "s.bot-davet",
         "s.botdavet",
-        "s.ekle", 
+        "s.ekle",
         "s.inv",
         "s.invite",
         "s.s-davet",
@@ -97,8 +97,8 @@
         "s.kullanımşartlari",
         "s.kullanım-şartlari",
         "s.termsofservice"
-      ], 
-       "cooldown" : "5 saniye" 
+      ],
+      "cooldown": "5 saniye"
     },
     {
       "name": "yardım",
@@ -561,6 +561,12 @@
       "cooldown": "5 saniye"
     },
     {
+      "name": "scp",
+      "description": "Yadığın SCP hakkında bilgi verir",
+      "usage": "s.scp <scp numarası>",
+      "cooldown": "5 saniye"
+    },
+    {
       "name": "spotify",
       "description": "Spotify'da arama yaparsın",
       "usage": "s.spotify şarkı <şarkı adı>\ns.spotify albüm <albüm adı>\ns.spotify playlist <playlist adı>\ns.spotify profil <kullanıcı id>",
@@ -734,16 +740,6 @@
       ],
       "image": "https://i.imgur.com/5Ogu0UD.gif",
       "cooldown": "1 saniye"
-    },
-    {
-      "name": "yetkiler",
-      "description": "Bir kullanıcının sunucudaki yetkilerine bakarsın",
-      "usage": "s.yetkiler [etiket]",
-      "aliases": [
-        "s.yetkilerim"
-      ],
-      "image": "https://i.imgur.com/GodbZtq.png",
-      "cooldown": "5 saniye"
     }
   ],
   "Eğlence": [
@@ -856,16 +852,16 @@
       "image": "https://i.imgur.com/elzLEOa.png",
       "cooldown": "5 saniye"
     },
-{
+    {
       "name": "tictactoe",
       "description": "TicTacToe oynarsın",
-      "usage" : "s.tictactoe <etiket>", 
+      "usage": "s.tictactoe <etiket>",
       "aliases": [
         "s.xox",
         "ttt"
       ]
-},
- {
+    },
+    {
       "name": "unixporn",
       "description": "r/unixporn subredditinden rastgele resim atar",
       "aliases": [
@@ -1355,7 +1351,7 @@
       "aliases": [
         "s.code"
       ],
-      "image" : "https://i.imgur.com/L63ikJA.jpg", 
+      "image": "https://i.imgur.com/L63ikJA.jpg",
       "cooldown": "5 saniye"
     },
     {
@@ -1368,7 +1364,7 @@
         "s.dstatu",
         "s.dstatü"
       ],
-      "image" : "https://i.imgur.com/yNmXzr4.jpg", 
+      "image": "https://i.imgur.com/yNmXzr4.jpg",
       "cooldown": "5 saniye"
     },
     {
@@ -1470,6 +1466,6 @@
         "s.vt"
       ],
       "cooldown": "15 saniye"
-    }  
+    }
   ]
 } 
