@@ -1,10 +1,8 @@
 
 <div align="center"><img src ="https://i.imgur.com/Xz95pb2.png"></div>
 
-<h1 align="center">Shuka Bot</h1>
+<h1 align="center">Shuka</h1>
 
-
-<h4 align="center">Türkiyenin en iyi Anime botu</h4>
 
 Prefixler  
 
