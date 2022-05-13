@@ -4,15 +4,15 @@
 <h1 align="center">Shuka</h1>
 
 
-Prefixler  
+Prefix(ler)
 
 `s.,shuka,@Shuka#9890`
 
 Destek,İletişim 
 
 ```
-Discord : *HellCat#3440
-E-posta : hellcat855@gmail.com
+Discord : Hel.#3440
+E-posta : fr3my@proton.me
 ```
 ```
 < > : Gerekli
