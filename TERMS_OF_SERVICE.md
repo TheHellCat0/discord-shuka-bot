@@ -1,15 +1,15 @@
 <h1 align="center">Shuka Bot Kullanım Şartları</h1>
 
----
+<hr></hr>
 
 1. Komut spamı yapmak.
 2. Botu klonlamaya çalışmak.
 3. Bot hakkında söylenti çıkarmak.
 4. Hata veya Açıkları yapımcıya bildirmemek,kötüye kullanmak ve başka kullanıcılarla paylaşmak.
-5. Komut aracılığı ile nsfw,ırkçılık,homofobik,cinsiyetçilik,hakaret,küfür vb. gibi rahatsız edici içerik göndermek,teşvik etmek.
+5. Komut aracılığı ile nsfw,ırkçı,homofobik,cinsiyetçi,hakaret,küfür vb. gibi rahatsız edici içerik göndermek veya teşvik etmek.
 
-#### Yukarıdaki maddelerden birini ihlal etmeniz kara listeye alınmanıza neden olur.
+<hr></hr>
 
----
+<h3>Yukarıdaki maddelerden birini ihlal etmeniz kara listeye alınmanıza neden olur.</h3>
 
- **07.03.2022**
+<b>07.03.2022</b>
